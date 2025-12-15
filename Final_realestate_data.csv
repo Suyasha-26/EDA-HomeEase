@@ -1,0 +1,811 @@
+,City,Project Name,Property Type,Locality,BHK,Area_SqFt_Number,Area_per_SqFt_Price,Affordability,Price_in_Lakh,City_Project
+0,Pune,Dharmavat Sunder Sanskruti Phase 3,Apartment,Nanded,2,1300,8462,Highly Affordable,110,Pune - Dharmavat Sunder Sanskruti Phase 3
+1,Pune,Nanded City Asawari,Apartment,Nanded,2,872,9633,Highly Affordable,84,Pune - Nanded City Asawari
+2,Pune,Magnum lifestyle,Apartment,Dhanori,1,390,8974,Highly Affordable,35,Pune - Magnum lifestyle
+3,Pune,Somani Towers,Apartment,Punawale,2,626,9585,Highly Affordable,60,Pune - Somani Towers
+4,Pune,Mika Triton Residency,Apartment,Wadgaon Sheri,2,870,13218,Highly Affordable,115,Pune - Mika Triton Residency
+5,Pune,Kolte Patil Life Republic,Apartment,Hinjewadi,2,857,9860,Highly Affordable,84,Pune - Kolte Patil Life Republic
+6,Pune,Grande View 7 Phase 3,Apartment,Ambegaon Budruk,2,1000,8400,Highly Affordable,84,Pune - Grande View 7 Phase 3
+7,Pune,Bhandari 31 Palma Drive,Apartment,Wagholi,3,1090,11009,Highly Affordable,119,Pune - Bhandari 31 Palma Drive
+8,Pune,Minal CHS Erandwane,Apartment,Erandwane,3,1280,20312,Moderately Affordable,260,Pune - Minal CHS Erandwane
+9,Pune,Swastik Pride Homes,Apartment,Rahatani,2,707,11315,Highly Affordable,80,Pune - Swastik Pride Homes
+10,Pune,Shubhashree Apartmaent Akurdi,Apartment,Akurdi,2,850,8824,Highly Affordable,75,Pune - Shubhashree Apartmaent Akurdi
+11,Pune,Kolte Patil Cheryl,Apartment,Kharadi,2,890,13371,Highly Affordable,119,Pune - Kolte Patil Cheryl
+12,Pune,Lodha Massimo,Apartment,Baner,4,2056,24319,Moderately Affordable,500,Pune - Lodha Massimo
+13,Pune,Venkatesh Shakuntala,Apartment,Aundh,1,485,13402,Highly Affordable,65,Pune - Venkatesh Shakuntala
+14,Pune,Mittal Silver Crescent,Apartment,Kharadi,2,1080,7870,Highly Affordable,85,Pune - Mittal Silver Crescent
+15,Pune,BK Chavan Ramkrushna Park,Apartment,Dhayari,1,450,9713,Highly Affordable,43,Pune - BK Chavan Ramkrushna Park
+16,Pune,Grace Apartment Bavdhan,Apartment,Bavdhan,2,630,12381,Highly Affordable,78,Pune - Grace Apartment Bavdhan
+17,Pune,Alcon Silverleaf,Apartment,Mundhwa,2,975,9231,Highly Affordable,90,Pune - Alcon Silverleaf
+18,Pune,Ekta California,Apartment,Nibm Road,5,2800,9464,Moderately Affordable,265,Pune - Ekta California
+19,Pune,Little Earth Apartments,Apartment,Mamurdi,2,569,12599,Highly Affordable,71,Pune - Little Earth Apartments
+20,Pune,Expat Genesis,Apartment,Alandi Road,3,1441,8189,Highly Affordable,118,Pune - Expat Genesis
+21,Pune,Venkatesh Skylife,Apartment,Vadgaon Budruk,3,1220,15412,Highly Affordable,188,Pune - Venkatesh Skylife
+22,Pune,Goel Ganga Amber,Apartment,Tathawade,1,520,10000,Highly Affordable,52,Pune - Goel Ganga Amber
+23,Pune,Goel Ganga Orchard,Apartment,Mundhwa,2,1050,10952,Highly Affordable,115,Pune - Goel Ganga Orchard
+24,Pune,Goyal My Home Upper Kharadi,Apartment,Wagholi,3,1210,9091,Highly Affordable,110,Pune - Goyal My Home Upper Kharadi
+25,Pune,Lodha Bella Vita,Apartment,Nibm Road,2,814,11671,Highly Affordable,95,Pune - Lodha Bella Vita
+26,Pune,Safal Oneiro,Apartment,Wakad,2,900,10000,Highly Affordable,90,Pune - Safal Oneiro
+27,Pune,Skyi Songbirds,Apartment,Bhugaon,2,825,12121,Highly Affordable,100,Pune - Skyi Songbirds
+28,Pune,Ganga Legend,Apartment,Bavdhan,2,650,13077,Highly Affordable,85,Pune - Ganga Legend
+29,Pune,Paramount Eros Apartment,Apartment,Kondhwa Budruk,5,1157,7087,Highly Affordable,82,Pune - Paramount Eros Apartment
+30,Pune,Somani Dream Home,Apartment,Punawale,3,912,8553,Highly Affordable,78,Pune - Somani Dream Home
+31,Pune,West View Society,Apartment,Salisbury Park,4,1961,26007,Moderately Affordable,510,Pune - West View Society
+32,Pune,Mangalmurti Apartments,Apartment,Vishal Nagar,1,490,11020,Highly Affordable,54,Pune - Mangalmurti Apartments
+33,Pune,Shree Shankeshwar Sparsh,Builder Floor,Moshi,2,660,6667,Highly Affordable,44,Pune - Shree Shankeshwar Sparsh
+34,Pune,Gagan Ela,Apartment,Undri,2,736,9783,Highly Affordable,72,Pune - Gagan Ela
+35,Pune,Kalpataru Estate,Apartment,Pimple Gurav,2,1300,8846,Highly Affordable,115,Pune - Kalpataru Estate
+36,Pune,GK Rose County,Apartment,Pimple Saudagar,5,980,10204,Highly Affordable,100,Pune - GK Rose County
+37,Pune,Silver Paradise Pimple Gurav,Apartment,Pimple Gurav,2,744,12231,Highly Affordable,91,Pune - Silver Paradise Pimple Gurav
+38,Pune,Ganga Legend,Apartment,Bavdhan,2,840,9881,Highly Affordable,83,Pune - Ganga Legend
+39,Pune,Riviera Society,Apartment,Wanwadi,2,1300,5538,Highly Affordable,72,Pune - Riviera Society
+40,Pune,Goel Ganga Hamlet,Apartment,Viman Nagar,3,1600,11875,Highly Affordable,190,Pune - Goel Ganga Hamlet
+41,Pune,Karia Konark Orchid,Apartment,Wagholi,2,1045,8134,Highly Affordable,85,Pune - Karia Konark Orchid
+42,Pune,Nyati Era,Apartment,Dhanori,3,1175,10213,Highly Affordable,120,Pune - Nyati Era
+43,Pune,The Gen Meraki,Apartment,Pashan,2,916,15830,Highly Affordable,145,Pune - The Gen Meraki
+44,Pune,Bramhacorp The Collection,Apartment,Kalyani Nagar,3,1090,15138,Highly Affordable,165,Pune - Bramhacorp The Collection
+45,Pune,Pride Aashiyana,Apartment,Dhanori,3,979,10010,Highly Affordable,98,Pune - Pride Aashiyana
+46,Pune,VTP Belair,Apartment,Bhoirwadi,3,962,10395,Highly Affordable,100,Pune - VTP Belair
+47,Pune,Dugad Panache,Apartment,Kalyani Nagar,2,931,18797,Highly Affordable,175,Pune - Dugad Panache
+48,Pune,Magarpatta Nova Residency,Apartment,Mundhwa,5,960,10417,Highly Affordable,100,Pune - Magarpatta Nova Residency
+49,Pune,BD Blossom,Apartment,Baner,2,950,10000,Highly Affordable,95,Pune - BD Blossom
+50,Pune,Organic Dhanorina,Apartment,Dhanori,5,1140,6579,Highly Affordable,75,Pune - Organic Dhanorina
+51,Pune,Pristine Meadows,Apartment,Wagholi,2,1050,5429,Highly Affordable,57,Pune - Pristine Meadows
+52,Pune,SSD Sai Dreams,Apartment,Pimple Saudagar,5,1250,10240,Highly Affordable,128,Pune - SSD Sai Dreams
+53,Pune,Kumar Kunj,Apartment,Fatima Nagar,5,1420,6338,Highly Affordable,90,Pune - Kumar Kunj
+54,Pune,Pethkar Samrajya,Apartment,Kothrud,3,1500,18333,Moderately Affordable,275,Pune - Pethkar Samrajya
+55,Pune,Puranik Sayama,Apartment,Lonavala,3,1700,14706,Highly Affordable,250,Pune - Puranik Sayama
+56,Pune,Legacy Imperial,Apartment,Kiwale,2,639,13302,Highly Affordable,85,Pune - Legacy Imperial
+57,Pune,Amar Serenity,Apartment,Baner Pashan Link Road,4,2500,10400,Moderately Affordable,260,Pune - Amar Serenity
+58,Pune,Osian Almanova,Apartment,Mundhwa,3,1058,13233,Highly Affordable,140,Pune - Osian Almanova
+59,Pune,Mahindra Royale,Apartment,Pimpri,2,1200,12500,Highly Affordable,150,Pune - Mahindra Royale
+60,Pune,VTP Urban Soul,Apartment,Kharadi,2,750,11733,Highly Affordable,88,Pune - VTP Urban Soul
+61,Pune,Sankul Apartments,Apartment,Erandwane,3,1650,17576,Moderately Affordable,290,Pune - Sankul Apartments
+62,Pune,Gera Isle Royale,Apartment,Bavdhan,5,2075,14940,Moderately Affordable,310,Pune - Gera Isle Royale
+63,Pune,Tribute Ultima Grandeur,Apartment,Kondhwa Budruk,3,1315,12319,Highly Affordable,162,Pune - Tribute Ultima Grandeur
+64,Pune,Malpani Greens,Apartment,Wakad,2,1206,10365,Highly Affordable,125,Pune - Malpani Greens
+65,Pune,Vidya Kaka Homes,Apartment,Rahatani,5,595,10588,Highly Affordable,63,Pune - Vidya Kaka Homes
+66,Pune,Goel Ganga Constella,Apartment,Kharadi,2,775,11871,Highly Affordable,92,Pune - Goel Ganga Constella
+67,Pune,Lodha Palais,Apartment,Kothrud,4,2023,27187,Moderately Affordable,550,Pune - Lodha Palais
+68,Pune,Suvidha Ambar,Apartment,Narhe,1,550,6545,Highly Affordable,36,Pune - Suvidha Ambar
+69,Pune,Kolte Patil Life Republic,Apartment,Hinjewadi,2,801,9613,Highly Affordable,77,Pune - Kolte Patil Life Republic
+70,Pune,Pride Purple Park Astra,Apartment,Hinjewadi,3,722,25208,Highly Affordable,182,Pune - Pride Purple Park Astra
+71,Pune,Kohinoor Jeeva,Builder Floor,Bibwewadi,2,787,13850,Highly Affordable,109,Pune - Kohinoor Jeeva
+72,Pune,Jhamtani Ace Almighty Phase II,Apartment,Wakad,2,1050,7810,Highly Affordable,82,Pune - Jhamtani Ace Almighty Phase II
+73,Pune,Bramhacorp The Collection,Apartment,Kalyani Nagar,2,1105,11765,Highly Affordable,130,Pune - Bramhacorp The Collection
+74,Pune,Kumar Periwinkle,Apartment,Kharadi,2,779,11297,Highly Affordable,88,Pune - Kumar Periwinkle
+75,Pune,Mahaveer Park,Apartment,Kondhwa Budruk,2,1127,13310,Highly Affordable,150,Pune - Mahaveer Park
+76,Pune,Shivkailas Kute Fortune,Apartment,Dehu Road,2,805,7826,Highly Affordable,63,Pune - Shivkailas Kute Fortune
+77,Pune,DSK Meghmalhar Phase I,Apartment,Sinhagad Road,2,972,6636,Highly Affordable,64,Pune - DSK Meghmalhar Phase I
+78,Pune,Sukhwani Skylines,Apartment,Wakad,2,756,11905,Highly Affordable,90,Pune - Sukhwani Skylines
+79,Pune,SRK Platinum,Apartment,Wakad,2,792,10101,Highly Affordable,80,Pune - SRK Platinum
+80,Pune,Darode Jog Crossover County,Apartment,Sinhagad Road,2,1050,10476,Highly Affordable,110,Pune - Darode Jog Crossover County
+81,Pune,Vilas Javdekar Yashwin Royal,Apartment,Narhe,2,1008,6647,Highly Affordable,67,Pune - Vilas Javdekar Yashwin Royal
+82,Pune,Anuj Apartment Kothrud,Apartment,Kothrud,5,1030,15825,Highly Affordable,163,Pune - Anuj Apartment Kothrud
+83,Pune,Essen Aishwaryam Melody,Apartment,Pradhikaran,5,1200,7083,Highly Affordable,85,Pune - Essen Aishwaryam Melody
+84,Pune,Yashwin Hinjewadi,Apartment,Hinjewadi Phase 2,2,760,10658,Highly Affordable,81,Pune - Yashwin Hinjewadi
+85,Pune,Jalan Aura County Pune,Apartment,Wagholi,1,550,7818,Highly Affordable,43,Pune - Jalan Aura County Pune
+86,Pune,Primespace The Address,Apartment,Vinayak Nagar,3,1223,14718,Highly Affordable,180,Pune - Primespace The Address
+87,Pune,Goel Ganga Newtown Phase 2,Apartment,Madhav Nagar,5,865,9827,Highly Affordable,85,Pune - Goel Ganga Newtown Phase 2
+88,Pune,Balaji Mesmero,Apartment,Lohgaon,1,620,6452,Highly Affordable,40,Pune - Balaji Mesmero
+89,Pune,Purva Silversands,Apartment,Mundhwa,3,1057,12488,Highly Affordable,132,Pune - Purva Silversands
+90,Pune,Lohia Jain The Reserve,Apartment,Koregaon Park Annexe,3,1243,15286,Highly Affordable,190,Pune - Lohia Jain The Reserve
+91,Pune,Shiv Zen World,Apartment,Manjari,1,666,6006,Highly Affordable,40,Pune - Shiv Zen World
+92,Pune,Peninsula Address One,Apartment,Gahunje,1,395,8861,Highly Affordable,35,Pune - Peninsula Address One
+93,Pune,Guddwill Elate,Apartment,Undri,2,756,8214,Highly Affordable,62,Pune - Guddwill Elate
+94,Pune,Nirman Adi,Apartment,Kalyani Nagar,3,1200,17083,Highly Affordable,205,Pune - Nirman Adi
+95,Pune,Goel Ganga Platinum,Apartment,Kharadi,5,2600,10385,Moderately Affordable,270,Pune - Goel Ganga Platinum
+96,Pune,Auti Onkar Greens,Apartment,Sangavade,1,520,7776,Highly Affordable,40,Pune - Auti Onkar Greens
+97,Pune,Lunkad Greenland,Apartment,Viman Nagar,2,1456,17170,Highly Affordable,250,Pune - Lunkad Greenland
+98,Pune,Yash Classic,Penthouse,Pashan Sus Road,3,2197,11379,Highly Affordable,250,Pune - Yash Classic
+99,Pune,Sai Heritage Aundh,Apartment,Aundh,5,1515,14851,Highly Affordable,225,Pune - Sai Heritage Aundh
+100,Pune,Raja Pittie Kourtyard,Penthouse,Yashwant Nagar,5,5492,8462,Moderately Affordable,550,Pune - Raja Pittie Kourtyard
+101,Pune,Om Tropica,Apartment,Ravet,2,600,11667,Highly Affordable,70,Pune - Om Tropica
+102,Pune,Silver Queenstown,Apartment,Moshi,2,694,8069,Highly Affordable,56,Pune - Silver Queenstown
+103,Pune,Shree Sai Apartment Pimple Nilakh,Apartment,Pimple Nilakh,1,588,9524,Highly Affordable,56,Pune - Shree Sai Apartment Pimple Nilakh
+104,Pune,Mantra 29 Gold Coast,Apartment,Tingre Nagar,2,1100,7727,Highly Affordable,85,Pune - Mantra 29 Gold Coast
+105,Pune,Anandtara Iris Residences,Apartment,Mundhwa,2,850,10588,Highly Affordable,90,Pune - Anandtara Iris Residences
+106,Pune,Magarpatta Jasminium,Apartment,Hadapsar,2,1250,13600,Highly Affordable,170,Pune - Magarpatta Jasminium
+107,Pune,Koral Aeternaa,Apartment,Thergaon,3,1127,11979,Highly Affordable,135,Pune - Koral Aeternaa
+108,Pune,Radiant Paradise,Penthouse,Wanowrie,5,2400,7500,Highly Affordable,180,Pune - Radiant Paradise
+109,Pune,Kumar Samruddhi Society,Apartment,Vishrantwadi,2,1200,9167,Highly Affordable,110,Pune - Kumar Samruddhi Society
+110,Pune,Sky Heights II,Apartment,Pisoli,2,1000,4500,Highly Affordable,45,Pune - Sky Heights II
+111,Pune,Naiknavare Mystique Mood,Apartment,Viman Nagar,3,1831,9558,Highly Affordable,175,Pune - Naiknavare Mystique Mood
+112,Pune,Royal Orchard,Apartment,Aundh,2,1040,10577,Highly Affordable,110,Pune - Royal Orchard
+113,Pune,Lapis Lazuli Apartment,Apartment,Koregaon Park,5,2660,21053,Moderately Affordable,560,Pune - Lapis Lazuli Apartment
+114,Pune,Avnee Bellavista G Building,Apartment,Kondhwa,2,1000,12000,Highly Affordable,120,Pune - Avnee Bellavista G Building
+115,Pune,Saarrthi Success Square,Apartment,Kothrud,3,785,31847,Highly Affordable,250,Pune - Saarrthi Success Square
+116,Pune,Shapoorji Pallonji Kingstown,Apartment,Hadapsar,4,1908,12579,Highly Affordable,240,Pune - Shapoorji Pallonji Kingstown
+117,Pune,Raichandani Swarna Vatika,Apartment,Nibm Annexe,2,640,12500,Highly Affordable,80,Pune - Raichandani Swarna Vatika
+118,Pune,Peninsula Address One Phase 6,Apartment,Mamurdi,2,586,7679,Highly Affordable,45,Pune - Peninsula Address One Phase 6
+119,Pune,Omkar Meghdoot Residency,Apartment,Gultekdi,3,4300,12791,Moderately Affordable,550,Pune - Omkar Meghdoot Residency
+120,Pune,Kumar Primavera,Apartment,Wadgaon Sheri,2,1050,7905,Highly Affordable,83,Pune - Kumar Primavera
+121,Pune,Rohan 10 Kasturkunj,Apartment,Ashok Nagar,3,1750,16571,Moderately Affordable,290,Pune - Rohan 10 Kasturkunj
+122,Pune,Paranjape Schemes Blue Ridge,Apartment,Hinjewadi,2,1050,12762,Highly Affordable,134,Pune - Paranjape Schemes Blue Ridge
+123,Pune,Gagan Signet,Apartment,Gultekdi,2,903,13843,Highly Affordable,125,Pune - Gagan Signet
+124,Pune,Suyog Nisarg,Apartment,Wagholi,2,900,6667,Highly Affordable,60,Pune - Suyog Nisarg
+125,Pune,Jairaj Riddhi Siddhi Paradise,Builder Floor,Dhayari,1,627,6858,Highly Affordable,43,Pune - Jairaj Riddhi Siddhi Paradise
+126,Pune,Supreme Villagio,Villa,Somatane,4,3000,9000,Moderately Affordable,270,Pune - Supreme Villagio
+127,Pune,Teerth Avila,Apartment,Sus,2,950,10000,Highly Affordable,95,Pune - Teerth Avila
+128,Pune,Dugad Shriniwas Sankul,Apartment,Katraj,2,905,8287,Highly Affordable,75,Pune - Dugad Shriniwas Sankul
+129,Pune,Swastik Prism City Yellow,Builder Floor,Charholi Budruk,3,892,7651,Highly Affordable,68,Pune - Swastik Prism City Yellow
+130,Pune,Shalini Sky,Apartment,Shivajinagar,3,1600,18125,Moderately Affordable,290,Pune - Shalini Sky
+131,Pune,Dhavel Shivtirth,Apartment,Wagholi,2,936,5128,Highly Affordable,48,Pune - Dhavel Shivtirth
+132,Pune,Anand Vithoba,Apartment,Rasta Peth,1,441,7029,Highly Affordable,31,Pune - Anand Vithoba
+133,Pune,Paranjape Trident Towers,Apartment,Wakad,1,455,12198,Highly Affordable,55,Pune - Paranjape Trident Towers
+134,Pune,Bhoomi Orabelle,Apartment,Ravet,2,1070,7944,Highly Affordable,85,Pune - Bhoomi Orabelle
+135,Pune,Kolte Patil Life Republic,Apartment,Hinjewadi,2,801,9488,Highly Affordable,76,Pune - Kolte Patil Life Republic
+136,Pune,Pebbles I,Apartment,Bavdhan,2,1050,9048,Highly Affordable,95,Pune - Pebbles I
+137,Pune,Duville Riverdale,Apartment,Kharadi,1,465,12903,Highly Affordable,60,Pune - Duville Riverdale
+138,Pune,Pride Purple Park Astra,Apartment,Hinjewadi,3,900,13111,Highly Affordable,118,Pune - Pride Purple Park Astra
+139,Pune,Lodha Bella Vita,Apartment,Nibm Road,5,1100,12273,Highly Affordable,135,Pune - Lodha Bella Vita
+140,Mumbai,Kalpataru Amare,Apartment,Gulmohar Colony,3,1531,58785,Luxury,899,Mumbai - Kalpataru Amare
+141,Mumbai,Dignity Bayview,Apartment,Wadala West,2,704,39773,Moderately Affordable,280,Mumbai - Dignity Bayview
+142,Mumbai,Ekta Evaana,Apartment,Ambedkar Colony,3,1225,59063,Luxury,800,Mumbai - Ekta Evaana
+143,Mumbai,Sanghvi Infenia,Apartment,Santacruz East,2,727,38514,Moderately Affordable,280,Mumbai - Sanghvi Infenia
+144,Mumbai,Sheth Montana,Apartment,Mulund West,3,1108,32491,Moderately Affordable,360,Mumbai - Sheth Montana
+145,Mumbai,Sapphire Lakeside,Apartment,Powai,1,476,23109,Highly Affordable,110,Mumbai - Sapphire Lakeside
+146,Mumbai,Sapphire Lakeside,Apartment,Powai,1,550,19636,Highly Affordable,108,Mumbai - Sapphire Lakeside
+147,Mumbai,Rajhuns Apartment,Apartment,Khar West,2,800,56250,Moderately Affordable,450,Mumbai - Rajhuns Apartment
+148,Mumbai,Adani Ten BKC,Apartment,Bandra East,3,976,59063,Moderately Affordable,625,Mumbai - Adani Ten BKC
+149,Mumbai,Sukh Shanti CHS Cumbala Hill,Apartment,Peddar Road,2,1550,48387,Luxury,750,Mumbai - Sukh Shanti CHS Cumbala Hill
+150,Mumbai,Rustomjee Crown,Apartment,Prabhadevi,4,2230,59063,Luxury,1134,Mumbai - Rustomjee Crown
+151,Mumbai,Neelam Senroofs,Apartment,Nahur East,4,1250,32000,Moderately Affordable,400,Mumbai - Neelam Senroofs
+152,Mumbai,Raghav Marvel,Apartment,Kurla East,1,453,25386,Highly Affordable,115,Mumbai - Raghav Marvel
+153,Mumbai,Bharti Aarambh,Apartment,Chembur,2,653,27718,Highly Affordable,181,Mumbai - Bharti Aarambh
+154,Mumbai,Seven Bungalow,Apartment,Andheri West,2,855,30409,Moderately Affordable,260,Mumbai - Seven Bungalow
+155,Mumbai,Shree Krishna Heights Malad,Apartment,Malad East,2,710,28169,Highly Affordable,200,Mumbai - Shree Krishna Heights Malad
+156,Mumbai,Kanakia Hollywood,Apartment,Versova,2,704,41193,Moderately Affordable,290,Mumbai - Kanakia Hollywood
+157,Mumbai,Eco Nest Andheri East,Apartment,Andheri East,2,795,22767,Highly Affordable,181,Mumbai - Eco Nest Andheri East
+158,Mumbai,Lashkaria Pearl,Apartment,Jogeshwari West,1,351,31339,Highly Affordable,110,Mumbai - Lashkaria Pearl
+159,Mumbai,Gundecha Trillium,Apartment,Kandivali East,2,831,40915,Moderately Affordable,340,Mumbai - Gundecha Trillium
+160,Mumbai,Piramal Revanta,Apartment,Mulund West,3,1192,29279,Moderately Affordable,349,Mumbai - Piramal Revanta
+161,Mumbai,Goyal Green Woods,Apartment,Andheri East,1,475,36842,Highly Affordable,175,Mumbai - Goyal Green Woods
+162,Mumbai,Shree Ganesh CHS Charkop,Apartment,Charkop Sector 3,3,891,21437,Highly Affordable,191,Mumbai - Shree Ganesh CHS Charkop
+163,Mumbai,MJ Shah Centrio,Apartment,Govandi,2,925,24324,Highly Affordable,225,Mumbai - MJ Shah Centrio
+164,Mumbai,Kanakia Spaces Sevens,Apartment,Andheri East,2,852,24648,Highly Affordable,210,Mumbai - Kanakia Spaces Sevens
+165,Mumbai,Shanti Tower Prabhadevi,Apartment,Gokhale Road,1,385,40260,Highly Affordable,155,Mumbai - Shanti Tower Prabhadevi
+166,Mumbai,Sheth Avante,Apartment,Kanjurmarg West,1,449,24944,Highly Affordable,112,Mumbai - Sheth Avante
+167,Mumbai,Minal Apartments,Apartment,Andheri East,2,1100,21364,Highly Affordable,235,Mumbai - Minal Apartments
+168,Mumbai,New Mahada Colony,Apartment,Goregaon East,2,860,17442,Highly Affordable,150,Mumbai - New Mahada Colony
+169,Mumbai,Akshar Bhuvan Mandapeshwar,Apartment,Mandapeshwar,3,1150,23913,Moderately Affordable,275,Mumbai - Akshar Bhuvan Mandapeshwar
+170,Mumbai,Omkar Alta Monte,Apartment,Malad East,3,1820,20879,Moderately Affordable,380,Mumbai - Omkar Alta Monte
+171,Mumbai,Blackstone Maqba Heights,Apartment,Bandra West,2,800,50000,Moderately Affordable,400,Mumbai - Blackstone Maqba Heights
+172,Mumbai,Sandhya Eve Horizon,Apartment,Kandivali West,2,619,26656,Highly Affordable,165,Mumbai - Sandhya Eve Horizon
+173,Mumbai,Woodstock Gardens,Apartment,Santacruz West,2,696,59063,Moderately Affordable,431,Mumbai - Woodstock Gardens
+174,Mumbai,Pebbles Marina,Apartment,Santacruz West,2,785,57325,Moderately Affordable,450,Mumbai - Pebbles Marina
+175,Mumbai,DGS Sheetal Kiara,Apartment,Goregaon West,2,631,24564,Highly Affordable,155,Mumbai - DGS Sheetal Kiara
+176,Mumbai,Veena Synergy,Apartment,Andheri East,2,700,32514,Highly Affordable,227,Mumbai - Veena Synergy
+177,Mumbai,Godrej Platinum Mumbai,Apartment,Vikhroli East,3,1200,45833,Moderately Affordable,550,Mumbai - Godrej Platinum Mumbai
+178,Mumbai,Juhu Abhishek Chs Ltd,Apartment,Andheri West,1,620,29113,Highly Affordable,180,Mumbai - Juhu Abhishek Chs Ltd
+179,Mumbai,Supreme 19,Apartment,Lokhandwala,2,623,49759,Moderately Affordable,310,Mumbai - Supreme 19
+180,Mumbai,Dynamix Luma,Apartment,Andheri East,2,625,36800,Highly Affordable,230,Mumbai - Dynamix Luma
+181,Mumbai,Ajmera Zeon,Apartment,Bhakti Park,4,2456,39210,Luxury,963,Mumbai - Ajmera Zeon
+182,Mumbai,Parivar CHS Santacruz West,Apartment,Santacruz West,2,1000,31500,Moderately Affordable,315,Mumbai - Parivar CHS Santacruz West
+183,Mumbai,Ekta Tripolis,Apartment,Goregaon West,2,775,42581,Moderately Affordable,329,Mumbai - Ekta Tripolis
+184,Mumbai,Oberoi Realty Esquire,Apartment,Goregaon East,3,1366,51245,Moderately Affordable,700,Mumbai - Oberoi Realty Esquire
+185,Mumbai,Godrej Tranquil,Apartment,Kandivali East,1,428,23598,Highly Affordable,101,Mumbai - Godrej Tranquil
+186,Mumbai,Lodha Kiara,Apartment,Worli,2,932,59063,Moderately Affordable,650,Mumbai - Lodha Kiara
+187,Mumbai,Omkar Ananta,Apartment,Goregaon East,2,650,25385,Highly Affordable,165,Mumbai - Omkar Ananta
+188,Mumbai,Chandak Heritage,Apartment,Malad West,2,1030,17476,Highly Affordable,180,Mumbai - Chandak Heritage
+189,Mumbai,Olympia Tower,Apartment,Jacob Circle,1,473,33827,Highly Affordable,160,Mumbai - Olympia Tower
+190,Mumbai,N Rose Northern Hills,Apartment,Dahisar East,3,1101,31063,Moderately Affordable,342,Mumbai - N Rose Northern Hills
+191,Mumbai,Crest Oaks,Apartment,Marol,3,1200,26667,Moderately Affordable,320,Mumbai - Crest Oaks
+192,Mumbai,RNA NG Eclat,Apartment,Yamnuna Nagar,3,1118,53667,Moderately Affordable,600,Mumbai - RNA NG Eclat
+193,Mumbai,Marathon Montesouth 2,Apartment,Byculla West,3,1194,43970,Moderately Affordable,525,Mumbai - Marathon Montesouth 2
+194,Mumbai,Kaustubh Platinum,Apartment,Borivali East,2,780,31795,Highly Affordable,248,Mumbai - Kaustubh Platinum
+195,Mumbai,Runwal Greens Rosewood,Apartment,Mulund West,3,1424,22612,Moderately Affordable,322,Mumbai - Runwal Greens Rosewood
+196,Mumbai,The Wadhwa Atmosphere,Apartment,Mulund West,5,1100,22727,Highly Affordable,250,Mumbai - The Wadhwa Atmosphere
+197,Mumbai,Manohar Apartment,Apartment,Bandra West,2,867,59063,Moderately Affordable,550,Mumbai - Manohar Apartment
+198,Mumbai,DB Orchid Ozone,Apartment,Dahisar East,2,628,13057,Highly Affordable,82,Mumbai - DB Orchid Ozone
+199,Mumbai,DB Orchid Ozone,Apartment,Dahisar East,2,630,13016,Highly Affordable,82,Mumbai - DB Orchid Ozone
+200,Mumbai,Nahar Amrit Shakti,Apartment,Chandivali,3,1800,19389,Moderately Affordable,349,Mumbai - Nahar Amrit Shakti
+201,Mumbai,Ruparel Pristine,Apartment,Ghatkopar East,2,725,33103,Highly Affordable,240,Mumbai - Ruparel Pristine
+202,Mumbai,Lodha Kiara,Apartment,Kamala Mill,3,1315,59063,Luxury,780,Mumbai - Lodha Kiara
+203,Mumbai,Kanakia Spaces Zen World,Apartment,Kanjurmarg East,1,454,26652,Highly Affordable,121,Mumbai - Kanakia Spaces Zen World
+204,Mumbai,Sethia Imperial Avenue,Apartment,Malad East,2,568,31690,Highly Affordable,180,Mumbai - Sethia Imperial Avenue
+205,Mumbai,Tilak Nagar Building,Apartment,Tilak Nagar,5,480,21875,Highly Affordable,105,Mumbai - Tilak Nagar Building
+206,Mumbai,Pearl Heights,Apartment,Andheri West,2,1100,27273,Moderately Affordable,300,Mumbai - Pearl Heights
+207,Mumbai,Bianca Tower,Apartment,Andheri West,3,1300,44231,Moderately Affordable,575,Mumbai - Bianca Tower
+208,Mumbai,Adityaraj Square,Apartment,Vikhroli East,2,531,24482,Highly Affordable,130,Mumbai - Adityaraj Square
+209,Mumbai,Parinee Parmar 27Gbr,Apartment,Worli,2,626,14537,Highly Affordable,91,Mumbai - Parinee Parmar 27Gbr
+210,Mumbai,Bini Winspace Amelio,Apartment,Andheri West,2,713,36045,Moderately Affordable,257,Mumbai - Bini Winspace Amelio
+211,Mumbai,Marathon Mount Classic Apartment,Apartment,Mulund West,2,1135,18502,Highly Affordable,210,Mumbai - Marathon Mount Classic Apartment
+212,Mumbai,Bharat Auravistas,Apartment,Anand Nagar,3,1360,38235,Moderately Affordable,520,Mumbai - Bharat Auravistas
+213,Mumbai,Runwal Sanctuary,Apartment,Mulund West,2,768,27344,Highly Affordable,210,Mumbai - Runwal Sanctuary
+214,Mumbai,Bharat Auravistas,Apartment,Mhada Colony,3,1251,36771,Moderately Affordable,460,Mumbai - Bharat Auravistas
+215,Mumbai,Neelkanth Enclave Mumbai,Apartment,Ghatkopar West,2,805,35404,Moderately Affordable,285,Mumbai - Neelkanth Enclave Mumbai
+216,Mumbai,Paranjape Athena,Apartment,Bandra East,2,688,36337,Highly Affordable,250,Mumbai - Paranjape Athena
+217,Mumbai,Indiabulls Sky,Apartment,Lower Parel,4,4500,31111,Luxury,1134,Mumbai - Indiabulls Sky
+218,Mumbai,Bharat Primavistas,Apartment,Vile Parle West,5,2800,41000,Luxury,1134,Mumbai - Bharat Primavistas
+219,Mumbai,Verdent Boston Harbor,Apartment,Andheri West,2,784,29974,Highly Affordable,235,Mumbai - Verdent Boston Harbor
+220,Mumbai,Indumani Heights,Apartment,Matunga,2,805,54907,Moderately Affordable,442,Mumbai - Indumani Heights
+221,Mumbai,Kabra Metro One,Apartment,Andheri West,3,1119,42002,Moderately Affordable,470,Mumbai - Kabra Metro One
+222,Mumbai,111 Hyde Park,Apartment,Malad East,4,1820,37088,Moderately Affordable,675,Mumbai - 111 Hyde Park
+223,Mumbai,Raj Legacy I,Apartment,Vikhroli West,2,1090,17248,Highly Affordable,188,Mumbai - Raj Legacy I
+224,Mumbai,Elite The Crown,Apartment,Tilak Nagar,2,670,26866,Highly Affordable,180,Mumbai - Elite The Crown
+225,Mumbai,Sumer Valley,Apartment,Chandivali,3,1537,36435,Moderately Affordable,560,Mumbai - Sumer Valley
+226,Mumbai,Shree Krishna Devasya,Apartment,Chembur,2,750,36000,Moderately Affordable,270,Mumbai - Shree Krishna Devasya
+227,Mumbai,Vasukamal CHS,Apartment,Saki Vihar Road,3,1070,26636,Moderately Affordable,285,Mumbai - Vasukamal CHS
+228,Mumbai,Sangam Nero,Apartment,Bandra East,2,683,40264,Moderately Affordable,275,Mumbai - Sangam Nero
+229,Mumbai,Vinayak CHS Bandra East,Apartment,Bandra East,2,800,55000,Moderately Affordable,440,Mumbai - Vinayak CHS Bandra East
+230,Mumbai,Sugee Atharva,Apartment,Prabhadevi,5,470,50000,Highly Affordable,235,Mumbai - Sugee Atharva
+231,Mumbai,Yukti Anchor Point Oasis,Apartment,Malad West,3,980,29490,Moderately Affordable,289,Mumbai - Yukti Anchor Point Oasis
+232,Mumbai,Unity Wadala CHS,Apartment,Antop Hill,1,700,23571,Highly Affordable,165,Mumbai - Unity Wadala CHS
+233,Mumbai,Kings Anand Dham,Apartment,Nahur East,2,585,20513,Highly Affordable,120,Mumbai - Kings Anand Dham
+234,Mumbai,Dev Leo Tower,Apartment,Oshiwara,2,670,36567,Highly Affordable,245,Mumbai - Dev Leo Tower
+235,Mumbai,Platinum Life,Apartment,Andheri West,3,900,53667,Moderately Affordable,483,Mumbai - Platinum Life
+236,Mumbai,Platinum Life,Apartment,Andheri West,2,665,39850,Moderately Affordable,265,Mumbai - Platinum Life
+237,Mumbai,Lodha Trump Tower,Apartment,Worli,5,3378,59063,Luxury,1134,Mumbai - Lodha Trump Tower
+238,Mumbai,Piramal Revanta,Apartment,Mulund West,2,660,31061,Highly Affordable,205,Mumbai - Piramal Revanta
+239,Mumbai,IM Applaud 38,Apartment,Goregaon East,2,750,28000,Highly Affordable,210,Mumbai - IM Applaud 38
+240,Mumbai,DB Woods,Apartment,Goregaon East,5,980,45918,Moderately Affordable,449,Mumbai - DB Woods
+241,Mumbai,Runwal Bliss,Apartment,Kanjurmarg East,2,813,28905,Highly Affordable,235,Mumbai - Runwal Bliss
+242,Mumbai,Lakshachandi Apartments,Apartment,Gokuldham Colony,3,1200,30417,Moderately Affordable,365,Mumbai - Lakshachandi Apartments
+243,Mumbai,Dheeraj Enclave,Apartment,Borivali East,2,860,21279,Highly Affordable,183,Mumbai - Dheeraj Enclave
+244,Mumbai,Kanakia Spaces Zen World,Apartment,Kanjurmarg East,2,732,32240,Highly Affordable,236,Mumbai - Kanakia Spaces Zen World
+245,Mumbai,Ajmera I Land Aeon,Apartment,Bharatiya Kamala Nagar,4,1616,54146,Luxury,875,Mumbai - Ajmera I Land Aeon
+246,Mumbai,N Rose Northern Hills,Apartment,Dahisar East,3,1260,29841,Moderately Affordable,376,Mumbai - N Rose Northern Hills
+247,Mumbai,Hiranandani Gardens Glen Ridge,Apartment,Powai,4,2200,59063,Luxury,1134,Mumbai - Hiranandani Gardens Glen Ridge
+248,Mumbai,Princecare Amaraa,Apartment,Matunga East,3,999,50951,Moderately Affordable,509,Mumbai - Princecare Amaraa
+249,Mumbai,DGS Sheetal Anupam,Apartment,Malad West,3,671,28316,Highly Affordable,190,Mumbai - DGS Sheetal Anupam
+250,Mumbai,Kalpataru Crest,Apartment,Bhandup West,2,813,26445,Highly Affordable,215,Mumbai - Kalpataru Crest
+251,Mumbai,K Raheja Residency,Apartment,Borivali East,3,1430,23776,Moderately Affordable,340,Mumbai - K Raheja Residency
+252,Mumbai,Oberoi Sky City,Apartment,Borivali East,3,1500,33333,Moderately Affordable,500,Mumbai - Oberoi Sky City
+253,Mumbai,RNA Regency Park,Apartment,Kandivali West,2,1040,28846,Moderately Affordable,300,Mumbai - RNA Regency Park
+254,Mumbai,Indiabulls Blu,Apartment,Worli,3,1734,57670,Luxury,1000,Mumbai - Indiabulls Blu
+255,Mumbai,Kanakia Levels,Apartment,Malad East,2,747,48193,Moderately Affordable,360,Mumbai - Kanakia Levels
+256,Mumbai,DB Realty Orchid Ozone,Apartment,Ketkipada,1,425,12000,Highly Affordable,51,Mumbai - DB Realty Orchid Ozone
+257,Mumbai,Oberoi Realty Splendor,Apartment,Andheri East,5,889,53431,Moderately Affordable,475,Mumbai - Oberoi Realty Splendor
+258,Mumbai,Kalpataru Aura,Apartment,Ghatkopar West,5,958,36326,Moderately Affordable,348,Mumbai - Kalpataru Aura
+259,Mumbai,Triumph Tower,Apartment,Malad West,3,1125,31111,Moderately Affordable,350,Mumbai - Triumph Tower
+260,Mumbai,Ekdant Society Andheri,Apartment,Andheri West,3,1250,30000,Moderately Affordable,375,Mumbai - Ekdant Society Andheri
+261,Mumbai,Videocon Towers B CHS LTD,Apartment,Kandivali East,2,1175,17872,Highly Affordable,210,Mumbai - Videocon Towers B CHS LTD
+262,Mumbai,Lalani Velentine Apartment VI,Apartment,Riddhi Gardens,2,710,24648,Highly Affordable,175,Mumbai - Lalani Velentine Apartment VI
+263,Mumbai,Sheth Vasant Oasis,Apartment,Andheri East,2,1000,27000,Moderately Affordable,270,Mumbai - Sheth Vasant Oasis
+264,Mumbai,Sobhaniye Riddhi Siddhi Apartment,Apartment,Matunga East,4,1450,48276,Moderately Affordable,700,Mumbai - Sobhaniye Riddhi Siddhi Apartment
+265,Mumbai,Royal Palms Ruby Isle Apartment,Apartment,Goregaon East,3,1278,8607,Highly Affordable,110,Mumbai - Royal Palms Ruby Isle Apartment
+266,Mumbai,Gokuldham CHS Goregaon,Apartment,Goregaon East,5,1400,35000,Moderately Affordable,490,Mumbai - Gokuldham CHS Goregaon
+267,Mumbai,Fortune Heights Santacruz,Apartment,Santacruz East,2,830,25301,Highly Affordable,210,Mumbai - Fortune Heights Santacruz
+268,Mumbai,Dem Icon,Apartment,Charkop Sector 2,2,684,23538,Highly Affordable,161,Mumbai - Dem Icon
+269,Mumbai,Shree Darshan,Apartment,Azad Nagar,2,550,30000,Highly Affordable,165,Mumbai - Shree Darshan
+270,Mumbai,Omkar Veda Exclusive,Apartment,Parel,3,1588,32746,Moderately Affordable,520,Mumbai - Omkar Veda Exclusive
+271,Mumbai,Promesa Fremont,Builder Floor,Parel,2,702,42023,Moderately Affordable,295,Mumbai - Promesa Fremont
+272,Mumbai,Vision Heights,Apartment,Khan Estate,5,597,26801,Highly Affordable,160,Mumbai - Vision Heights
+273,Bangalore,Brigade Buena Vista,Apartment,Budigere,2,1148,12892,Highly Affordable,148,Bangalore - Brigade Buena Vista
+274,Bangalore,Richmond Premier,Penthouse,Richmond Road,3,3818,19644,Luxury,750,Bangalore - Richmond Premier
+275,Bangalore,Bearys Anugraha,Independent House,Lingarajapuram,6,5492,9167,Moderately Affordable,550,Bangalore - Bearys Anugraha
+276,Bangalore,ELV Blossom,Apartment,Whitefield,2,1100,24091,Moderately Affordable,265,Bangalore - ELV Blossom
+277,Bangalore,Prestige Falcon City,Apartment,Konanakunte,3,1591,19799,Moderately Affordable,315,Bangalore - Prestige Falcon City
+278,Bangalore,Sattva Anugraha CHS,Apartment,Vijayanagar,3,1483,12138,Highly Affordable,180,Bangalore - Sattva Anugraha CHS
+279,Bangalore,Gopalan Olympia,Apartment,Kumbalgodu,3,1360,11029,Highly Affordable,150,Bangalore - Gopalan Olympia
+280,Bangalore,Prestige Lakeside Habitat,Apartment,Varthur,5,2280,15789,Moderately Affordable,360,Bangalore - Prestige Lakeside Habitat
+281,Bangalore,Shriram Suhaana,Apartment,Yelahanka,2,1305,9962,Highly Affordable,130,Bangalore - Shriram Suhaana
+282,Bangalore,Nandanam Paradise,Apartment,Horamavu,2,1296,6173,Highly Affordable,80,Bangalore - Nandanam Paradise
+283,Bangalore,Hoysala Commanders Galleria I,Apartment,Kodigehalli,3,1755,7692,Highly Affordable,135,Bangalore - Hoysala Commanders Galleria I
+284,Bangalore,Prestige Ferns Residency,Apartment,Harlur,4,2569,19074,Moderately Affordable,490,Bangalore - Prestige Ferns Residency
+285,Bangalore,HM Winchester,Apartment,Rest House Road,2,1500,16667,Highly Affordable,250,Bangalore - HM Winchester
+286,Bangalore,Adarsh Greens,Apartment,Kogilu,2,985,10355,Highly Affordable,102,Bangalore - Adarsh Greens
+287,Bangalore,Prestige Shantiniketan,Apartment,Whitefield,2,1418,17278,Highly Affordable,245,Bangalore - Prestige Shantiniketan
+288,Bangalore,Vanshika Natures Harmony,Apartment,Talaghattapura,3,1506,9695,Highly Affordable,146,Bangalore - Vanshika Natures Harmony
+289,Bangalore,Prestige Park View,Apartment,Whitefield Road,3,2200,15455,Moderately Affordable,340,Bangalore - Prestige Park View
+290,Bangalore,Brigade Cornerstone Utopia,Apartment,Varthur,2,1097,14859,Highly Affordable,163,Bangalore - Brigade Cornerstone Utopia
+291,Bangalore,Yuva Blue Meadows,Apartment,Varthur,3,1594,9724,Highly Affordable,155,Bangalore - Yuva Blue Meadows
+292,Bangalore,Godrej Ananda,Apartment,Bagaluru,3,1588,11902,Highly Affordable,189,Bangalore - Godrej Ananda
+293,Bangalore,Karle Zenith,Apartment,Hebbal,3,2322,16839,Moderately Affordable,391,Bangalore - Karle Zenith
+294,Bangalore,SJR Blue Waters,Apartment,Off Sarjapur Road,2,1170,13504,Highly Affordable,158,Bangalore - SJR Blue Waters
+295,Bangalore,Brigade Cornerstone Utopia,Apartment,Varthur,3,1656,15097,Highly Affordable,250,Bangalore - Brigade Cornerstone Utopia
+296,Bangalore,Prestige Sunrise Park,Apartment,Electronic City Phase I,2,1121,11597,Highly Affordable,130,Bangalore - Prestige Sunrise Park
+297,Bangalore,Paranjape Wind Fields,Apartment,Kempapura,3,1834,13631,Highly Affordable,250,Bangalore - Paranjape Wind Fields
+298,Bangalore,Ajmera Green Acres,Apartment,Kalena Agrahara,3,1565,9585,Highly Affordable,150,Bangalore - Ajmera Green Acres
+299,Bangalore,Alembic Cloud Forest,Apartment,Kadugodi,2,1275,14902,Highly Affordable,190,Bangalore - Alembic Cloud Forest
+300,Bangalore,Harsha Gateway,Builder Floor,Kadugodi,2,1205,2905,Highly Affordable,35,Bangalore - Harsha Gateway
+301,Bangalore,Prestige Jindal City,Apartment,Bagalakunte,1,607,14003,Highly Affordable,85,Bangalore - Prestige Jindal City
+302,Bangalore,SJR Luxuria,Apartment,Arekere,3,1675,12537,Highly Affordable,210,Bangalore - SJR Luxuria
+303,Bangalore,Prestige Ferns Residency,Apartment,Harlur,5,2240,19196,Moderately Affordable,430,Bangalore - Prestige Ferns Residency
+304,Bangalore,SKC Wilson Vintage,Apartment,Wilson Garden,5,3500,10000,Moderately Affordable,350,Bangalore - SKC Wilson Vintage
+305,Bangalore,Brigade Avalon,Apartment,Whitefield,4,3862,16080,Moderately Affordable,621,Bangalore - Brigade Avalon
+306,Bangalore,Myhna Maple,Apartment,Varthur,2,1200,11500,Highly Affordable,138,Bangalore - Myhna Maple
+307,Bangalore,Premier Augusta,Apartment,Maruthi Sevanagar,3,1635,10703,Highly Affordable,175,Bangalore - Premier Augusta
+308,Bangalore,Prestige Elysian,Apartment,Bannerghatta Road,3,1810,16022,Moderately Affordable,290,Bangalore - Prestige Elysian
+309,Bangalore,Brigade Cornerstone Utopia,Apartment,Varthur,2,1259,13979,Highly Affordable,176,Bangalore - Brigade Cornerstone Utopia
+310,Bangalore,Mantri Serenity,Apartment,Kanakapura Road,2,1330,11278,Highly Affordable,150,Bangalore - Mantri Serenity
+311,Bangalore,Sobha Madison Heights Town Park,Apartment,Hosur Road,3,1514,30515,Moderately Affordable,462,Bangalore - Sobha Madison Heights Town Park
+312,Bangalore,Brigade Laguna,Apartment,Hebbal,3,1888,17744,Moderately Affordable,335,Bangalore - Brigade Laguna
+313,Bangalore,Shriram Sameeksha,Apartment,Jalahalli,3,1300,9077,Highly Affordable,118,Bangalore - Shriram Sameeksha
+314,Bangalore,Abhee Aaria,Apartment,S Medihalli,2,1300,10231,Highly Affordable,133,Bangalore - Abhee Aaria
+315,Bangalore,Goyal and Co Alanoville,Villa,Hennur,4,3450,13768,Moderately Affordable,475,Bangalore - Goyal and Co Alanoville
+316,Bangalore,Shapoorji Pallonji Park West,Apartment,Binnipete,3,1755,15100,Moderately Affordable,265,Bangalore - Shapoorji Pallonji Park West
+317,Bangalore,Brigade Exotica,Apartment,Old Madras Road,3,2990,16054,Moderately Affordable,480,Bangalore - Brigade Exotica
+318,Bangalore,Mana Placido,Apartment,Whitefield,3,1714,10210,Highly Affordable,175,Bangalore - Mana Placido
+319,Bangalore,Pearl City,Apartment,Sarjapur Road,2,1500,6667,Highly Affordable,100,Bangalore - Pearl City
+320,Bangalore,Prasiddhi Park Vista,Independent House,Rajanukunte,4,3500,7143,Highly Affordable,250,Bangalore - Prasiddhi Park Vista
+321,Bangalore,Sowparnika Olivia Nest,Apartment,Sarjapur,3,1130,7522,Highly Affordable,85,Bangalore - Sowparnika Olivia Nest
+322,Bangalore,Sobha Dream Acres,Apartment,Panathur,1,656,12500,Highly Affordable,82,Bangalore - Sobha Dream Acres
+323,Bangalore,Indra Keerthi Sadan,Apartment,Kadugodi,2,1310,7023,Highly Affordable,92,Bangalore - Indra Keerthi Sadan
+324,Bangalore,Sri Balaji Nivas,Apartment,Arekere,3,1594,8156,Highly Affordable,130,Bangalore - Sri Balaji Nivas
+325,Bangalore,Prestige Acropolis,Apartment,Kadugodi,3,2993,18376,Moderately Affordable,550,Bangalore - Prestige Acropolis
+326,Bangalore,Sai Chethana,Apartment,Hulimavu,2,1140,8596,Highly Affordable,98,Bangalore - Sai Chethana
+327,Bangalore,Godrej Park Retreat,Apartment,Sarjapur Road,2,987,10638,Highly Affordable,105,Bangalore - Godrej Park Retreat
+328,Bangalore,Brigade Palace,Apartment,Palace Road,3,2200,12273,Moderately Affordable,270,Bangalore - Brigade Palace
+329,Bangalore,Citrus IN 38,Apartment,Indiranagar,3,1850,20811,Moderately Affordable,385,Bangalore - Citrus IN 38
+330,Bangalore,DSR Waterscape,Apartment,K Channasandra,3,1620,9877,Highly Affordable,160,Bangalore - DSR Waterscape
+331,Bangalore,Casagrand Boulevard,Apartment,Hennur Road,2,1227,9128,Highly Affordable,112,Bangalore - Casagrand Boulevard
+332,Bangalore,Mahaveer Rich,Apartment,Jalahalli West,3,1300,6515,Highly Affordable,84,Bangalore - Mahaveer Rich
+333,Bangalore,Sobha Valley View,Apartment,Banashankari,2,1304,15337,Highly Affordable,200,Bangalore - Sobha Valley View
+334,Bangalore,Ozone Urbana Aqua,Apartment,Devanahalli,3,1160,5776,Highly Affordable,67,Bangalore - Ozone Urbana Aqua
+335,Bangalore,Windsor Heritage,Apartment,Hulimavu,3,1649,5458,Highly Affordable,90,Bangalore - Windsor Heritage
+336,Bangalore,DSR Elite,Villa,Mahadevpura,4,3600,22917,Luxury,825,Bangalore - DSR Elite
+337,Bangalore,NBR Soul Of The Seasons,Apartment,Mullur,3,1446,8990,Highly Affordable,130,Bangalore - NBR Soul Of The Seasons
+338,Bangalore,SNN Raj Etternia,Apartment,Rajvi Nagar,3,1810,17680,Moderately Affordable,320,Bangalore - SNN Raj Etternia
+339,Bangalore,VRR Fortuna,Apartment,Sarjapur Road,2,1315,12928,Highly Affordable,170,Bangalore - VRR Fortuna
+340,Bangalore,Tata Raagam,Apartment,Devanahalli,3,1500,10000,Highly Affordable,150,Bangalore - Tata Raagam
+341,Bangalore,Prestige Finsbury Park Hyde,Apartment,Bagaluru,3,1224,11601,Highly Affordable,142,Bangalore - Prestige Finsbury Park Hyde
+342,Bangalore,Pavani Mirabilia,Apartment,Whitefield,2,1135,10573,Highly Affordable,120,Bangalore - Pavani Mirabilia
+343,Bangalore,Prestige Ferns Residency,Apartment,Harlur,3,1749,19154,Moderately Affordable,335,Bangalore - Prestige Ferns Residency
+344,Bangalore,Mittal Elanza,Apartment,Yelahanka,5,1905,11024,Highly Affordable,210,Bangalore - Mittal Elanza
+345,Bangalore,Ananda Valmark,Apartment,Bannerghatta Road,3,1533,9654,Highly Affordable,148,Bangalore - Ananda Valmark
+346,Bangalore,Adarsh Crystal,Apartment,Cambridge Layout,4,3500,20000,Moderately Affordable,700,Bangalore - Adarsh Crystal
+347,Bangalore,Sobha Brooklyn Towers Town Park,Apartment,Hosur Road,2,833,13205,Highly Affordable,110,Bangalore - Sobha Brooklyn Towers Town Park
+348,Bangalore,SBR Keerthi Prime,Apartment,Old Madras Road,2,1185,12996,Highly Affordable,154,Bangalore - SBR Keerthi Prime
+349,Bangalore,Puravankara Purva Heights,Apartment,Bilekahalli,3,2962,9115,Moderately Affordable,270,Bangalore - Puravankara Purva Heights
+350,Bangalore,Hiranandani Kingston,Apartment,Akshayanagar,5,1476,15583,Highly Affordable,230,Bangalore - Hiranandani Kingston
+351,Bangalore,Prestige Lake Ridge,Apartment,Uttarahalli,3,1367,14265,Highly Affordable,195,Bangalore - Prestige Lake Ridge
+352,Bangalore,Richmond Towers,Apartment,Richmond Town,3,2585,14703,Moderately Affordable,380,Bangalore - Richmond Towers
+353,Bangalore,SNN Raj GreenBay,Apartment,Electronic City Phase ii,2,1205,13278,Highly Affordable,160,Bangalore - SNN Raj GreenBay
+354,Bangalore,Salarpuria Sattva East Crest,Apartment,Old Madras Road,3,1409,11072,Highly Affordable,156,Bangalore - Salarpuria Sattva East Crest
+355,Bangalore,Shriram Solitaire,Apartment,Yelahanka New Town,3,1920,7812,Highly Affordable,150,Bangalore - Shriram Solitaire
+356,Bangalore,Sowparnika Sanvi Phase 2,Apartment,Chansandra,2,1227,6927,Highly Affordable,85,Bangalore - Sowparnika Sanvi Phase 2
+357,Bangalore,Casagrand Boulevard,Apartment,Hennur Road,4,2181,9629,Highly Affordable,210,Bangalore - Casagrand Boulevard
+358,Bangalore,Olety Landmark,Apartment,Basaveshwara Nagar,3,1800,15556,Moderately Affordable,280,Bangalore - Olety Landmark
+359,Bangalore,Abhee Prakruthi Villa,Villa,Chandapura,3,1200,13548,Highly Affordable,162,Bangalore - Abhee Prakruthi Villa
+360,Bangalore,Vanshika Natures Harmony,Apartment,Talaghattapura,5,1836,8529,Highly Affordable,156,Bangalore - Vanshika Natures Harmony
+361,Bangalore,Magnolia Delight,Apartment,Rt Nagar,3,2668,13118,Moderately Affordable,350,Bangalore - Magnolia Delight
+362,Bangalore,DRA Queens Corner,Penthouse,Shivaji Nagar,1,650,8462,Highly Affordable,55,Bangalore - DRA Queens Corner
+363,Bangalore,Prestige Primrose Hills,Apartment,Banashankari 6th Stage,2,988,12146,Highly Affordable,120,Bangalore - Prestige Primrose Hills
+364,Bangalore,SB Urban Park,Apartment,Rachenahalli,3,1955,12020,Highly Affordable,235,Bangalore - SB Urban Park
+365,Hyderabad,Poulomi 90,Apartment,Kokapet,3,2820,12954,Moderately Affordable,365,Hyderabad - Poulomi 90
+366,Hyderabad,NCC Urban One,Apartment,Narsingi,4,2630,11065,Moderately Affordable,291,Hyderabad - NCC Urban One
+367,Hyderabad,Sri Krishna Krishe Valley,Apartment,Banjara Hills,3,2900,13793,Moderately Affordable,400,Hyderabad - Sri Krishna Krishe Valley
+368,Hyderabad,Anvita Ivana,Apartment,Kollur,3,1785,6667,Highly Affordable,119,Hyderabad - Anvita Ivana
+369,Hyderabad,Rajapushpa Sierra,Apartment,Tellapur,3,1665,6001,Highly Affordable,99,Hyderabad - Rajapushpa Sierra
+370,Hyderabad,Hallmark Treasor,Apartment,Narsingi,3,1765,10482,Highly Affordable,185,Hyderabad - Hallmark Treasor
+371,Hyderabad,My Home Navadweepa,Apartment,Madhapur,5,4160,11538,Moderately Affordable,480,Hyderabad - My Home Navadweepa
+372,Hyderabad,Lansum EL Palacio,Apartment,Puppalaguda,3,2055,7600,Highly Affordable,156,Hyderabad - Lansum EL Palacio
+373,Hyderabad,Gem Nakshatra,Apartment,Kokapet,3,1820,12912,Highly Affordable,235,Hyderabad - Gem Nakshatra
+374,Hyderabad,Alekhya Jasmine,Apartment,Madhapur,3,2280,11842,Moderately Affordable,270,Hyderabad - Alekhya Jasmine
+375,Hyderabad,SRR Sriram River View,Apartment,Narsingi,4,2985,9499,Moderately Affordable,283,Hyderabad - SRR Sriram River View
+376,Hyderabad,Trendset Winz,Apartment,Nanakramguda,3,3015,11609,Moderately Affordable,350,Hyderabad - Trendset Winz
+377,Hyderabad,Lansum EL Palacio,Apartment,Puppalaguda,3,2095,7999,Highly Affordable,167,Hyderabad - Lansum EL Palacio
+378,Hyderabad,SAS Crown,Apartment,Kokapet,4,5492,14754,Luxury,1134,Hyderabad - SAS Crown
+379,Hyderabad,Rajapushpa Sierra,Apartment,Tellapur,3,2555,7162,Highly Affordable,183,Hyderabad - Rajapushpa Sierra
+380,Hyderabad,Aparna Zenon,Apartment,Puppalaguda,2,1326,11689,Highly Affordable,155,Hyderabad - Aparna Zenon
+381,Hyderabad,Hirel Plaza Apartment,Apartment,Gundlapochampalli,2,840,3333,Highly Affordable,28,Hyderabad - Hirel Plaza Apartment
+382,Hyderabad,Honer Vivantis,Apartment,Gopanpally,3,1565,11502,Highly Affordable,180,Hyderabad - Honer Vivantis
+383,Hyderabad,Aliens Space Station,Apartment,Tellapur,5,2208,9058,Highly Affordable,200,Hyderabad - Aliens Space Station
+384,Hyderabad,Candeur 40,Apartment,Miyapur,2,1215,9547,Highly Affordable,116,Hyderabad - Candeur 40
+385,Hyderabad,Raheja Vistas,Apartment,Nacharam,5,1440,8681,Highly Affordable,125,Hyderabad - Raheja Vistas
+386,Hyderabad,Reliance Green Village,Villa,Shankarpalli,4,5492,13694,Luxury,800,Hyderabad - Reliance Green Village
+387,Hyderabad,Prestige Tranquil,Apartment,Kokapet,5,2049,12689,Moderately Affordable,260,Hyderabad - Prestige Tranquil
+388,Hyderabad,Aparna Sarovar Zicon,Apartment,Nallagandla,3,1530,13072,Highly Affordable,200,Hyderabad - Aparna Sarovar Zicon
+389,Hyderabad,Beyond Deccan,Apartment,S D Road,2,1150,8261,Highly Affordable,95,Hyderabad - Beyond Deccan
+390,Hyderabad,Manjeera Diamond Towers,Apartment,Gopanpally,3,1680,8333,Highly Affordable,140,Hyderabad - Manjeera Diamond Towers
+391,Hyderabad,Rajapushpa Provincia,Apartment,Narsingi,3,2660,12030,Moderately Affordable,320,Hyderabad - Rajapushpa Provincia
+392,Hyderabad,Sri Mahalakshmi Residency,Apartment,Upparpalli,4,1921,5726,Highly Affordable,110,Hyderabad - Sri Mahalakshmi Residency
+393,Hyderabad,Avantika The Espino,Apartment,Chanda Nagar,2,1300,8846,Highly Affordable,115,Hyderabad - Avantika The Espino
+394,Hyderabad,Urvija Heights,Apartment,Bandlaguda Jagir,3,1505,6000,Highly Affordable,90,Hyderabad - Urvija Heights
+395,Hyderabad,Aparna Sarovar Zicon,Apartment,Nallagandla,3,1740,12644,Highly Affordable,220,Hyderabad - Aparna Sarovar Zicon
+396,Hyderabad,Aparna Luxor Park,Apartment,Kondapur,4,3060,15686,Moderately Affordable,480,Hyderabad - Aparna Luxor Park
+397,Hyderabad,Lanco Hills Apartments,Apartment,Manikonda,3,2500,10200,Moderately Affordable,255,Hyderabad - Lanco Hills Apartments
+398,Hyderabad,Radhey Raaga,Villa,Kollur,4,4591,13004,Moderately Affordable,597,Hyderabad - Radhey Raaga
+399,Hyderabad,Acropolis Buildwell,Apartment,Nagole,3,1372,6195,Highly Affordable,85,Hyderabad - Acropolis Buildwell
+400,Hyderabad,Rajapushpa Regalia,Apartment,Kokapet,3,1650,10182,Highly Affordable,168,Hyderabad - Rajapushpa Regalia
+401,Hyderabad,Navya Navanirman Nagar,Villa,Peeranchuruvu,2,1200,8916,Highly Affordable,106,Hyderabad - Navya Navanirman Nagar
+402,Hyderabad,Siri Towers Bachupally,Apartment,Bachupally,2,1200,6250,Highly Affordable,75,Hyderabad - Siri Towers Bachupally
+403,Hyderabad,My Home Avatar,Apartment,Gachibowli,3,1834,12268,Highly Affordable,225,Hyderabad - My Home Avatar
+404,Hyderabad,Shree Luxurio 75 Residences,Apartment,Serilingampally,3,2350,9568,Highly Affordable,224,Hyderabad - Shree Luxurio 75 Residences
+405,Hyderabad,My Home Jewel,Apartment,Madinaguda,2,1245,10442,Highly Affordable,130,Hyderabad - My Home Jewel
+406,Hyderabad,NSK Bliss Meadows,Apartment,Madinaguda,2,1210,6529,Highly Affordable,79,Hyderabad - NSK Bliss Meadows
+407,Hyderabad,Udaya Royal Crest Apartment,Apartment,Kothaguda,3,2000,9250,Highly Affordable,185,Hyderabad - Udaya Royal Crest Apartment
+408,Hyderabad,Suchirindia The Tales of Greek,Apartment,Shamshabad,2,890,5955,Highly Affordable,53,Hyderabad - Suchirindia The Tales of Greek
+409,Hyderabad,Sunyuga Vantara,Apartment,Kompally,2,1309,4966,Highly Affordable,65,Hyderabad - Sunyuga Vantara
+410,Hyderabad,Kanaka Durga Bhavan,Apartment,Kachiguda,4,2636,8156,Highly Affordable,215,Hyderabad - Kanaka Durga Bhavan
+411,Hyderabad,Namishree BPS Twin Towers,Apartment,Saidabad,3,1705,9384,Highly Affordable,160,Hyderabad - Namishree BPS Twin Towers
+412,Hyderabad,Vian Mrida,Apartment,Kollur,3,1740,6300,Highly Affordable,109,Hyderabad - Vian Mrida
+413,Hyderabad,MRKR Meda Prestige,Apartment,Miyapur,2,1321,8706,Highly Affordable,115,Hyderabad - MRKR Meda Prestige
+414,Hyderabad,Modi Villa Orchids,Villa,Kowkoor,3,1224,12255,Highly Affordable,150,Hyderabad - Modi Villa Orchids
+415,Hyderabad,Platinum Vista Manikonda,Apartment,Manikonda,2,1280,6800,Highly Affordable,87,Hyderabad - Platinum Vista Manikonda
+416,Hyderabad,Green Tech 02 Community,Villa,Wadakpally,3,1907,7866,Highly Affordable,150,Hyderabad - Green Tech 02 Community
+417,Hyderabad,Aparna One,Apartment,Shaikpet,3,2876,16690,Moderately Affordable,480,Hyderabad - Aparna One
+418,Hyderabad,Bollineni Bion,Apartment,Kothaguda,3,1960,13265,Moderately Affordable,260,Hyderabad - Bollineni Bion
+419,Hyderabad,Candeur Lakescape,Apartment,Kondapur,3,1909,9300,Highly Affordable,177,Hyderabad - Candeur Lakescape
+420,Hyderabad,Raghava Cinq,Apartment,Financial District,4,3600,9800,Moderately Affordable,352,Hyderabad - Raghava Cinq
+421,Hyderabad,Neeladri Residency,Apartment,Chanda Nagar,2,1080,4537,Highly Affordable,49,Hyderabad - Neeladri Residency
+422,Hyderabad,Aspire Spaces Ameya,Apartment,Miyapur,3,1625,8000,Highly Affordable,130,Hyderabad - Aspire Spaces Ameya
+423,Hyderabad,Sumadhura Acropolis,Apartment,Gachibowli,3,2615,13002,Moderately Affordable,340,Hyderabad - Sumadhura Acropolis
+424,Hyderabad,Anvita High 9,Apartment,Kollur,3,1965,6301,Highly Affordable,123,Hyderabad - Anvita High 9
+425,Hyderabad,Cybercity Trevita,Apartment,Kothaguda,5,3500,7500,Moderately Affordable,262,Hyderabad - Cybercity Trevita
+426,Hyderabad,Om Sree Skypark,Apartment,Kompally,3,2235,8077,Highly Affordable,180,Hyderabad - Om Sree Skypark
+427,Hyderabad,My Home Bhooja,Apartment,Hi Tech City,4,4070,24570,Luxury,1000,Hyderabad - My Home Bhooja
+428,Hyderabad,IRA Moon Glade,Apartment,Narsingi,3,3045,6502,Highly Affordable,198,Hyderabad - IRA Moon Glade
+429,Hyderabad,Sri Fortune Sonthalia Sky Villas,Apartment,Kokapet,4,5492,10364,Luxury,759,Hyderabad - Sri Fortune Sonthalia Sky Villas
+430,Hyderabad,Venice City,Villa,Kollur,3,2200,9545,Highly Affordable,210,Hyderabad - Venice City
+431,Hyderabad,Udaya Skyvert,Apartment,Uppal,3,1755,6000,Highly Affordable,105,Hyderabad - Udaya Skyvert
+432,Hyderabad,Aparna Serene Park,Apartment,Kondapur,3,1595,14000,Highly Affordable,223,Hyderabad - Aparna Serene Park
+433,Hyderabad,White House Banjara Hills,Apartment,Banjara Hills,2,1350,13500,Highly Affordable,182,Hyderabad - White House Banjara Hills
+434,Hyderabad,Magna Majestic Meadows,Villa,Osman Nagar,4,3632,15143,Moderately Affordable,550,Hyderabad - Magna Majestic Meadows
+435,Hyderabad,Hallmark Vicinia,Apartment,Narsingi,3,1760,10341,Highly Affordable,182,Hyderabad - Hallmark Vicinia
+436,Hyderabad,Sark One,Villa,Shankarpalli,4,4500,16667,Luxury,750,Hyderabad - Sark One
+437,Hyderabad,Shiva Lavista,Apartment,Nizampet,2,1230,6525,Highly Affordable,80,Hyderabad - Shiva Lavista
+438,Hyderabad,Honer Vivantis,Apartment,Gopanpally,3,1725,10435,Highly Affordable,180,Hyderabad - Honer Vivantis
+439,Hyderabad,Aditya Empress Towers,Apartment,Shaikpet,3,1900,10000,Highly Affordable,190,Hyderabad - Aditya Empress Towers
+440,Hyderabad,TMSR Skyler,Apartment,Bachupally,2,1194,8208,Highly Affordable,98,Hyderabad - TMSR Skyler
+441,Hyderabad,My Home Tridasa,Apartment,Tellapur,3,1840,10326,Highly Affordable,190,Hyderabad - My Home Tridasa
+442,Hyderabad,Lansum El Dorado,Apartment,Narsingi,3,2180,10000,Highly Affordable,218,Hyderabad - Lansum El Dorado
+443,Hyderabad,Dev Signature One,Apartment,Gaganpahad,3,1853,8635,Highly Affordable,160,Hyderabad - Dev Signature One
+444,Hyderabad,Rajapushpa Provincia,Apartment,Narsingi,3,1715,12653,Highly Affordable,217,Hyderabad - Rajapushpa Provincia
+445,Chennai,Lancor Lumina 2020,Apartment,Guduvanchery,5,1257,4535,Highly Affordable,57,Chennai - Lancor Lumina 2020
+446,Chennai,Arun Excello Ziva,Apartment,Mahabalipuram,2,540,4074,Highly Affordable,22,Chennai - Arun Excello Ziva
+447,Chennai,Pammal Dream Valley,Apartment,Pammal,2,660,6212,Highly Affordable,41,Chennai - Pammal Dream Valley
+448,Chennai,Teamwork Kattupakkam,Apartment,Kattupakkam,3,863,10313,Highly Affordable,89,Chennai - Teamwork Kattupakkam
+449,Chennai,Sis Marakesh,Apartment,Urapakkam,3,1370,6204,Highly Affordable,85,Chennai - Sis Marakesh
+450,Chennai,Casa Grande Pavilion,Villa,Thalambur,5,3300,7970,Moderately Affordable,263,Chennai - Casa Grande Pavilion
+451,Chennai,Sri Shanmuga Flats,Apartment,Kolapakkam,2,1200,3750,Highly Affordable,45,Chennai - Sri Shanmuga Flats
+452,Chennai,Ceedeeyes chennaipattinam,Apartment,Thiruporur,3,1500,5333,Highly Affordable,80,Chennai - Ceedeeyes chennaipattinam
+453,Chennai,RMR Saru Silamban,Apartment,Madambakkam,2,812,7000,Highly Affordable,56,Chennai - RMR Saru Silamban
+454,Chennai,Casagrand Highclere,Apartment,Kundrathur,2,1058,5198,Highly Affordable,55,Chennai - Casagrand Highclere
+455,Delhi,Veera Safdarjung Enclave,Apartment,Safdarjung Enclave,4,2700,55556,Luxury,1134,Delhi - Veera Safdarjung Enclave
+456,Delhi,Rattan Apartment,Builder Floor,Khanpur,3,950,5579,Highly Affordable,53,Delhi - Rattan Apartment
+457,Delhi,Boutique Residential Apartments R-62,Builder Floor,Greater Kailash,5,2000,23750,Moderately Affordable,475,Delhi - Boutique Residential Apartments R-62
+458,Delhi,RWA Jasola Sector 8 SFS Flat,Apartment,Jasola,2,950,20526,Highly Affordable,195,Delhi - RWA Jasola Sector 8 SFS Flat
+459,Delhi,Godrej South Estate Okhla,Apartment,Okhla,3,2800,24643,Moderately Affordable,690,Delhi - Godrej South Estate Okhla
+460,Delhi,Palm Residency Chhatarpur,Builder Floor,Chattarpur,4,2250,8000,Highly Affordable,180,Delhi - Palm Residency Chhatarpur
+461,Delhi,Vigyapan Lok Apartments,Apartment,Mayur Vihar Phase 1,5,1550,18387,Moderately Affordable,285,Delhi - Vigyapan Lok Apartments
+462,Delhi,Godrej South Estate Okhla,Apartment,Okhla,2,1195,26025,Moderately Affordable,311,Delhi - Godrej South Estate Okhla
+463,Delhi,Parshav Vihar,Apartment,Patparganj,2,1000,15000,Highly Affordable,150,Delhi - Parshav Vihar
+464,Delhi,The Vegas,Builder Floor,Sector 16b Dwarka,4,1441,9022,Highly Affordable,130,Delhi - The Vegas
+465,Delhi,Unity The Amaryllis,Apartment,Karol Bagh,2,1025,22341,Highly Affordable,229,Delhi - Unity The Amaryllis
+466,Delhi,Abhinav Apartments,Apartment,Vasundhara Enclave,3,1350,11481,Highly Affordable,155,Delhi - Abhinav Apartments
+467,Delhi,Unity The Amaryllis,Apartment,Karol Bagh,4,3750,20667,Luxury,775,Delhi - Unity The Amaryllis
+468,Delhi,Palm Residency Chhatarpur,Builder Floor,Chattarpur,3,1350,6296,Highly Affordable,85,Delhi - Palm Residency Chhatarpur
+469,Gurgaon,Hero Homes Gurgaon,Apartment,Sector 104,2,683,23426,Highly Affordable,160,Gurgaon - Hero Homes Gurgaon
+470,Gurgaon,Ramprastha City The Atrium,Apartment,Sector 37d,2,1055,10427,Highly Affordable,110,Gurgaon - Ramprastha City The Atrium
+471,Gurgaon,Pivotal Paradise,Apartment,Sector 62,2,686,16035,Highly Affordable,110,Gurgaon - Pivotal Paradise
+472,Gurgaon,Unitech Escape,Apartment,Sector 50,3,2097,15975,Moderately Affordable,335,Gurgaon - Unitech Escape
+473,Gurgaon,Pyramid Urban Homes 3,Apartment,Sector 67a,2,698,12178,Highly Affordable,85,Gurgaon - Pyramid Urban Homes 3
+474,Gurgaon,Pivotal Riddhi Siddhi,Apartment,Sector 99,2,587,11160,Highly Affordable,65,Gurgaon - Pivotal Riddhi Siddhi
+475,Gurgaon,Central Park 3 Flower Valley,Apartment,Sohna Sector 33,3,1642,13703,Highly Affordable,225,Gurgaon - Central Park 3 Flower Valley
+476,Gurgaon,Emaar The Palm Drive-The Premier Terraces,Apartment,Sector 66,3,2125,20141,Moderately Affordable,428,Gurgaon - Emaar The Palm Drive-The Premier Terraces
+477,Gurgaon,Suncity Heights,Apartment,Sushant Lok ii,5,2341,23494,Moderately Affordable,550,Gurgaon - Suncity Heights
+478,Gurgaon,Emaar Palm Hills,Apartment,Sector 77,4,1950,14103,Moderately Affordable,275,Gurgaon - Emaar Palm Hills
+479,Gurgaon,The Center Court,Apartment,Sector 88a,3,888,25338,Highly Affordable,225,Gurgaon - The Center Court
+480,Gurgaon,Realtech The Luxurium,Builder Floor,Sushant Lok I,4,2750,16364,Moderately Affordable,450,Gurgaon - Realtech The Luxurium
+481,Gurgaon,HCBS Sports Ville,Apartment,Sohna Sector 35,2,737,6784,Highly Affordable,50,Gurgaon - HCBS Sports Ville
+482,Gurgaon,Hero Homes Gurgaon,Apartment,Sector 104,2,1099,15014,Highly Affordable,165,Gurgaon - Hero Homes Gurgaon
+483,Gurgaon,Sobha City Gurgaon,Apartment,Sector 108,3,2072,21718,Moderately Affordable,450,Gurgaon - Sobha City Gurgaon
+484,Gurgaon,Tata La Vida,Apartment,Sector 113,3,1573,15893,Highly Affordable,250,Gurgaon - Tata La Vida
+485,Gurgaon,Pivotal Riddhi Siddhi,Apartment,Sector 99,2,587,11073,Highly Affordable,65,Gurgaon - Pivotal Riddhi Siddhi
+486,Gurgaon,Paras Floret,Builder Floor,Sector 59,3,1750,18571,Moderately Affordable,325,Gurgaon - Paras Floret
+487,Gurgaon,Max Estate 360,Apartment,Sector 36a,4,3531,19915,Luxury,703,Gurgaon - Max Estate 360
+488,Gurgaon,Raheja Vedaanta,Penthouse,Sector 108,5,5492,8041,Moderately Affordable,445,Gurgaon - Raheja Vedaanta
+489,Gurgaon,M3M Merlin,Apartment,Sector 67,3,2025,17383,Moderately Affordable,352,Gurgaon - M3M Merlin
+490,Gurgaon,M3M Golf Estate,Apartment,Sector 65,3,3799,22374,Luxury,850,Gurgaon - M3M Golf Estate
+491,Gurgaon,JMS The Pride,Apartment,Sector 95a,5,1160,15517,Highly Affordable,180,Gurgaon - JMS The Pride
+492,Gurgaon,Signature Global The Millennia,Apartment,Sector 37d,2,696,10575,Highly Affordable,73,Gurgaon - Signature Global The Millennia
+493,Gurgaon,Experion Hub 108,Apartment,Sector 108,2,1283,11302,Highly Affordable,145,Gurgaon - Experion Hub 108
+494,Gurgaon,Bestech Park View Spa,Apartment,Sector 47,3,2470,14170,Moderately Affordable,350,Gurgaon - Bestech Park View Spa
+495,Gurgaon,Signature Global Synera,Apartment,Sector 81,5,735,11701,Highly Affordable,86,Gurgaon - Signature Global Synera
+496,Gurgaon,JMS Primeland,Builder Floor,Sector 95a,5,1160,9483,Highly Affordable,110,Gurgaon - JMS Primeland
+497,Gurgaon,Ansal Sushant Estate,Apartment,Sector 52,4,1690,16272,Moderately Affordable,275,Gurgaon - Ansal Sushant Estate
+498,Gurgaon,Unitech South City 1,Builder Floor,South City 1,4,2500,15400,Moderately Affordable,385,Gurgaon - Unitech South City 1
+499,Gurgaon,3C Orris Greenopolis,Apartment,Sector 89,5,1957,8176,Highly Affordable,160,Gurgaon - 3C Orris Greenopolis
+500,Gurgaon,Anant Raj The Estate Floors,Builder Floor,Sector 63a,4,2350,12766,Moderately Affordable,300,Gurgaon - Anant Raj The Estate Floors
+501,Gurgaon,Pyramid Elite,Apartment,Nawada Fatehpur,2,581,12048,Highly Affordable,70,Gurgaon - Pyramid Elite
+502,Gurgaon,Arete India Our Homes 3,Apartment,Sohna Sector 6,5,710,7465,Highly Affordable,53,Gurgaon - Arete India Our Homes 3
+503,Gurgaon,Signature Global Park,Builder Floor,Sohna Sector 36,3,1440,9576,Highly Affordable,137,Gurgaon - Signature Global Park
+504,Gurgaon,ROF Aalayas,Apartment,Sector 102,2,600,1000,Highly Affordable,6,Gurgaon - ROF Aalayas
+505,Gurgaon,M3M Woodshire,Apartment,Sector 107,2,1534,8149,Highly Affordable,125,Gurgaon - M3M Woodshire
+506,Gurgaon,M3M 65 Avenue,Apartment,Sector 65,3,2054,18987,Moderately Affordable,390,Gurgaon - M3M 65 Avenue
+507,Gurgaon,Smart World Orchard,Apartment,Sector 61,5,1679,17034,Moderately Affordable,286,Gurgaon - Smart World Orchard
+508,Gurgaon,Pivotal Paradise,Apartment,Sector 62,2,657,12938,Highly Affordable,85,Gurgaon - Pivotal Paradise
+509,Gurgaon,Pyramid Square 67A,Apartment,Sector 67,2,800,9750,Highly Affordable,78,Gurgaon - Pyramid Square 67A
+510,Gurgaon,Emaar Emerald Floors,Builder Floor,Sector 65,4,1750,18629,Moderately Affordable,326,Gurgaon - Emaar Emerald Floors
+511,Gurgaon,SS The Leaf,Apartment,Sector 85,5,2408,11420,Moderately Affordable,275,Gurgaon - SS The Leaf
+512,Gurgaon,Supertech Araville,Apartment,Sector 79,5,1530,10131,Highly Affordable,155,Gurgaon - Supertech Araville
+513,Gurgaon,Conscient Hines Elevate,Apartment,Sector 59,4,1855,26000,Moderately Affordable,482,Gurgaon - Conscient Hines Elevate
+514,Gurgaon,Pareena Coban Residences,Apartment,Sector 99a,5,1550,10323,Highly Affordable,160,Gurgaon - Pareena Coban Residences
+515,Gurgaon,Signature Global City 81,Builder Floor,Sector 81,2,1150,10435,Highly Affordable,119,Gurgaon - Signature Global City 81
+516,Gurgaon,Signature The Serenas,Apartment,Sohna Sector 36,2,583,11492,Highly Affordable,67,Gurgaon - Signature The Serenas
+517,Gurgaon,SARE Petioles,Apartment,Sector 92,4,2180,8716,Highly Affordable,190,Gurgaon - SARE Petioles
+518,Gurgaon,SS Mayfield Gardens,Builder Floor,Sector 51,2,1100,13636,Highly Affordable,150,Gurgaon - SS Mayfield Gardens
+519,Gurgaon,Ramprastha City The Edge Towers,Apartment,Sector 37d,2,1380,8696,Highly Affordable,120,Gurgaon - Ramprastha City The Edge Towers
+520,Gurgaon,Apex Our Homes,Apartment,Sector 37c,2,850,6471,Highly Affordable,55,Gurgaon - Apex Our Homes
+521,Gurgaon,DLF Alameda,Builder Floor,Sector 73,3,1850,18919,Moderately Affordable,350,Gurgaon - DLF Alameda
+522,Gurgaon,Godrej Oasis,Apartment,Sector 88a,3,1791,11725,Highly Affordable,210,Gurgaon - Godrej Oasis
+523,Gurgaon,Army Sispal Vihar,Apartment,Sector 49,3,1797,14469,Moderately Affordable,260,Gurgaon - Army Sispal Vihar
+524,Gurgaon,Kohli One Malibu Town,Builder Floor,Sector 47,3,1800,16111,Moderately Affordable,290,Gurgaon - Kohli One Malibu Town
+525,Gurgaon,Signature Global City 92,Apartment,Sector 92,2,1010,10891,Highly Affordable,110,Gurgaon - Signature Global City 92
+526,Gurgaon,JMS The Majestic,Builder Floor,Manesar Sector 9,3,2082,8162,Highly Affordable,169,Gurgaon - JMS The Majestic
+527,Gurgaon,Landmark Avana,Builder Floor,Sector 95,3,1494,10375,Highly Affordable,155,Gurgaon - Landmark Avana
+528,Gurgaon,Shree Vardhman Victoria,Apartment,Sector 70,3,1950,14615,Moderately Affordable,285,Gurgaon - Shree Vardhman Victoria
+529,Gurgaon,Anant Raj Ashok Estate,Builder Floor,Sector 63a,4,2400,14167,Moderately Affordable,340,Gurgaon - Anant Raj Ashok Estate
+530,Gurgaon,Smart World Orchard,Apartment,Sector 61,5,1650,16970,Moderately Affordable,280,Gurgaon - Smart World Orchard
+531,Gurgaon,Unitech Heritage City,Apartment,Sector 25,4,3890,22108,Luxury,860,Gurgaon - Unitech Heritage City
+532,Gurgaon,Bestech Park View Sanskruti,Apartment,Sector 92,3,2120,11792,Highly Affordable,250,Gurgaon - Bestech Park View Sanskruti
+533,Gurgaon,Signature Global Proxima Phase 2,Apartment,Sector 89,2,685,9927,Highly Affordable,68,Gurgaon - Signature Global Proxima Phase 2
+534,Gurgaon,Central Park 3 Flower Valley,Builder Floor,Sohna Sector 33,5,1093,15096,Highly Affordable,165,Gurgaon - Central Park 3 Flower Valley
+535,Gurgaon,Indiabulls Centrum Park,Apartment,Sector 103,4,2875,10435,Moderately Affordable,300,Gurgaon - Indiabulls Centrum Park
+536,Gurgaon,Hero Homes Gurgaon,Apartment,Sector 104,2,1099,14968,Highly Affordable,164,Gurgaon - Hero Homes Gurgaon
+537,Gurgaon,Signature Global Park,Apartment,Sohna Sector 36,5,1210,11157,Highly Affordable,135,Gurgaon - Signature Global Park
+538,Gurgaon,Signature Global Imperial,Apartment,Sector 88a,3,744,10988,Highly Affordable,81,Gurgaon - Signature Global Imperial
+539,Gurgaon,JMS Group Silver Living,Apartment,Sector 95,5,1160,15517,Highly Affordable,180,Gurgaon - JMS Group Silver Living
+540,Gurgaon,Signature The Millennia 3,Apartment,Sector 37d,2,687,9461,Highly Affordable,65,Gurgaon - Signature The Millennia 3
+541,Gurgaon,Vatika Xpressions,Builder Floor,Sector 88b,2,1350,12593,Highly Affordable,170,Gurgaon - Vatika Xpressions
+542,Gurgaon,Tulip Yellow,Apartment,Sector 69,3,1704,12617,Highly Affordable,215,Gurgaon - Tulip Yellow
+543,Gurgaon,Tata Gurgaon Gateway,Apartment,Sector 112,3,2215,14221,Moderately Affordable,315,Gurgaon - Tata Gurgaon Gateway
+544,Gurgaon,DLF Express Greens,Apartment,Manesar Sector 1a,3,1958,7406,Highly Affordable,145,Gurgaon - DLF Express Greens
+545,Gurgaon,Unitech The Residences Gurgaon,Apartment,Sector 33,3,1505,17276,Moderately Affordable,260,Gurgaon - Unitech The Residences Gurgaon
+546,Gurgaon,Apex Our Homes,Apartment,Sector 37c,2,580,10983,Highly Affordable,63,Gurgaon - Apex Our Homes
+547,Gurgaon,Ireo The Corridors,Apartment,Ramgarh Dhani,2,1296,18133,Highly Affordable,235,Gurgaon - Ireo The Corridors
+548,Gurgaon,SS 100,Builder Floor,Sector 49,4,2520,13294,Moderately Affordable,335,Gurgaon - SS 100
+549,Gurgaon,Raheja Atlantis II,Apartment,Sector 32a,4,3000,18333,Moderately Affordable,550,Gurgaon - Raheja Atlantis II
+550,Gurgaon,Signature Global Park,Apartment,Sohna Sector 36,2,822,9732,Highly Affordable,80,Gurgaon - Signature Global Park
+551,Gurgaon,Mapsko Mount Ville,Apartment,Sector 79,4,2650,13585,Moderately Affordable,360,Gurgaon - Mapsko Mount Ville
+552,Gurgaon,Kohli One Malibu Town,Builder Floor,Sector 47,4,2700,15926,Moderately Affordable,430,Gurgaon - Kohli One Malibu Town
+553,Gurgaon,Tulip Monsella,Apartment,Sector 53,3,2874,32985,Luxury,948,Gurgaon - Tulip Monsella
+554,Gurgaon,JMS The Nation,Builder Floor,Sector 95,3,1350,10444,Highly Affordable,141,Gurgaon - JMS The Nation
+555,Gurgaon,4S Aradhya Extension,Builder Floor,Sector 67a,3,1490,14765,Highly Affordable,220,Gurgaon - 4S Aradhya Extension
+556,Gurgaon,Emaar Imperial Gardens,Apartment,Sector 102,3,2000,12500,Highly Affordable,250,Gurgaon - Emaar Imperial Gardens
+557,Gurgaon,Grace Resilviaa,Builder Floor,Sector 78,3,1587,12975,Highly Affordable,205,Gurgaon - Grace Resilviaa
+558,Gurgaon,Professors Enclave,Apartment,Sector 56,5,2450,11429,Moderately Affordable,280,Gurgaon - Professors Enclave
+559,Gurgaon,Vatika City Homes,Apartment,Sector 83,3,1740,9483,Highly Affordable,165,Gurgaon - Vatika City Homes
+560,Gurgaon,Pyramid Heights,Apartment,Badha,2,698,10029,Highly Affordable,70,Gurgaon - Pyramid Heights
+561,Gurgaon,M3M Skywalk,Apartment,Sector 74,2,1450,17586,Moderately Affordable,255,Gurgaon - M3M Skywalk
+562,Gurgaon,BPTP Freedom Park Life,Apartment,Sector 57,5,2293,14828,Moderately Affordable,340,Gurgaon - BPTP Freedom Park Life
+563,Gurgaon,Assotech Blith,Apartment,Sector 99,4,2835,9877,Moderately Affordable,280,Gurgaon - Assotech Blith
+564,Gurgaon,Signature Global City 92,Builder Floor,Sector 92,5,1200,8833,Highly Affordable,106,Gurgaon - Signature Global City 92
+565,Gurgaon,Central Park II-Bellevue,Apartment,Sector 48,3,2350,15532,Moderately Affordable,365,Gurgaon - Central Park II-Bellevue
+566,Gurgaon,M3M Merlin,Apartment,Sector 67,3,2377,14649,Moderately Affordable,348,Gurgaon - M3M Merlin
+567,Gurgaon,M3M Sky City,Apartment,Sector 65,3,2054,19500,Moderately Affordable,400,Gurgaon - M3M Sky City
+568,Gurgaon,Unitech Arcadia,Independent House,South City 2,3,2000,14500,Moderately Affordable,290,Gurgaon - Unitech Arcadia
+569,Gurgaon,Dhoot Time Residency,Apartment,Sector 63,3,1717,18055,Moderately Affordable,310,Gurgaon - Dhoot Time Residency
+570,Gurgaon,Pareena Bellevue Floors,Builder Floor,Sector 95a,5,1300,8846,Highly Affordable,115,Gurgaon - Pareena Bellevue Floors
+571,Gurgaon,Unitech Fresco,Apartment,Sector 50,3,1629,15347,Highly Affordable,250,Gurgaon - Unitech Fresco
+572,Gurgaon,ATS Kocoon,Apartment,Sector 109,5,1745,14040,Highly Affordable,245,Gurgaon - ATS Kocoon
+573,Gurgaon,Reach 3 Roads,Builder Floor,Sector 70,3,1550,12903,Highly Affordable,200,Gurgaon - Reach 3 Roads
+574,Gurgaon,Assotech Blith,Apartment,Sector 99,5,2400,10000,Highly Affordable,240,Gurgaon - Assotech Blith
+575,Gurgaon,Smart World Orchard,Apartment,Sector 61,3,1963,15996,Moderately Affordable,314,Gurgaon - Smart World Orchard
+576,Gurgaon,Anant Raj Ashok Estate,Builder Floor,Sector 63a,3,1595,16614,Moderately Affordable,264,Gurgaon - Anant Raj Ashok Estate
+577,Noida,Eldeco Utopia,Apartment,Sector 93a,2,1535,14984,Highly Affordable,230,Noida - Eldeco Utopia
+578,Noida,ABCZ East Sapphire,Builder Floor,Sector 45,2,800,5250,Highly Affordable,42,Noida - ABCZ East Sapphire
+579,Noida,Godrej Palm Retreat,Apartment,Sector 150,4,3300,12727,Moderately Affordable,420,Noida - Godrej Palm Retreat
+580,Noida,Amrapali Platinum,Apartment,Sector 119,5,3459,7228,Highly Affordable,250,Noida - Amrapali Platinum
+581,Noida,Aims Golf City,Apartment,Sector 75,5,1550,7742,Highly Affordable,120,Noida - Aims Golf City
+582,Noida,Sunworld Arista,Apartment,Sector 168,4,2740,14015,Moderately Affordable,384,Noida - Sunworld Arista
+583,Noida,Amrapali Platinum,Apartment,Sector 119,3,1775,8732,Highly Affordable,155,Noida - Amrapali Platinum
+584,Noida,Ultima 107,Apartment,Sector 104,5,1530,5556,Highly Affordable,85,Noida - Ultima 107
+585,Noida,Ajnara Grand Heritage,Apartment,Sector 74,3,1545,11974,Highly Affordable,185,Noida - Ajnara Grand Heritage
+586,Noida,The 3C Lotus Panache,Apartment,Sector 110,4,2794,11990,Moderately Affordable,335,Noida - The 3C Lotus Panache
+587,Noida,Ajnara Daffodil,Apartment,Sector 137,3,1435,11847,Highly Affordable,170,Noida - Ajnara Daffodil
+588,Noida,Godrej Woods,Apartment,Sector 43,3,2088,18199,Moderately Affordable,380,Noida - Godrej Woods
+589,Noida,Purvanchal Royal Park,Apartment,Sector 137,4,2955,15228,Moderately Affordable,450,Noida - Purvanchal Royal Park
+590,Noida,Gardenia Golf City,Apartment,Sector 75,3,1350,12000,Highly Affordable,162,Noida - Gardenia Golf City
+591,Noida,Jaypee Greens Kosmos,Apartment,Sector 134,3,1330,8271,Highly Affordable,110,Noida - Jaypee Greens Kosmos
+592,Noida,Sikka Kaamna Greens,Apartment,Sector 143a Noida,4,2727,11735,Moderately Affordable,320,Noida - Sikka Kaamna Greens
+593,Noida,DS Homes Noida,Builder Floor,Sector 70,2,1175,3489,Highly Affordable,41,Noida - DS Homes Noida
+594,Noida,Elite Golf Green,Apartment,Sector 79,3,983,25432,Highly Affordable,250,Noida - Elite Golf Green
+595,Noida,SAP Homes,Builder Floor,Sector 49,2,1050,3429,Highly Affordable,36,Noida - SAP Homes
+596,Noida,Supertech Cape Town,Apartment,Sector 74,2,930,12903,Highly Affordable,120,Noida - Supertech Cape Town
+597,Noida,Royal Towers Noida,Apartment,Sector 60,3,1607,10579,Highly Affordable,170,Noida - Royal Towers Noida
+598,Noida,ABA Cleo County,Apartment,Sector 121,3,1827,20525,Moderately Affordable,375,Noida - ABA Cleo County
+599,Noida,Varun Enclave,Apartment,Sector 28,4,1550,16774,Moderately Affordable,260,Noida - Varun Enclave
+600,Noida,ABA Cleo County,Apartment,Sector 121,3,1620,20370,Moderately Affordable,330,Noida - ABA Cleo County
+601,Noida,Exotica Fresco,Apartment,Sector 137,3,1690,14201,Highly Affordable,240,Noida - Exotica Fresco
+602,Noida,Divine Meadows,Apartment,Sector 108,5,1436,9401,Highly Affordable,135,Noida - Divine Meadows
+603,Noida,ABA Cleo County,Apartment,Sector 121,3,2070,21256,Moderately Affordable,440,Noida - ABA Cleo County
+604,Noida,Homes 121,Apartment,Sector 121,3,1235,10202,Highly Affordable,126,Noida - Homes 121
+605,Noida,Jm Orchid,Apartment,Sector 76,2,1147,12380,Highly Affordable,142,Noida - Jm Orchid
+606,Noida,Supertech Cape Town,Apartment,Sector 74,2,930,10000,Highly Affordable,93,Noida - Supertech Cape Town
+607,Noida,Amrapali Crystal Homes,Apartment,Sector 76,3,1375,11636,Highly Affordable,160,Noida - Amrapali Crystal Homes
+608,Noida,Jaypee Greens AMAN II,Apartment,Sector 151,2,953,7135,Highly Affordable,68,Noida - Jaypee Greens AMAN II
+609,Noida,ABA Ivy County,Apartment,Sector 75,4,2511,18917,Moderately Affordable,475,Noida - ABA Ivy County
+610,Noida,Sunshine Apartments Sector 73,Builder Floor,Sector 73,2,1350,3926,Highly Affordable,53,Noida - Sunshine Apartments Sector 73
+611,Noida,Jaypee Greens Aman,Apartment,Sector 151,3,1293,7981,Highly Affordable,103,Noida - Jaypee Greens Aman
+612,Noida,ATS Le Grandiose,Apartment,Sector 150,3,1625,11692,Highly Affordable,190,Noida - ATS Le Grandiose
+613,Noida,Jaypee Kensington Park Apartments,Apartment,Sector 133,3,1515,8581,Highly Affordable,130,Noida - Jaypee Kensington Park Apartments
+614,Noida,Ultima 107,Builder Floor,Sector 104,2,1095,5936,Highly Affordable,65,Noida - Ultima 107
+615,Noida,Dasnac Westminster,Apartment,Sector 146,4,4800,17708,Luxury,850,Noida - Dasnac Westminster
+616,Noida,JM Aroma,Apartment,Sector 75,3,1550,12581,Highly Affordable,195,Noida - JM Aroma
+617,Noida,Godrej Nurture,Apartment,Sector 150,2,1500,20000,Moderately Affordable,300,Noida - Godrej Nurture
+618,Noida,Arawali Apartments,Apartment,Sector 52,1,600,9167,Highly Affordable,55,Noida - Arawali Apartments
+619,Noida,Aims Golf City,Apartment,Sector 75,5,1550,8000,Highly Affordable,124,Noida - Aims Golf City
+620,Noida,Jaypee Green Wish town Klassic,Apartment,Sector 134,3,1900,10000,Highly Affordable,190,Noida - Jaypee Green Wish town Klassic
+621,Noida,Assotech Windsor Court,Apartment,Sector 78,5,1640,8537,Highly Affordable,140,Noida - Assotech Windsor Court
+622,Noida,Godrej Woods,Apartment,Sector 43,5,1545,22718,Moderately Affordable,351,Noida - Godrej Woods
+623,Noida,Ajnara Grand Heritage,Apartment,Sector 74,2,1075,11163,Highly Affordable,120,Noida - Ajnara Grand Heritage
+624,Noida,JM Aroma,Apartment,Sector 75,3,1550,14194,Highly Affordable,220,Noida - JM Aroma
+625,Noida,Jaypee Greens Kosmos,Apartment,Sector 134,2,950,7158,Highly Affordable,68,Noida - Jaypee Greens Kosmos
+626,Noida,Paramount Floraville,Apartment,Sector 137,2,1240,10887,Highly Affordable,135,Noida - Paramount Floraville
+627,Noida,JM Aroma,Apartment,Sector 75,3,1550,12903,Highly Affordable,200,Noida - JM Aroma
+628,Noida,ACE Parkway,Apartment,Sector 150,5,2190,14475,Moderately Affordable,317,Noida - ACE Parkway
+629,Noida,Nimbus The Hyde park,Apartment,Sector 78,3,1320,12121,Highly Affordable,160,Noida - Nimbus The Hyde park
+630,Noida,Amrapali Crystal Homes,Apartment,Sector 76,3,1375,13091,Highly Affordable,180,Noida - Amrapali Crystal Homes
+631,Noida,Gulshan Botnia,Apartment,Sector 144,5,1160,15517,Highly Affordable,180,Noida - Gulshan Botnia
+632,Noida,Ace Starlit,Apartment,Sector 152,2,804,23010,Highly Affordable,185,Noida - Ace Starlit
+633,Noida,Parsvnath Prestige,Apartment,Sector 93a,3,1550,16000,Highly Affordable,248,Noida - Parsvnath Prestige
+634,Noida,NDA Kanchanjunga Apartments,Apartment,Sector 53,3,1150,9565,Highly Affordable,110,Noida - NDA Kanchanjunga Apartments
+635,Noida,Shubhkamna Advert Apartments,Apartment,Sector 50,3,1550,13871,Highly Affordable,215,Noida - Shubhkamna Advert Apartments
+636,Noida,Amrapali Platinum,Apartment,Sector 119,3,1495,8361,Highly Affordable,125,Noida - Amrapali Platinum
+637,Noida,Mahagun Medalleo,Apartment,Sector 107,3,2500,17000,Moderately Affordable,425,Noida - Mahagun Medalleo
+638,Noida,Gulshan Vivante,Apartment,Sector 137,4,2645,16068,Moderately Affordable,425,Noida - Gulshan Vivante
+639,Noida,Panchsheel Pratistha,Apartment,Sector 75,2,1310,13511,Highly Affordable,177,Noida - Panchsheel Pratistha
+640,Noida,Parsvnath Prestige,Apartment,Sector 93a,3,1795,12813,Highly Affordable,230,Noida - Parsvnath Prestige
+641,Noida,Church View Apartments,Apartment,Sector 29,5,1800,16667,Moderately Affordable,300,Noida - Church View Apartments
+642,Noida,Amrapali Platinum,Apartment,Sector 119,3,1495,8361,Highly Affordable,125,Noida - Amrapali Platinum
+643,Noida,ABA Ivy County,Apartment,Sector 75,3,1656,17814,Moderately Affordable,295,Noida - ABA Ivy County
+644,Noida,Aditya Urban Casa,Apartment,Sector 78,2,1074,9777,Highly Affordable,105,Noida - Aditya Urban Casa
+645,Noida,ACE Parkway,Apartment,Sector 150,2,1085,11982,Highly Affordable,130,Noida - ACE Parkway
+646,Noida,Ajnara Grand Heritage,Apartment,Sector 74,3,1440,11111,Highly Affordable,160,Noida - Ajnara Grand Heritage
+647,Noida,DMD Hometech 2,Builder Floor,Sector 53,3,1650,4727,Highly Affordable,77,Noida - DMD Hometech 2
+648,Noida,ABA County 107,Apartment,Sector 107,4,4482,25658,Luxury,1134,Noida - ABA County 107
+649,Noida,Jaypee Greens Pavilion Court,Apartment,Sector 128,2,1350,8519,Highly Affordable,115,Noida - Jaypee Greens Pavilion Court
+650,Noida,Jaypee Wish Town Klassic,Apartment,Sector 134,3,1711,9351,Highly Affordable,160,Noida - Jaypee Wish Town Klassic
+651,Noida,Jaypee Greens Kosmos,Apartment,Sector 134,5,1356,8481,Highly Affordable,115,Noida - Jaypee Greens Kosmos
+652,Noida,Supertech Cape Town,Apartment,Sector 74,3,1295,10193,Highly Affordable,132,Noida - Supertech Cape Town
+653,Noida,Sethi Max Royale,Apartment,Sector 76,2,940,10851,Highly Affordable,102,Noida - Sethi Max Royale
+654,Noida,Jaypee Kasa Isles,Apartment,Sector 129,4,1870,8021,Highly Affordable,150,Noida - Jaypee Kasa Isles
+655,Noida,Galaxy Saraswati Vihar,Builder Floor,Sector 140a,2,1000,2500,Highly Affordable,25,Noida - Galaxy Saraswati Vihar
+656,Noida,Logix Blossom County,Apartment,Sector 137,2,1040,8173,Highly Affordable,85,Noida - Logix Blossom County
+657,Noida,SL Apartments Sector 49,Builder Floor,Sector 49,2,1050,3429,Highly Affordable,36,Noida - SL Apartments Sector 49
+658,Noida,Ace Golfshire,Apartment,Sector 150,2,1195,11715,Highly Affordable,140,Noida - Ace Golfshire
+659,Noida,The 3C Lotus Panache,Apartment,Sector 110,4,2794,11811,Moderately Affordable,330,Noida - The 3C Lotus Panache
+660,Noida,Supertech Cape Town,Apartment,Sector 74,2,1082,9704,Highly Affordable,105,Noida - Supertech Cape Town
+661,Noida,Gardenia Golf City,Apartment,Sector 75,5,1750,14286,Highly Affordable,250,Noida - Gardenia Golf City
+662,Noida,Tata Value Homes,Apartment,Sector 150,2,1100,10727,Highly Affordable,118,Noida - Tata Value Homes
+663,Noida,Urbtech Hilston,Apartment,Sector 79,5,1310,9542,Highly Affordable,125,Noida - Urbtech Hilston
+664,Noida,Express Zenith,Apartment,Sector 77,5,3600,11111,Moderately Affordable,400,Noida - Express Zenith
+665,Noida,Amrapali Silicon City,Penthouse,Sector 76,4,3185,11931,Moderately Affordable,380,Noida - Amrapali Silicon City
+666,Noida,ATS Le Grandiose,Apartment,Sector 150,5,2000,11400,Highly Affordable,228,Noida - ATS Le Grandiose
+667,Kolkata,Rameswara Riverview,Apartment,Barrackpore,2,610,8016,Highly Affordable,48,Kolkata - Rameswara Riverview
+668,Kolkata,Siddha Happyville,Apartment,Rajarhat New Town,3,1445,8650,Highly Affordable,124,Kolkata - Siddha Happyville
+669,Kolkata,Siddha Galaxia,Apartment,Rajarhat,3,1200,9167,Highly Affordable,110,Kolkata - Siddha Galaxia
+670,Kolkata,Natural Heights 2,Apartment,Kaikhali,3,1857,6462,Highly Affordable,120,Kolkata - Natural Heights 2
+671,Kolkata,Merlin Skygaze,Apartment,Em Bypass,3,767,10020,Highly Affordable,76,Kolkata - Merlin Skygaze
+672,Kolkata,GLS Ruposi Bangla,Apartment,New Town Action Area 1,3,1040,10856,Highly Affordable,112,Kolkata - GLS Ruposi Bangla
+673,Kolkata,Eden Solaris Joka,Apartment,Bishnupur,3,910,4286,Highly Affordable,39,Kolkata - Eden Solaris Joka
+674,Kolkata,Eden City Maheshtala,Apartment,Purbachal,3,1236,2994,Highly Affordable,37,Kolkata - Eden City Maheshtala
+675,Kolkata,Sunrise Towers,Apartment,Beliaghata,3,1357,9285,Highly Affordable,126,Kolkata - Sunrise Towers
+676,Kolkata,Sulekha Shanti Apartment,Apartment,Dum Dum,3,1100,3455,Highly Affordable,38,Kolkata - Sulekha Shanti Apartment
+677,Kolkata,Godrej Platinum,Apartment,Alipore,4,5075,26601,Luxury,1134,Kolkata - Godrej Platinum
+678,Kolkata,Bengal Urban Sabujayan,Apartment,Mukundapur,2,984,5589,Highly Affordable,55,Kolkata - Bengal Urban Sabujayan
+679,Kolkata,Kristi Villa,Apartment,Chinar Park,3,1200,4833,Highly Affordable,58,Kolkata - Kristi Villa
+680,Kolkata,Godrej Orchard,Apartment,Joka,3,1052,4753,Highly Affordable,50,Kolkata - Godrej Orchard
+681,Kolkata,Jeet Residency Phase III,Apartment,Nayabad,3,1270,4331,Highly Affordable,55,Kolkata - Jeet Residency Phase III
+682,Kolkata,Godrej Prakriti,Apartment,Bt Road,2,929,6459,Highly Affordable,60,Kolkata - Godrej Prakriti
+683,Kolkata,Siddha Water Front,Apartment,Barrackpore,2,803,4110,Highly Affordable,33,Kolkata - Siddha Water Front
+684,Kolkata,Sunland Residency,Apartment,Bablatala,2,950,6842,Highly Affordable,65,Kolkata - Sunland Residency
+685,Kolkata,Tolly Palace,Apartment,Bansdroni,5,428,5841,Highly Affordable,25,Kolkata - Tolly Palace
+686,Kolkata,Swagat Skyline,Apartment,Narayanpur,3,1024,4004,Highly Affordable,41,Kolkata - Swagat Skyline
+687,Kolkata,Purti The Varanda,Apartment,Lake Town,3,1300,5385,Highly Affordable,70,Kolkata - Purti The Varanda
+688,Kolkata,Unitech Vistas,Apartment,Rajarhat New Town,3,1226,8320,Highly Affordable,102,Kolkata - Unitech Vistas
+689,Kolkata,Natural Haldiram Enclave,Apartment,Vip Road,3,1669,5700,Highly Affordable,95,Kolkata - Natural Haldiram Enclave
+690,Kolkata,Unimark Sherwood Estate,Apartment,Narendrapur,2,1084,6458,Highly Affordable,70,Kolkata - Unimark Sherwood Estate
+691,Kolkata,Shrachi Greenwood Elements,Apartment,Rajarhat New Town,2,1334,6522,Highly Affordable,87,Kolkata - Shrachi Greenwood Elements
+692,Kolkata,Merlin Verve,Apartment,New Alipore,3,946,13224,Highly Affordable,125,Kolkata - Merlin Verve
+693,Kolkata,Mayfair Residency,Apartment,Em Bypass,2,850,5600,Highly Affordable,47,Kolkata - Mayfair Residency
+694,Kolkata,Deeshari Megacity Phase II,Apartment,Rajpur Chowhati,2,785,3822,Highly Affordable,30,Kolkata - Deeshari Megacity Phase II
+695,Kolkata,Godrej Blue,Apartment,B L Saha Road,3,901,26637,Highly Affordable,240,Kolkata - Godrej Blue
+696,Kolkata,Unimark Kendriya Vihar,Apartment,Dum Dum,2,900,6111,Highly Affordable,55,Kolkata - Unimark Kendriya Vihar
+697,Kolkata,Anik One Rajarhat,Apartment,Rajarhat,4,3029,15021,Moderately Affordable,455,Kolkata - Anik One Rajarhat
+698,Kolkata,Asha Nirman,Apartment,Keshtopur,2,1050,4000,Highly Affordable,42,Kolkata - Asha Nirman
+699,Kolkata,Rupayan Su Casa Twins,Apartment,Narendrapur,3,999,3103,Highly Affordable,31,Kolkata - Rupayan Su Casa Twins
+700,Kolkata,Sunrise Towers,Apartment,Beliaghata,3,1357,9580,Highly Affordable,130,Kolkata - Sunrise Towers
+701,Kolkata,The Ecos,Apartment,New Town,2,1000,5600,Highly Affordable,56,Kolkata - The Ecos
+702,Kolkata,Ambuja Ecospace Residencia,Apartment,New Town Action Area ii,3,816,8333,Highly Affordable,68,Kolkata - Ambuja Ecospace Residencia
+703,Kolkata,Vedic Village,Independent House,Rajarhat,3,5492,2292,Highly Affordable,165,Kolkata - Vedic Village
+704,Kolkata,Srijan Optima,Apartment,Rajarhat Chowmatha,3,1699,8005,Highly Affordable,136,Kolkata - Srijan Optima
+705,Kolkata,Sureka Sunrise Aura,Apartment,Dakshin Gobindopur,2,677,6869,Highly Affordable,46,Kolkata - Sureka Sunrise Aura
+706,Kolkata,Hiland Greens,Apartment,Maheshtala,3,1060,4057,Highly Affordable,43,Kolkata - Hiland Greens
+707,Kolkata,Diamond Residency,Apartment,Behala,2,980,4694,Highly Affordable,46,Kolkata - Diamond Residency
+708,Kolkata,Ideal Niketan,Apartment,Chingrighata,3,1450,6552,Highly Affordable,95,Kolkata - Ideal Niketan
+709,Kolkata,Raj Apartment Rajarhat,Apartment,Rajarhat,2,980,3265,Highly Affordable,32,Kolkata - Raj Apartment Rajarhat
+710,Kolkata,Tata Avenida,Apartment,New Town,3,1635,20795,Moderately Affordable,340,Kolkata - Tata Avenida
+711,Kolkata,Mukul Shanti Garden,Apartment,Bablatala,2,1158,4922,Highly Affordable,57,Kolkata - Mukul Shanti Garden
+712,Kolkata,Riya Gitanjali,Apartment,Barrackpore,3,1159,3451,Highly Affordable,40,Kolkata - Riya Gitanjali
+713,Kolkata,Amrapali Ananda Dham,Apartment,Kalighat,2,1100,8636,Highly Affordable,95,Kolkata - Amrapali Ananda Dham
+714,Kolkata,Unitech Vistas,Apartment,Rajarhat New Town,3,1226,8197,Highly Affordable,100,Kolkata - Unitech Vistas
+715,Kolkata,Rishi Pranaya Phase I,Apartment,Rajarhat New Town,3,1185,9451,Highly Affordable,112,Kolkata - Rishi Pranaya Phase I
+716,Kolkata,Sunrise Towers,Apartment,Beliaghata,3,1357,8843,Highly Affordable,120,Kolkata - Sunrise Towers
+717,Kolkata,Tata 88 East,Apartment,Alipore,6,3400,22647,Luxury,770,Kolkata - Tata 88 East
+718,Kolkata,Merlin Verve,Apartment,New Alipore,3,945,13333,Highly Affordable,126,Kolkata - Merlin Verve
+719,Kolkata,Jain Dream Excellency,Apartment,Rajarhat,3,1440,6319,Highly Affordable,91,Kolkata - Jain Dream Excellency
+720,Kolkata,Sunrise Towers,Apartment,Beliaghata,3,1357,8843,Highly Affordable,120,Kolkata - Sunrise Towers
+721,Kolkata,Natural Haldiram Enclave,Apartment,Vip Road,3,1669,5711,Highly Affordable,95,Kolkata - Natural Haldiram Enclave
+722,Kolkata,Ambuja Ecospace Residencia,Apartment,New Town Action Area ii,3,815,8344,Highly Affordable,68,Kolkata - Ambuja Ecospace Residencia
+723,Kolkata,Silver Gardenia Lake Town,Apartment,Lake Town,3,1200,6750,Highly Affordable,81,Kolkata - Silver Gardenia Lake Town
+724,Kolkata,Asha Nirman,Apartment,Keshtopur,2,1050,4000,Highly Affordable,42,Kolkata - Asha Nirman
+725,Kolkata,Rameswara Riverview,Apartment,Barrackpore,3,830,7169,Highly Affordable,59,Kolkata - Rameswara Riverview
+726,Kolkata,Deeshari Megacity,Apartment,Sonarpur,2,861,3484,Highly Affordable,30,Kolkata - Deeshari Megacity
+727,Kolkata,Godrej Orchard,Apartment,Joka,2,942,5042,Highly Affordable,47,Kolkata - Godrej Orchard
+728,Ahmedabad,Applewood Sorrel,Apartment,Bopal,3,1880,3989,Highly Affordable,75,Ahmedabad - Applewood Sorrel
+729,Ahmedabad,Shilp Revanta,Apartment,Shela,3,1510,4470,Highly Affordable,67,Ahmedabad - Shilp Revanta
+730,Ahmedabad,Goyal Orchid Blues,Apartment,Shela,2,1069,5145,Highly Affordable,55,Ahmedabad - Goyal Orchid Blues
+731,Ahmedabad,Keshav Elitus,Builder Floor,Randesan,3,2160,4444,Highly Affordable,96,Ahmedabad - Keshav Elitus
+732,Ahmedabad,Krishna Heights Jagatpur,Apartment,Jagatpur,3,1720,4305,Highly Affordable,74,Ahmedabad - Krishna Heights Jagatpur
+733,Ahmedabad,Goyal Riviera Aspire,Apartment,Shela,3,2740,6752,Highly Affordable,185,Ahmedabad - Goyal Riviera Aspire
+734,Ahmedabad,Shri Balaji Enclave,Apartment,Nava Naroda,2,1325,3245,Highly Affordable,43,Ahmedabad - Shri Balaji Enclave
+735,Ahmedabad,Constera Anamika High Point,Apartment,Bodakdev,4,1767,16299,Moderately Affordable,288,Ahmedabad - Constera Anamika High Point
+736,Ahmedabad,Venus Parkland,Apartment,Juhapura,2,1215,5185,Highly Affordable,63,Ahmedabad - Venus Parkland
+737,Ahmedabad,Constera Anamika High Point,Apartment,Bodakdev,4,2265,16336,Moderately Affordable,370,Ahmedabad - Constera Anamika High Point
+738,Ahmedabad,Constera Anamika High Point,Apartment,Bodakdev,4,1767,16299,Moderately Affordable,288,Ahmedabad - Constera Anamika High Point
+739,Ahmedabad,Unique Luxuria Ahmedabad,Apartment,Sola,3,2520,6190,Highly Affordable,156,Ahmedabad - Unique Luxuria Ahmedabad
+740,Ahmedabad,Govardhan Galaxy,Apartment,Nava Naroda,2,945,4762,Highly Affordable,45,Ahmedabad - Govardhan Galaxy
+741,Ahmedabad,Applewood Sorrel,Apartment,Bopal,2,1285,3969,Highly Affordable,51,Ahmedabad - Applewood Sorrel
+742,Ahmedabad,Dharmadev Swaminarayan Park 3,Apartment,Vasna,2,700,7571,Highly Affordable,53,Ahmedabad - Dharmadev Swaminarayan Park 3
+743,Ahmedabad,Yash Pinnacle,Apartment,Paldi,2,1116,5466,Highly Affordable,61,Ahmedabad - Yash Pinnacle
+744,Ahmedabad,Sammet Platinum,Apartment,Makarba,3,1250,7200,Highly Affordable,90,Ahmedabad - Sammet Platinum
+745,Ahmedabad,Dharmadev Swaminarayan Park 1,Apartment,Narolgam,2,900,2444,Highly Affordable,22,Ahmedabad - Dharmadev Swaminarayan Park 1
+746,Ahmedabad,Adani Shantigram Aangan,Apartment,Near Vaishno Devi Circle On Sg Highway,2,818,6724,Highly Affordable,55,Ahmedabad - Adani Shantigram Aangan
+747,Ahmedabad,Madhav Oeuvre 3,Apartment,Ambli,5,5492,9512,Moderately Affordable,560,Ahmedabad - Madhav Oeuvre 3
+748,Ahmedabad,ICB Flora,Apartment,Gota,2,1170,5385,Highly Affordable,63,Ahmedabad - ICB Flora
+749,Ahmedabad,Keshar Aalayam,Apartment,Near Vaishno Devi Circle On Sg Highway,3,1552,5799,Highly Affordable,90,Ahmedabad - Keshar Aalayam
+750,Ahmedabad,Aaryan City,Apartment,Gota,3,1890,6878,Highly Affordable,130,Ahmedabad - Aaryan City
+751,Ahmedabad,JP Iscon Platinum,Apartment,Bopal,3,2285,6127,Highly Affordable,140,Ahmedabad - JP Iscon Platinum
+752,Ahmedabad,Shakti 140,Apartment,Thaltej,2,1260,6349,Highly Affordable,80,Ahmedabad - Shakti 140
+753,Ahmedabad,Shilp Serene,Apartment,Shilaj,3,1750,5771,Highly Affordable,101,Ahmedabad - Shilp Serene
+754,Ahmedabad,Constera Anamika High Point,Apartment,Bodakdev,4,2269,16086,Moderately Affordable,365,Ahmedabad - Constera Anamika High Point
+755,Ahmedabad,Aarmor Aaradhya Elegance,Apartment,Mithakhali,4,3765,8000,Moderately Affordable,301,Ahmedabad - Aarmor Aaradhya Elegance
+756,Ahmedabad,Krishna Heights Jagatpur,Apartment,Jagatpur,3,1710,4327,Highly Affordable,74,Ahmedabad - Krishna Heights Jagatpur
+757,Ahmedabad,Rajyash Reevanta,Apartment,Vasna,2,675,8148,Highly Affordable,55,Ahmedabad - Rajyash Reevanta
+758,Ahmedabad,Aaryan City,Apartment,Gota,3,1890,6878,Highly Affordable,130,Ahmedabad - Aaryan City
+759,Ahmedabad,Deep Indraprasth Saptak,Apartment,Naranpura,4,3120,8013,Highly Affordable,250,Ahmedabad - Deep Indraprasth Saptak
+760,Ahmedabad,Rudra Keshav Skyline,Apartment,Chandkheda,3,1620,5556,Highly Affordable,90,Ahmedabad - Rudra Keshav Skyline
+761,Ahmedabad,Shree Radha Jaldeep Icon,Apartment,Makarba,5,746,6971,Highly Affordable,52,Ahmedabad - Shree Radha Jaldeep Icon
+762,Ahmedabad,Aurum Sky,Apartment,Sola,2,1224,6536,Highly Affordable,80,Ahmedabad - Aurum Sky
+763,Ahmedabad,Trilokesh Riverside Park,Apartment,Vasna,2,650,7385,Highly Affordable,48,Ahmedabad - Trilokesh Riverside Park
+764,Jaipur,Premier Arise,Apartment,Paldi Parsa,1,610,4500,Highly Affordable,27,Jaipur - Premier Arise
+765,Jaipur,Sun N Moon Belvedere Park,Penthouse,New Sanganer Road,3,3583,8233,Moderately Affordable,295,Jaipur - Sun N Moon Belvedere Park
+766,Jaipur,Unique Sapphire,Apartment,Mohanpura,5,1170,3846,Highly Affordable,45,Jaipur - Unique Sapphire
+767,Jaipur,Sankalp 24 Carat,Apartment,Jagatpura,3,1044,7663,Highly Affordable,80,Jaipur - Sankalp 24 Carat
+768,Jaipur,Vardhaman Alora,Apartment,Vardhman Nagar,3,1580,6503,Highly Affordable,102,Jaipur - Vardhaman Alora
+769,Jaipur,SSBC Prangan,Apartment,Muhana,2,573,3839,Highly Affordable,22,Jaipur - SSBC Prangan
+770,Jaipur,Mahima Sansaar,Apartment,Tonk Road,3,1190,4874,Highly Affordable,58,Jaipur - Mahima Sansaar
+771,Jaipur,Balaji Urban Prime,Apartment,Manyawas,3,1680,5298,Highly Affordable,89,Jaipur - Balaji Urban Prime
+772,Jaipur,Nand Residency,Apartment,Malviya Nagar,3,1500,4133,Highly Affordable,62,Jaipur - Nand Residency
+773,Jaipur,Trimurty Ariana Phase:II,Apartment,Jagatpura,5,2176,7721,Highly Affordable,168,Jaipur - Trimurty Ariana Phase:II
+774,Jaipur,Redwood Magnus,Apartment,Jeerota,1,475,7368,Highly Affordable,35,Jaipur - Redwood Magnus
+775,Jaipur,Galaxy Enclave Kalwara,Apartment,Kalwara,4,2455,11000,Moderately Affordable,270,Jaipur - Galaxy Enclave Kalwara
+776,Jaipur,Reliant Floresta,Apartment,Dholai,3,1611,5750,Highly Affordable,92,Jaipur - Reliant Floresta
+777,Jaipur,Govindam Jaisinghpura,Apartment,Jaisinghpura,3,730,4110,Highly Affordable,30,Jaipur - Govindam Jaisinghpura
+778,Jaipur,Hanumant Raghunandan Heights,Apartment,Meenawala,3,1200,3083,Highly Affordable,37,Jaipur - Hanumant Raghunandan Heights
+779,Jaipur,VN Exclusive 444,Apartment,Jagatpura,3,1480,5200,Highly Affordable,76,Jaipur - VN Exclusive 444
+780,Jaipur,Ravi Kiran Vihar,Villa,Mohanpura,4,792,13258,Highly Affordable,105,Jaipur - Ravi Kiran Vihar
+781,Jaipur,Om Pallacia,Apartment,C-Scheme,3,2200,18000,Moderately Affordable,396,Jaipur - Om Pallacia
+782,Jaipur,Kediaz Corporate Club,Apartment,Vaishali Nagar,1,650,3462,Highly Affordable,22,Jaipur - Kediaz Corporate Club
+783,Jaipur,Sarthak Paradise,Apartment,Jagatpura,3,1500,3667,Highly Affordable,55,Jaipur - Sarthak Paradise
+784,Jaipur,Mahal Niwas,Apartment,Shri Kishanpura,3,1395,4229,Highly Affordable,59,Jaipur - Mahal Niwas
+785,Jaipur,Kalyan Eva,Apartment,Karolan Ka Barh,4,1600,5000,Highly Affordable,80,Jaipur - Kalyan Eva
+786,Jaipur,The Century Elite,Apartment,Bhankrota,2,947,4963,Highly Affordable,47,Jaipur - The Century Elite
+787,Jaipur,VN Exclusive 444,Apartment,Jagatpura,2,1010,5200,Highly Affordable,52,Jaipur - VN Exclusive 444
+788,Jaipur,ARG Maharaja Apartment,Apartment,Bani Park,2,1150,6783,Highly Affordable,78,Jaipur - ARG Maharaja Apartment
+789,Surat,SU Crimson Palace,Apartment,New City Light,4,3520,6676,Highly Affordable,235,Surat - SU Crimson Palace
+790,Surat,Avadh Onella,Apartment,Dumas Road,4,5492,1582,Highly Affordable,120,Surat - Avadh Onella
+791,Surat,Sai Citron Residency,Apartment,Bamroli,3,1569,5991,Highly Affordable,94,Surat - Sai Citron Residency
+792,Indore,AGG Anand Valley,Apartment,Anand Nagar,3,1200,5000,Highly Affordable,60,Indore - AGG Anand Valley
+793,Nagpur,Godrej Anandam,Apartment,Ganeshpeth Colony,3,1550,9355,Highly Affordable,145,Nagpur - Godrej Anandam
+794,Nagpur,Asha Kusum Apartments,Apartment,Besa,2,650,10000,Highly Affordable,65,Nagpur - Asha Kusum Apartments
+795,Nagpur,Atharva Apartments Nagpur,Apartment,Manish Nagar,3,1300,6154,Highly Affordable,80,Nagpur - Atharva Apartments Nagpur
+796,Nagpur,Gokul Apartments Nagpur,Apartment,Dobi Nagar,3,1200,6667,Highly Affordable,80,Nagpur - Gokul Apartments Nagpur
+797,Nagpur,Mahalaxmi Tattva Apas,Apartment,Beltarodi,3,1633,4501,Highly Affordable,73,Nagpur - Mahalaxmi Tattva Apas
+798,Nagpur,Asha Kusum Apartments,Apartment,Besa,2,670,10000,Highly Affordable,67,Nagpur - Asha Kusum Apartments
+799,Nagpur,Mahalaxmi Tattva Apas,Apartment,Beltarodi,3,1530,3595,Highly Affordable,55,Nagpur - Mahalaxmi Tattva Apas
+800,Nagpur,Shivani Enclave,Apartment,Manish Nagar,3,2000,4750,Highly Affordable,95,Nagpur - Shivani Enclave
+801,Nagpur,Asha Kusum Apartments,Apartment,Besa,2,660,10000,Highly Affordable,66,Nagpur - Asha Kusum Apartments
+802,Nagpur,Mahalaxmi Tattva Apas,Apartment,Beltarodi,2,1138,4069,Highly Affordable,46,Nagpur - Mahalaxmi Tattva Apas
+803,Coimbatore,RR Oak Tree,Independent House,Madukkarai,2,1200,3500,Highly Affordable,42,Coimbatore - RR Oak Tree
+804,Coimbatore,VVM GJV Anugrakha Enclave,Independent House,Thudiyalur,2,700,5000,Highly Affordable,35,Coimbatore - VVM GJV Anugrakha Enclave
+805,Coimbatore,VS Avenue,Independent House,Thudiyalur,2,1200,2667,Highly Affordable,32,Coimbatore - VS Avenue
+806,Coimbatore,VVM GJV Anugrakha Enclave,Villa,Thudiyalur,4,1200,5833,Highly Affordable,70,Coimbatore - VVM GJV Anugrakha Enclave
+807,Coimbatore,RR Swara,Independent House,Saravanampatti,2,1200,3400,Highly Affordable,40,Coimbatore - RR Swara
+808,Coimbatore,VS Avenue,Villa,Thudiyalur,3,1400,5000,Highly Affordable,70,Coimbatore - VS Avenue
+809,Coimbatore,VS Avenue,Villa,Thudiyalur,2,700,6429,Highly Affordable,45,Coimbatore - VS Avenue

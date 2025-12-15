@@ -1,0 +1,888 @@
+,City,Location,Project Name,Property Title,Property Type,Locality,Price,BHK,Area_SqFt_Number,Area_per_SqFt_Price
+0,Pune,"Nanded, Pune",Dharmavat Sunder Sanskruti Phase 3,2 BHK 1300 Sq.Ft. Apartment in Dharmavat Sunder Sanskruti Phase 3,Apartment,Nanded,11000000.0,2,1300,8462.0
+1,Pune,"Nanded, Pune",Nanded City Asawari,2 BHK + Extra Room 872 Sq.Ft. Apartment in Nanded City Asawari,Apartment,Nanded,8400000.0,2,872,9633.0
+2,Pune,"Dhanori, Pune",Magnum lifestyle,1 BHK 390 Sq.Ft. Apartment in Magnum lifestyle,Apartment,Dhanori,3500000.0,1,390,8974.0
+3,Pune,"Punawale, Pune",Somani Towers,2 BHK + Pooja Room 626 Sq.Ft. Apartment in Somani Towers,Apartment,Punawale,6000000.0,2,626,9585.0
+4,Pune,"Wadgaon Sheri, Pune",Mika Triton Residency,2 BHK + Extra Room 870 Sq.Ft. Apartment in Mika Triton Residency,Apartment,Wadgaon Sheri,11500000.0,2,870,13218.0
+5,Pune,"Hinjewadi, Pune",Kolte Patil Life Republic,2 BHK + Pooja Room 857 Sq.Ft. Apartment in Kolte Patil Life Republic,Apartment,Hinjewadi,8450000.0,2,857,9860.0
+6,Pune,"Ambegaon Budruk, Pune",Grande View 7 Phase 3,2 BHK + Servant Room 1000 Sq.Ft. Apartment in Grande View 7 Phase 3,Apartment,Ambegaon Budruk,8400000.0,2,1000,8400.0
+7,Pune,"Wagholi, Pune",Bhandari 31 Palma Drive,3 BHK 1090 Sq.Ft. Apartment in Bhandari 31 Palma Drive,Apartment,Wagholi,11999999.0,3,1090,11009.0
+8,Pune,"Erandwane, Pune",Minal CHS Erandwane,3 BHK 1280 Sq.Ft. Apartment in Minal CHS Erandwane,Apartment,Erandwane,26000000.0,3,1280,20312.0
+9,Pune,"Rahatani, Pune",Swastik Pride Homes,2 BHK 707 Sq.Ft. Apartment in Swastik Pride Homes,Apartment,Rahatani,8000000.0,2,707,11315.0
+10,Pune,"Kharadi, Pune",Gera World of Joy,2 BHK + Extra Room 792 Sq.Ft. Apartment in Gera World of Joy,Apartment,Kharadi,0.0,2,792,0.0
+11,Pune,"Akurdi, Pune",Shubhashree Apartmaent Akurdi,2 BHK 850 Sq.Ft. Apartment in Shubhashree Apartmaent Akurdi,Apartment,Akurdi,7500000.0,2,850,8824.0
+12,Pune,"Kharadi, Pune",Kolte Patil Cheryl,2 BHK 890 Sq.Ft. Apartment in Kolte Patil Cheryl,Apartment,Kharadi,11900000.0,2,890,13371.0
+13,Pune,"Baner, Pune",Lodha Massimo,"4 BHK + Pooja Room,Servant Room,Study Room,Extra Room 2056 Sq.Ft. Apartment in Lodha Massimo",Apartment,Baner,50000000.0,4,2056,24319.0
+14,Pune,"Aundh, Pune",Venkatesh Shakuntala,1 BHK 485 Sq.Ft. Apartment in Venkatesh Shakuntala,Apartment,Aundh,6500000.0,1,485,13402.0
+15,Pune,"Kharadi, Pune",Mittal Silver Crescent,2 BHK + Pooja Room 1080 Sq.Ft. Apartment in Mittal Silver Crescent,Apartment,Kharadi,8500000.0,2,1080,7870.0
+16,Pune,"Dhayari, Pune",BK Chavan Ramkrushna Park,1 BHK 450 Sq.Ft. Apartment in BK Chavan Ramkrushna Park,Apartment,Dhayari,4370712.0,1,450,9713.0
+17,Pune,"Bavdhan, Pune",Grace Apartment Bavdhan,2 BHK 630 Sq.Ft. Apartment in Grace Apartment Bavdhan,Apartment,Bavdhan,7800000.0,2,630,12381.0
+18,Pune,"Mundhwa, Pune",Alcon Silverleaf,2 BHK 975 Sq.Ft. Apartment in Alcon Silverleaf,Apartment,Mundhwa,9000000.0,2,975,9231.0
+19,Pune,"Nibm Road, Pune",Ekta California,5 BHK + Servant Room 2800 Sq.Ft. Apartment in Ekta California,Apartment,Nibm Road,26500000.0,5,2800,9464.0
+20,Pune,"Mamurdi, Pune",Little Earth Apartments,2 BHK 569 Sq.Ft. Apartment in Little Earth Apartments,Apartment,Mamurdi,7169000.0,2,569,12599.0
+21,Pune,"Alandi Road, Pune",Expat Genesis,3 BHK 1441 Sq.Ft. Apartment in Expat Genesis,Apartment,Alandi Road,11800000.0,3,1441,8189.0
+22,Pune,"Vadgaon Budruk, Pune",Venkatesh Skylife,3 BHK + Pooja Room 1220 Sq.Ft. Apartment in Venkatesh Skylife,Apartment,Vadgaon Budruk,18802322.0,3,1220,15412.0
+23,Pune,"Tathawade, Pune",Goel Ganga Amber,1 BHK + Extra Room 520 Sq.Ft. Apartment in Goel Ganga Amber,Apartment,Tathawade,5200000.0,1,520,10000.0
+24,Pune,"Mundhwa, Pune",Goel Ganga Orchard,2 BHK 1050 Sq.Ft. Apartment in Goel Ganga Orchard,Apartment,Mundhwa,11500000.0,2,1050,10952.0
+25,Pune,"Wagholi, Pune",Goyal My Home Upper Kharadi,3 BHK + Pooja Room 1210 Sq.Ft. Apartment in Goyal My Home Upper Kharadi,Apartment,Wagholi,11000000.0,3,1210,9091.0
+26,Pune,"Mundhwa, Pune",Kohinoor Business Tower,23215 Sq.Ft. Office Space in Kohinoor Business Tower,Office Space,Mundhwa,309920250.0,,23215,13350.0
+27,Pune,"Nibm Road, Pune",Lodha Bella Vita,2 BHK 814 Sq.Ft. Apartment in Lodha Bella Vita,Apartment,Nibm Road,9500000.0,2,814,11671.0
+28,Pune,"Wakad, Pune",Safal Oneiro,2 BHK + Pooja Room 900 Sq.Ft. Apartment in Safal Oneiro,Apartment,Wakad,9000000.0,2,900,10000.0
+29,Pune,"Bhugaon, Pune",Skyi Songbirds,2 BHK + Pooja Room 825 Sq.Ft. Apartment in Skyi Songbirds,Apartment,Bhugaon,10000000.0,2,825,12121.0
+30,Pune,"Bavdhan, Pune",Ganga Legend,2 BHK 650 Sq.Ft. Apartment in Ganga Legend,Apartment,Bavdhan,8500000.0,2,650,13077.0
+31,Pune,"Kondhwa Budruk, Pune",Paramount Eros Apartment,2.5 BHK + Pooja Room 1157 Sq.Ft. Apartment in Paramount Eros Apartment,Apartment,Kondhwa Budruk,8200000.0,5,1157,7087.0
+32,Pune,"Punawale, Pune",Somani Dream Home,3 BHK 912 Sq.Ft. Apartment in Somani Dream Home,Apartment,Punawale,7800000.0,3,912,8553.0
+33,Pune,"Salisbury Park, Pune",West View Society,4 BHK + Pooja Room 1961 Sq.Ft. Apartment in West View Society,Apartment,Salisbury Park,51000000.0,4,1961,26007.0
+34,Pune,"Vishal Nagar, Pune",Mangalmurti Apartments,1 BHK 490 Sq.Ft. Apartment in Mangalmurti Apartments,Apartment,Vishal Nagar,5400000.0,1,490,11020.0
+35,Pune,"Moshi, Pune",Shree Shankeshwar Sparsh,2 BHK + Study Room 660 Sq.Ft. Builder Floor in Shree Shankeshwar Sparsh,Builder Floor,Moshi,4400000.0,2,660,6667.0
+36,Pune,"Somatne Phata, Pune",N V Business Center,350 Sq.Ft. Office Space in N V Business Center,Office Space,Somatne Phata,5200000.0,,350,14857.0
+37,Pune,"Undri, Pune",Gagan Ela,2 BHK 736 Sq.Ft. Apartment in Gagan Ela,Apartment,Undri,7200000.0,2,736,9783.0
+38,Pune,"Pimple Gurav, Pune",Kalpataru Estate,2 BHK 1300 Sq.Ft. Apartment in Kalpataru Estate,Apartment,Pimple Gurav,11500000.0,2,1300,8846.0
+39,Pune,"Pimple Saudagar, Pune",GK Rose County,2.5 BHK 980 Sq.Ft. Apartment in GK Rose County,Apartment,Pimple Saudagar,10000000.0,5,980,10204.0
+40,Pune,"Pimple Gurav, Pune",Silver Paradise Pimple Gurav,2 BHK 744 Sq.Ft. Apartment in Silver Paradise Pimple Gurav,Apartment,Pimple Gurav,9100000.0,2,744,12231.0
+41,Pune,"Bavdhan, Pune",Ganga Legend,2 BHK 840 Sq.Ft. Apartment in Ganga Legend,Apartment,Bavdhan,8300000.0,2,840,9881.0
+42,Pune,"Wanwadi, Pune",Riviera Society,2 BHK 1300 Sq.Ft. Apartment in Riviera Society,Apartment,Wanwadi,7200000.0,2,1300,5538.0
+43,Pune,"Viman Nagar, Pune",Goel Ganga Hamlet,3 BHK + Pooja Room 1600 Sq.Ft. Apartment in Goel Ganga Hamlet,Apartment,Viman Nagar,19000000.0,3,1600,11875.0
+44,Pune,"Wagholi, Pune",Karia Konark Orchid,2 BHK 1045 Sq.Ft. Apartment in Karia Konark Orchid,Apartment,Wagholi,8500000.0,2,1045,8134.0
+45,Pune,"Dhanori, Pune",Nyati Era,3 BHK 1175 Sq.Ft. Apartment in Nyati Era,Apartment,Dhanori,12000000.0,3,1175,10213.0
+46,Pune,"Pashan, Pune",The Gen Meraki,2 BHK 916 Sq.Ft. Apartment in The Gen Meraki,Apartment,Pashan,14500000.0,2,916,15830.0
+47,Pune,"Kalyani Nagar, Pune",Bramhacorp The Collection,3 BHK 1090 Sq.Ft. Apartment in Bramhacorp The Collection,Apartment,Kalyani Nagar,16500000.0,3,1090,15138.0
+48,Pune,"Dhanori, Pune",Pride Aashiyana,3 BHK + Pooja Room 979 Sq.Ft. Apartment in Pride Aashiyana,Apartment,Dhanori,9800000.0,3,979,10010.0
+49,Pune,"Bhoirwadi, Pune",VTP Belair,"3 BHK + Pooja Room,Servant Room,Study Room,Extra Room 962 Sq.Ft. Apartment in VTP Belair",Apartment,Bhoirwadi,10000000.0,3,962,10395.0
+50,Pune,"Kalyani Nagar, Pune",Dugad Panache,2 BHK + Extra Room 931 Sq.Ft. Apartment in Dugad Panache,Apartment,Kalyani Nagar,17500000.0,2,931,18797.0
+51,Pune,"Mundhwa, Pune",Magarpatta Nova Residency,2.5 BHK + Servant Room 960 Sq.Ft. Apartment in Magarpatta Nova Residency,Apartment,Mundhwa,10000000.0,5,960,10417.0
+52,Pune,"Baner, Pune",BD Blossom,2 BHK + Pooja Room 950 Sq.Ft. Apartment in BD Blossom,Apartment,Baner,9500000.0,2,950,10000.0
+53,Pune,"Dhanori, Pune",Organic Dhanorina,2.5 BHK + Extra Room 1140 Sq.Ft. Apartment in Organic Dhanorina,Apartment,Dhanori,7500000.0,5,1140,6579.0
+54,Pune,"Wagholi, Pune",Pristine Meadows,2 BHK 1050 Sq.Ft. Apartment in Pristine Meadows,Apartment,Wagholi,5700000.0,2,1050,5429.0
+55,Pune,"Pimple Saudagar, Pune",SSD Sai Dreams,2.5 BHK 1250 Sq.Ft. Apartment in SSD Sai Dreams,Apartment,Pimple Saudagar,12800000.0,5,1250,10240.0
+56,Pune,"Fatima Nagar, Pune",Kumar Kunj,2.5 BHK 1420 Sq.Ft. Apartment in Kumar Kunj,Apartment,Fatima Nagar,9000000.0,5,1420,6338.0
+57,Pune,"Kothrud, Pune",Pethkar Samrajya,3 BHK 1500 Sq.Ft. Apartment in Pethkar Samrajya,Apartment,Kothrud,27500000.0,3,1500,18333.0
+58,Pune,"Lonavala, Pune",Puranik Sayama,3 BHK + Servant Room 1700 Sq.Ft. Apartment in Puranik Sayama,Apartment,Lonavala,25000000.0,3,1700,14706.0
+59,Pune,"Kiwale, Pune",Legacy Imperial,2 BHK 639 Sq.Ft. Apartment in Legacy Imperial,Apartment,Kiwale,8500000.0,2,639,13302.0
+60,Pune,"Baner Pashan Link Road, Pune",Amar Serenity,4 BHK + Extra Room 2500 Sq.Ft. Apartment in Amar Serenity,Apartment,Baner Pashan Link Road,26000000.0,4,2500,10400.0
+61,Pune,"Mundhwa, Pune",Osian Almanova,3 BHK + Pooja Room 1058 Sq.Ft. Apartment in Osian Almanova,Apartment,Mundhwa,14000000.0,3,1058,13233.0
+62,Pune,"Pimpri, Pune",Mahindra Royale,2 BHK 1200 Sq.Ft. Apartment in Mahindra Royale,Apartment,Pimpri,15000000.0,2,1200,12500.0
+63,Pune,"Kharadi, Pune",VTP Urban Soul,2 BHK 750 Sq.Ft. Apartment in VTP Urban Soul,Apartment,Kharadi,8800000.0,2,750,11733.0
+64,Pune,"Erandwane, Pune",Sankul Apartments,3 BHK + Pooja Room 1650 Sq.Ft. Apartment in Sankul Apartments,Apartment,Erandwane,29000000.0,3,1650,17576.0
+65,Pune,"Bavdhan, Pune",Gera Isle Royale,"3.5 BHK + Pooja Room,Servant Room 2075 Sq.Ft. Apartment in Gera Isle Royale",Apartment,Bavdhan,31000000.0,5,2075,14940.0
+66,Pune,"Kondhwa Budruk, Pune",Tribute Ultima Grandeur,3 BHK 1315 Sq.Ft. Apartment in Tribute Ultima Grandeur,Apartment,Kondhwa Budruk,16200000.0,3,1315,12319.0
+67,Pune,"Wakad, Pune",Malpani Greens,2 BHK + Pooja Room 1206 Sq.Ft. Apartment in Malpani Greens,Apartment,Wakad,12500000.0,2,1206,10365.0
+68,Pune,"Rahatani, Pune",Vidya Kaka Homes,1.5 BHK 595 Sq.Ft. Apartment in Vidya Kaka Homes,Apartment,Rahatani,6300000.0,5,595,10588.0
+69,Pune,"Pimple Nilakh, Pune",Kolte Patil 24K Atria,"6 BHK + Pooja Room,Servant Room 100000 Sq.Ft. Penthouse in Kolte Patil 24K Atria",Penthouse,Pimple Nilakh,100000000.0,6,0,inf
+70,Pune,"Kharadi, Pune",Goel Ganga Constella,2 BHK + Pooja Room 775 Sq.Ft. Apartment in Goel Ganga Constella,Apartment,Kharadi,9200000.0,2,775,11871.0
+71,Pune,"Kothrud, Pune",Lodha Palais,4 BHK + Extra Room 2023 Sq.Ft. Apartment in Lodha Palais,Apartment,Kothrud,55000000.0,4,2023,27187.0
+72,Pune,"Narhe, Pune",Suvidha Ambar,1 BHK 550 Sq.Ft. Apartment in Suvidha Ambar,Apartment,Narhe,3600000.0,1,550,6545.0
+73,Pune,"Hinjewadi, Pune",Kolte Patil Life Republic,2 BHK + Pooja Room 801 Sq.Ft. Apartment in Kolte Patil Life Republic,Apartment,Hinjewadi,7700000.0,2,801,9613.0
+74,Pune,"Hinjewadi, Pune",Pride Purple Park Astra,3 BHK + Pooja Room 722 Sq.Ft. Apartment in Pride Purple Park Astra,Apartment,Hinjewadi,18200000.0,3,722,25208.0
+75,Pune,"Bibwewadi, Pune",Kohinoor Jeeva,2 BHK + Pooja Room 787 Sq.Ft. Builder Floor in Kohinoor Jeeva,Builder Floor,Bibwewadi,10900000.0,2,787,13850.0
+76,Pune,"Wakad, Pune",Jhamtani Ace Almighty Phase II,2 BHK 1050 Sq.Ft. Apartment in Jhamtani Ace Almighty Phase II,Apartment,Wakad,8200000.0,2,1050,7810.0
+77,Pune,"Kalyani Nagar, Pune",Bramhacorp The Collection,2 BHK 1105 Sq.Ft. Apartment in Bramhacorp The Collection,Apartment,Kalyani Nagar,13000000.0,2,1105,11765.0
+78,Pune,"Kharadi, Pune",Kumar Periwinkle,2 BHK 779 Sq.Ft. Apartment in Kumar Periwinkle,Apartment,Kharadi,8800000.0,2,779,11297.0
+79,Pune,"Kondhwa Budruk, Pune",Mahaveer Park,2 BHK + Pooja Room 1127 Sq.Ft. Apartment in Mahaveer Park,Apartment,Kondhwa Budruk,15000000.0,2,1127,13310.0
+80,Pune,"Dehu Road, Pune",Shivkailas Kute Fortune,2 BHK 805 Sq.Ft. Apartment in Shivkailas Kute Fortune,Apartment,Dehu Road,6300000.0,2,805,7826.0
+81,Pune,"Sinhagad Road, Pune",DSK Meghmalhar Phase I,2 BHK 972 Sq.Ft. Apartment in DSK Meghmalhar Phase I,Apartment,Sinhagad Road,6450000.0,2,972,6636.0
+82,Pune,"Wakad, Pune",Sukhwani Skylines,2 BHK 756 Sq.Ft. Apartment in Sukhwani Skylines,Apartment,Wakad,9000000.0,2,756,11905.0
+83,Pune,"Wakad, Pune",SRK Platinum,2 BHK + Pooja Room 792 Sq.Ft. Apartment in SRK Platinum,Apartment,Wakad,8000000.0,2,792,10101.0
+84,Pune,"Kalyani Nagar, Pune",Nirman Adi,3 BHK 994 Sq.Ft. Apartment in Nirman Adi,Apartment,Kalyani Nagar,0.0,3,994,0.0
+85,Pune,"Sinhagad Road, Pune",Darode Jog Crossover County,2 BHK 1050 Sq.Ft. Apartment in Darode Jog Crossover County,Apartment,Sinhagad Road,11000000.0,2,1050,10476.0
+86,Pune,"Narhe, Pune",Vilas Javdekar Yashwin Royal,2 BHK + Servant Room 1008 Sq.Ft. Apartment in Vilas Javdekar Yashwin Royal,Apartment,Narhe,6700000.0,2,1008,6647.0
+87,Pune,"Kothrud, Pune",Anuj Apartment Kothrud,2.5 BHK + Study Room 1030 Sq.Ft. Apartment in Anuj Apartment Kothrud,Apartment,Kothrud,16300000.0,5,1030,15825.0
+88,Pune,"Pradhikaran, Pune",Essen Aishwaryam Melody,2.5 BHK 1200 Sq.Ft. Apartment in Essen Aishwaryam Melody,Apartment,Pradhikaran,8500000.0,5,1200,7083.0
+89,Pune,"Hinjewadi Phase 2, Pune",Yashwin Hinjewadi,2 BHK + Study Room 760 Sq.Ft. Apartment in Yashwin Hinjewadi,Apartment,Hinjewadi Phase 2,8100000.0,2,760,10658.0
+90,Pune,"Balewadi, Pune",Elite Empire Apartment,3 BHK 1150 Sq.Ft. Apartment in Elite Empire Apartment,Apartment,Balewadi,0.0,3,1150,0.0
+91,Pune,"Wagholi, Pune",Jalan Aura County Pune,1 BHK + Pooja Room 550 Sq.Ft. Apartment in Jalan Aura County Pune,Apartment,Wagholi,4300000.0,1,550,7818.0
+92,Pune,"Vinayak Nagar, Pune",Primespace The Address,3 BHK + Study Room 1223 Sq.Ft. Apartment in Primespace The Address,Apartment,Vinayak Nagar,18000000.0,3,1223,14718.0
+93,Pune,"Madhav Nagar, Pune",Goel Ganga Newtown Phase 2,2.5 BHK 865 Sq.Ft. Apartment in Goel Ganga Newtown Phase 2,Apartment,Madhav Nagar,8500000.0,5,865,9827.0
+94,Pune,"Undri, Pune",Kundan The Landmark,2.5 BHK + Study Room 1250 Sq.Ft. Apartment in Kundan The Landmark,Apartment,Undri,0.0,5,1250,0.0
+95,Pune,"Lohgaon, Pune",Balaji Mesmero,1 BHK 620 Sq.Ft. Apartment in Balaji Mesmero,Apartment,Lohgaon,4000000.0,1,620,6452.0
+96,Pune,"Mundhwa, Pune",Purva Silversands,3 BHK 1057 Sq.Ft. Apartment in Purva Silversands,Apartment,Mundhwa,13200000.0,3,1057,12488.0
+97,Pune,"Koregaon Park Annexe, Pune",Lohia Jain The Reserve,3 BHK 1243 Sq.Ft. Apartment in Lohia Jain The Reserve,Apartment,Koregaon Park Annexe,19000000.0,3,1243,15286.0
+98,Pune,"Manjari, Pune",Shiv Zen World,1 BHK 666 Sq.Ft. Apartment in Shiv Zen World,Apartment,Manjari,4000000.0,1,666,6006.0
+99,Pune,"Gahunje, Pune",Peninsula Address One,1 BHK + Extra Room 395 Sq.Ft. Apartment in Peninsula Address One,Apartment,Gahunje,3500000.0,1,395,8861.0
+100,Pune,"Undri, Pune",Guddwill Elate,2 BHK + Pooja Room 756 Sq.Ft. Apartment in Guddwill Elate,Apartment,Undri,6210000.0,2,756,8214.0
+101,Pune,"Kalyani Nagar, Pune",Nirman Adi,3 BHK 1200 Sq.Ft. Apartment in Nirman Adi,Apartment,Kalyani Nagar,20500000.0,3,1200,17083.0
+102,Pune,"Kharadi, Pune",Goel Ganga Platinum,"3.5 BHK + Pooja Room,Servant Room 2600 Sq.Ft. Apartment in Goel Ganga Platinum",Apartment,Kharadi,27000000.0,5,2600,10385.0
+103,Pune,"Sangavade, Pune",Auti Onkar Greens,1 BHK 520 Sq.Ft. Apartment in Auti Onkar Greens,Apartment,Sangavade,4043570.0,1,520,7776.0
+104,Pune,"Viman Nagar, Pune",Lunkad Greenland,2 BHK 1456 Sq.Ft. Apartment in Lunkad Greenland,Apartment,Viman Nagar,25000000.0,2,1456,17170.0
+105,Pune,"Pashan Sus Road, Pune",Yash Classic,"3 BHK + Pooja Room,Servant Room,Study Room,Extra Room 2197 Sq.Ft. Penthouse in Yash Classic",Penthouse,Pashan Sus Road,25000000.0,3,2197,11379.0
+106,Pune,"Aundh, Pune",Sai Heritage Aundh,3.5 BHK + Pooja Room 1515 Sq.Ft. Apartment in Sai Heritage Aundh,Apartment,Aundh,22500000.0,5,1515,14851.0
+107,Pune,"Yashwant Nagar, Pune",Raja Pittie Kourtyard,5 BHK + Pooja Room 6500 Sq.Ft. Penthouse in Raja Pittie Kourtyard,Penthouse,Yashwant Nagar,55000000.0,5,6500,8462.0
+108,Pune,"Ravet, Pune",Om Tropica,2 BHK + Pooja Room 600 Sq.Ft. Apartment in Om Tropica,Apartment,Ravet,7000000.0,2,600,11667.0
+109,Pune,"Moshi, Pune",Silver Queenstown,2 BHK 694 Sq.Ft. Apartment in Silver Queenstown,Apartment,Moshi,5600000.0,2,694,8069.0
+110,Pune,"Pimple Nilakh, Pune",Shree Sai Apartment Pimple Nilakh,1 BHK 588 Sq.Ft. Apartment in Shree Sai Apartment Pimple Nilakh,Apartment,Pimple Nilakh,5600000.0,1,588,9524.0
+111,Pune,"Tingre Nagar, Pune",Mantra 29 Gold Coast,2 BHK 1100 Sq.Ft. Apartment in Mantra 29 Gold Coast,Apartment,Tingre Nagar,8500000.0,2,1100,7727.0
+112,Pune,"Mundhwa, Pune",Anandtara Iris Residences,2 BHK 850 Sq.Ft. Apartment in Anandtara Iris Residences,Apartment,Mundhwa,9000000.0,2,850,10588.0
+113,Pune,"Hadapsar, Pune",Magarpatta Jasminium,2 BHK + Servant Room 1250 Sq.Ft. Apartment in Magarpatta Jasminium,Apartment,Hadapsar,17000000.0,2,1250,13600.0
+114,Pune,"Thergaon, Pune",Koral Aeternaa,3 BHK 1127 Sq.Ft. Apartment in Koral Aeternaa,Apartment,Thergaon,13500000.0,3,1127,11979.0
+115,Pune,"Wanowrie, Pune",Radiant Paradise,3.5 BHK 2400 Sq.Ft. Penthouse in Radiant Paradise,Penthouse,Wanowrie,18000000.0,5,2400,7500.0
+116,Pune,"Vishrantwadi, Pune",Kumar Samruddhi Society,2 BHK 1200 Sq.Ft. Apartment in Kumar Samruddhi Society,Apartment,Vishrantwadi,11000000.0,2,1200,9167.0
+117,Pune,"Pisoli, Pune",Sky Heights II,2 BHK + Extra Room 1000 Sq.Ft. Apartment in Sky Heights II,Apartment,Pisoli,4500000.0,2,1000,4500.0
+118,Pune,"Viman Nagar, Pune",Naiknavare Mystique Mood,3 BHK 1831 Sq.Ft. Apartment in Naiknavare Mystique Mood,Apartment,Viman Nagar,17500000.0,3,1831,9558.0
+119,Pune,"Aundh, Pune",Royal Orchard,2 BHK + Pooja Room 1040 Sq.Ft. Apartment in Royal Orchard,Apartment,Aundh,11000000.0,2,1040,10577.0
+120,Pune,"Koregaon Park, Pune",Lapis Lazuli Apartment,"5 BHK + Pooja Room,Extra Room 2660 Sq.Ft. Apartment in Lapis Lazuli Apartment",Apartment,Koregaon Park,56000000.0,5,2660,21053.0
+121,Pune,"Kondhwa, Pune",Avnee Bellavista G Building,2 BHK + Servant Room 1000 Sq.Ft. Apartment in Avnee Bellavista G Building,Apartment,Kondhwa,12000000.0,2,1000,12000.0
+122,Pune,"Kothrud, Pune",Saarrthi Success Square,3 BHK + Pooja Room 785 Sq.Ft. Apartment in Saarrthi Success Square,Apartment,Kothrud,25000000.0,3,785,31847.0
+123,Pune,"Hadapsar, Pune",Shapoorji Pallonji Kingstown,4 BHK 1908 Sq.Ft. Apartment in Shapoorji Pallonji Kingstown,Apartment,Hadapsar,24000000.0,4,1908,12579.0
+124,Pune,"Nibm Annexe, Pune",Raichandani Swarna Vatika,2 BHK 640 Sq.Ft. Apartment in Raichandani Swarna Vatika,Apartment,Nibm Annexe,8000000.0,2,640,12500.0
+125,Pune,"Kondhwa, Pune",Sai Niwas Kondhwa,1.5 BHK 560 Sq.Ft. Apartment in Sai Niwas Kondhwa,Apartment,Kondhwa,0.0,5,560,0.0
+126,Pune,"Mamurdi, Pune",Peninsula Address One Phase 6,2 BHK 586 Sq.Ft. Apartment in Peninsula Address One Phase 6,Apartment,Mamurdi,4500000.0,2,586,7679.0
+127,Pune,"Gultekdi, Pune",Omkar Meghdoot Residency,3 BHK + Pooja Room 4300 Sq.Ft. Apartment in Omkar Meghdoot Residency,Apartment,Gultekdi,55000000.0,3,4300,12791.0
+128,Pune,"Wadgaon Sheri, Pune",Kumar Primavera,2 BHK 1050 Sq.Ft. Apartment in Kumar Primavera,Apartment,Wadgaon Sheri,8300000.0,2,1050,7905.0
+129,Pune,"Ashok Nagar, Pune",Rohan 10 Kasturkunj,3 BHK + Extra Room 1750 Sq.Ft. Apartment in Rohan 10 Kasturkunj,Apartment,Ashok Nagar,29000000.0,3,1750,16571.0
+130,Pune,"Hinjewadi, Pune",Paranjape Schemes Blue Ridge,2 BHK + Extra Room 1050 Sq.Ft. Apartment in Paranjape Schemes Blue Ridge,Apartment,Hinjewadi,13400000.0,2,1050,12762.0
+131,Pune,"Gultekdi, Pune",Gagan Signet,2 BHK 903 Sq.Ft. Apartment in Gagan Signet,Apartment,Gultekdi,12500000.0,2,903,13843.0
+132,Pune,"Wagholi, Pune",Suyog Nisarg,2 BHK + Pooja Room 900 Sq.Ft. Apartment in Suyog Nisarg,Apartment,Wagholi,6000000.0,2,900,6667.0
+133,Pune,"Wakad, Pune",VTP Altitude,563 Sq.Ft. Office Space in VTP Altitude,Office Space,Wakad,9800000.0,,563,17407.0
+134,Pune,"Dhayari, Pune",Jairaj Riddhi Siddhi Paradise,1 BHK + Study Room 627 Sq.Ft. Builder Floor in Jairaj Riddhi Siddhi Paradise,Builder Floor,Dhayari,4300000.0,1,627,6858.0
+135,Pune,"Somatane, Pune",Supreme Villagio,4 BHK + Servant Room 3000 Sq.Ft. Villa in Supreme Villagio,Villa,Somatane,27000000.0,4,3000,9000.0
+136,Pune,"Sus, Pune",Teerth Avila,2 BHK 950 Sq.Ft. Apartment in Teerth Avila,Apartment,Sus,9500000.0,2,950,10000.0
+137,Pune,"Katraj, Pune",Dugad Shriniwas Sankul,2 BHK + Pooja Room 905 Sq.Ft. Apartment in Dugad Shriniwas Sankul,Apartment,Katraj,7500000.0,2,905,8287.0
+138,Pune,"Charholi Budruk, Pune",Swastik Prism City Yellow,3 BHK + Extra Room 892 Sq.Ft. Builder Floor in Swastik Prism City Yellow,Builder Floor,Charholi Budruk,6825000.0,3,892,7651.0
+139,Pune,"Shivajinagar, Pune",Shalini Sky,3 BHK 1600 Sq.Ft. Apartment in Shalini Sky,Apartment,Shivajinagar,29000000.0,3,1600,18125.0
+140,Pune,"Wagholi, Pune",Dhavel Shivtirth,2 BHK + Pooja Room 936 Sq.Ft. Apartment in Dhavel Shivtirth,Apartment,Wagholi,4800000.0,2,936,5128.0
+141,Pune,"Rasta Peth, Pune",Anand Vithoba,1 BHK + Pooja Room 441 Sq.Ft. Apartment in Anand Vithoba,Apartment,Rasta Peth,3100000.0,1,441,7029.0
+142,Pune,"Wakad, Pune",Paranjape Trident Towers,1 BHK 455 Sq.Ft. Apartment in Paranjape Trident Towers,Apartment,Wakad,5550000.0,1,455,12198.0
+143,Pune,"Ravet, Pune",Bhoomi Orabelle,2 BHK + Pooja Room 1070 Sq.Ft. Apartment in Bhoomi Orabelle,Apartment,Ravet,8500000.0,2,1070,7944.0
+144,Pune,"Hinjewadi, Pune",Kolte Patil Life Republic,2 BHK + Extra Room 801 Sq.Ft. Apartment in Kolte Patil Life Republic,Apartment,Hinjewadi,7600000.0,2,801,9488.0
+145,Pune,"Bavdhan, Pune",Pebbles I,2 BHK 1050 Sq.Ft. Apartment in Pebbles I,Apartment,Bavdhan,9500000.0,2,1050,9048.0
+146,Pune,"Kharadi, Pune",Duville Riverdale,1 BHK 465 Sq.Ft. Apartment in Duville Riverdale,Apartment,Kharadi,6000000.0,1,465,12903.0
+147,Pune,"Hinjewadi, Pune",Pride Purple Park Astra,3 BHK 900 Sq.Ft. Apartment in Pride Purple Park Astra,Apartment,Hinjewadi,11800000.0,3,900,13111.0
+148,Pune,"Nibm Road, Pune",Lodha Bella Vita,3.5 BHK 1100 Sq.Ft. Apartment in Lodha Bella Vita,Apartment,Nibm Road,13500000.0,5,1100,12273.0
+149,Mumbai,"Gulmohar Colony, Mumbai",Kalpataru Amare,"3 BHK + Servant Room,Study Room 1531 Sq.Ft. Apartment in Kalpataru Amare",Apartment,Gulmohar Colony,89999999.0,3,1531,58785.0
+150,Mumbai,"Wadala West, Mumbai",Dignity Bayview,2 BHK 704 Sq.Ft. Apartment in Dignity Bayview,Apartment,Wadala West,28000000.0,2,704,39773.0
+151,Mumbai,"Ambedkar Colony, Mumbai",Ekta Evaana,3 BHK + Servant Room 1225 Sq.Ft. Apartment in Ekta Evaana,Apartment,Ambedkar Colony,80000000.0,3,1225,65306.0
+152,Mumbai,"Santacruz East, Mumbai",Sanghvi Infenia,2 BHK 727 Sq.Ft. Apartment in Sanghvi Infenia,Apartment,Santacruz East,28000000.0,2,727,38514.0
+153,Mumbai,"Mulund West, Mumbai",Sheth Montana,3 BHK 1108 Sq.Ft. Apartment in Sheth Montana,Apartment,Mulund West,36000000.0,3,1108,32491.0
+154,Mumbai,"Powai, Mumbai",Sapphire Lakeside,1 BHK 476 Sq.Ft. Apartment in Sapphire Lakeside,Apartment,Powai,11000000.0,1,476,23109.0
+155,Mumbai,"Malad West, Mumbai",Vijay Kesar Apartment,1 Rk  250 Sq.Ft. Apartment in Vijay Kesar Apartment,Apartment,Malad West,7000000.0,,250,28000.0
+156,Mumbai,"Powai, Mumbai",Sapphire Lakeside,1 BHK 550 Sq.Ft. Apartment in Sapphire Lakeside,Apartment,Powai,10800000.0,1,550,19636.0
+157,Mumbai,"Khar West, Mumbai",Rajhuns Apartment,2 BHK 800 Sq.Ft. Apartment in Rajhuns Apartment,Apartment,Khar West,45000000.0,2,800,56250.0
+158,Mumbai,"Bandra East, Mumbai",Adani Ten BKC,3 BHK + Pooja Room 976 Sq.Ft. Apartment in Adani Ten BKC,Apartment,Bandra East,62500000.0,3,976,64037.0
+159,Mumbai,"Peddar Road, Mumbai",Sukh Shanti CHS Cumbala Hill,2 BHK 1550 Sq.Ft. Apartment in Sukh Shanti CHS Cumbala Hill,Apartment,Peddar Road,75000000.0,2,1550,48387.0
+160,Mumbai,"Prabhadevi, Mumbai",Rustomjee Crown,4 BHK + Servant Room 2230 Sq.Ft. Apartment in Rustomjee Crown,Apartment,Prabhadevi,142000000.0,4,2230,63677.0
+161,Mumbai,"Nahur East, Mumbai",Neelam Senroofs,4 BHK + Extra Room 1250 Sq.Ft. Apartment in Neelam Senroofs,Apartment,Nahur East,40000000.0,4,1250,32000.0
+162,Mumbai,"Kurla East, Mumbai",Raghav Marvel,1 BHK + Extra Room 453 Sq.Ft. Apartment in Raghav Marvel,Apartment,Kurla East,11500000.0,1,453,25386.0
+163,Mumbai,"Chembur, Mumbai",Bharti Aarambh,2 BHK 653 Sq.Ft. Apartment in Bharti Aarambh,Apartment,Chembur,18100000.0,2,653,27718.0
+164,Mumbai,"Andheri West, Mumbai",Seven Bungalow,2 BHK 855 Sq.Ft. Apartment in Seven Bungalow,Apartment,Andheri West,26000000.0,2,855,30409.0
+165,Mumbai,"Malad East, Mumbai",Shree Krishna Heights Malad,2 BHK + Pooja Room 710 Sq.Ft. Apartment in Shree Krishna Heights Malad,Apartment,Malad East,20000000.0,2,710,28169.0
+166,Mumbai,"Versova, Mumbai",Kanakia Hollywood,2 BHK + Servant Room 704 Sq.Ft. Apartment in Kanakia Hollywood,Apartment,Versova,29000000.0,2,704,41193.0
+167,Mumbai,"Andheri East, Mumbai",Eco Nest Andheri East,2 BHK 795 Sq.Ft. Apartment in Eco Nest Andheri East,Apartment,Andheri East,18100000.0,2,795,22767.0
+168,Mumbai,"Jogeshwari West, Mumbai",Lashkaria Pearl,1 BHK 351 Sq.Ft. Apartment in Lashkaria Pearl,Apartment,Jogeshwari West,11000000.0,1,351,31339.0
+169,Mumbai,"Kandivali East, Mumbai",Gundecha Trillium,2 BHK 831 Sq.Ft. Apartment in Gundecha Trillium,Apartment,Kandivali East,34000000.0,2,831,40915.0
+170,Mumbai,"Mulund West, Mumbai",Piramal Revanta,3 BHK 1192 Sq.Ft. Apartment in Piramal Revanta,Apartment,Mulund West,34900000.0,3,1192,29279.0
+171,Mumbai,"Andheri East, Mumbai",Goyal Green Woods,1 BHK 475 Sq.Ft. Apartment in Goyal Green Woods,Apartment,Andheri East,17500000.0,1,475,36842.0
+172,Mumbai,"Charkop Sector 3, Mumbai",Shree Ganesh CHS Charkop,3 BHK + Pooja Room 891 Sq.Ft. Apartment in Shree Ganesh CHS Charkop,Apartment,Charkop Sector 3,19100000.0,3,891,21437.0
+173,Mumbai,"Govandi, Mumbai",MJ Shah Centrio,2 BHK 925 Sq.Ft. Apartment in MJ Shah Centrio,Apartment,Govandi,22500000.0,2,925,24324.0
+174,Mumbai,"Chembur, Mumbai",Hubtown Seasons,3 BHK + Pooja Room 1137 Sq.Ft. Apartment in Hubtown Seasons,Apartment,Chembur,0.0,3,1137,0.0
+175,Mumbai,"Andheri West, Mumbai",Rustomjee Elita,3 BHK 2000 Sq.Ft. Apartment in Rustomjee Elita,Apartment,Andheri West,0.0,3,2000,0.0
+176,Mumbai,"Andheri East, Mumbai",Kanakia Spaces Sevens,2 BHK + Pooja Room 852 Sq.Ft. Apartment in Kanakia Spaces Sevens,Apartment,Andheri East,21000000.0,2,852,24648.0
+177,Mumbai,"Gokhale Road, Mumbai",Shanti Tower Prabhadevi,1 BHK 385 Sq.Ft. Apartment in Shanti Tower Prabhadevi,Apartment,Gokhale Road,15500000.0,1,385,40260.0
+178,Mumbai,"Kanjurmarg West, Mumbai",Sheth Avante,1 BHK 449 Sq.Ft. Apartment in Sheth Avante,Apartment,Kanjurmarg West,11200000.0,1,449,24944.0
+179,Mumbai,"Andheri East, Mumbai",Minal Apartments,2 BHK + Pooja Room 1100 Sq.Ft. Apartment in Minal Apartments,Apartment,Andheri East,23500000.0,2,1100,21364.0
+180,Mumbai,"Goregaon East, Mumbai",New Mahada Colony,2 BHK 860 Sq.Ft. Apartment in New Mahada Colony,Apartment,Goregaon East,15000000.0,2,860,17442.0
+181,Mumbai,"Parel, Mumbai",Kalpataru Avana,5 BHK + Servant Room 2700 Sq.Ft. Apartment in Kalpataru Avana,Apartment,Parel,0.0,5,2700,0.0
+182,Mumbai,"Mandapeshwar, Mumbai",Akshar Bhuvan Mandapeshwar,3 BHK 1150 Sq.Ft. Apartment in Akshar Bhuvan Mandapeshwar,Apartment,Mandapeshwar,27500000.0,3,1150,23913.0
+183,Mumbai,"Malad East, Mumbai",Omkar Alta Monte,3 BHK 1820 Sq.Ft. Apartment in Omkar Alta Monte,Apartment,Malad East,38000000.0,3,1820,20879.0
+184,Mumbai,"Bandra West, Mumbai",Blackstone Maqba Heights,2 BHK + Pooja Room 800 Sq.Ft. Apartment in Blackstone Maqba Heights,Apartment,Bandra West,40000000.0,2,800,50000.0
+185,Mumbai,"Kandivali West, Mumbai",Sandhya Eve Horizon,2 BHK + Extra Room 619 Sq.Ft. Apartment in Sandhya Eve Horizon,Apartment,Kandivali West,16500000.0,2,619,26656.0
+186,Mumbai,"Santacruz West, Mumbai",Woodstock Gardens,2 BHK 696 Sq.Ft. Apartment in Woodstock Gardens,Apartment,Santacruz West,43152000.0,2,696,62000.0
+187,Mumbai,"Santacruz West, Mumbai",Pebbles Marina,2 BHK 785 Sq.Ft. Apartment in Pebbles Marina,Apartment,Santacruz West,45000000.0,2,785,57325.0
+188,Mumbai,"Satejeevan Society, Mumbai",Sunteck Signia Isles,4 BHK 2594 Sq.Ft. Apartment in Sunteck Signia Isles,Apartment,Satejeevan Society,0.0,4,2594,0.0
+189,Mumbai,"Goregaon West, Mumbai",DGS Sheetal Kiara,2 BHK + Extra Room 631 Sq.Ft. Apartment in DGS Sheetal Kiara,Apartment,Goregaon West,15500000.0,2,631,24564.0
+190,Mumbai,"Andheri East, Mumbai",Veena Synergy,2 BHK 700 Sq.Ft. Apartment in Veena Synergy,Apartment,Andheri East,22760000.0,2,700,32514.0
+191,Mumbai,"Vikhroli East, Mumbai",Godrej Platinum Mumbai,3 BHK 1200 Sq.Ft. Apartment in Godrej Platinum Mumbai,Apartment,Vikhroli East,55000000.0,3,1200,45833.0
+192,Mumbai,"Andheri West, Mumbai",Juhu Abhishek Chs Ltd,1 BHK + Extra Room 620 Sq.Ft. Apartment in Juhu Abhishek Chs Ltd,Apartment,Andheri West,18050000.0,1,620,29113.0
+193,Mumbai,"Lokhandwala, Mumbai",Supreme 19,2 BHK + Pooja Room 623 Sq.Ft. Apartment in Supreme 19,Apartment,Lokhandwala,31000000.0,2,623,49759.0
+194,Mumbai,"Andheri East, Mumbai",Dynamix Luma,2 BHK 625 Sq.Ft. Apartment in Dynamix Luma,Apartment,Andheri East,23000000.0,2,625,36800.0
+195,Mumbai,"Bhakti Park, Mumbai",Ajmera Zeon,4 BHK 2456 Sq.Ft. Apartment in Ajmera Zeon,Apartment,Bhakti Park,96300000.0,4,2456,39210.0
+196,Mumbai,"Santacruz West, Mumbai",Parivar CHS Santacruz West,2 BHK 1000 Sq.Ft. Apartment in Parivar CHS Santacruz West,Apartment,Santacruz West,31500000.0,2,1000,31500.0
+197,Mumbai,"Goregaon West, Mumbai",Ekta Tripolis,2 BHK 775 Sq.Ft. Apartment in Ekta Tripolis,Apartment,Goregaon West,32999999.0,2,775,42581.0
+198,Mumbai,"Kandivali East, Mumbai",Sukh Sagar CHS Kandivali,225 Sq.Ft. Office Space in Sukh Sagar CHS Kandivali,Office Space,Kandivali East,7100000.0,,225,31556.0
+199,Mumbai,"Goregaon East, Mumbai",Oberoi Realty Esquire,3 BHK + Pooja Room 1366 Sq.Ft. Apartment in Oberoi Realty Esquire,Apartment,Goregaon East,70000000.0,3,1366,51245.0
+200,Mumbai,"Kandivali East, Mumbai",Godrej Tranquil,1 BHK 428 Sq.Ft. Apartment in Godrej Tranquil,Apartment,Kandivali East,10100000.0,1,428,23598.0
+201,Mumbai,"Worli, Mumbai",Lodha Kiara,2 BHK 932 Sq.Ft. Apartment in Lodha Kiara,Apartment,Worli,65000000.0,2,932,69742.0
+202,Mumbai,"Andheri West, Mumbai",RNA NG Eclat,2 BHK 801 Sq.Ft. Apartment in RNA NG Eclat,Apartment,Andheri West,0.0,2,801,0.0
+203,Mumbai,"Goregaon East, Mumbai",Omkar Ananta,2 BHK + Pooja Room 650 Sq.Ft. Apartment in Omkar Ananta,Apartment,Goregaon East,16500000.0,2,650,25385.0
+204,Mumbai,"Malad West, Mumbai",Chandak Heritage,2 BHK 1030 Sq.Ft. Apartment in Chandak Heritage,Apartment,Malad West,18000000.0,2,1030,17476.0
+205,Mumbai,"Jacob Circle, Mumbai",Olympia Tower,1 BHK 473 Sq.Ft. Apartment in Olympia Tower,Apartment,Jacob Circle,16000000.0,1,473,33827.0
+206,Mumbai,"Dahisar East, Mumbai",N Rose Northern Hills,3 BHK + Extra Room 1101 Sq.Ft. Apartment in N Rose Northern Hills,Apartment,Dahisar East,34200000.0,3,1101,31063.0
+207,Mumbai,"Marol, Mumbai",Crest Oaks,3 BHK + Study Room 1200 Sq.Ft. Apartment in Crest Oaks,Apartment,Marol,32000000.0,3,1200,26667.0
+208,Mumbai,"Yamnuna Nagar, Mumbai",RNA NG Eclat,3 BHK 1118 Sq.Ft. Apartment in RNA NG Eclat,Apartment,Yamnuna Nagar,60000000.0,3,1118,53667.0
+209,Mumbai,"Byculla West, Mumbai",Marathon Montesouth 2,3 BHK + Servant Room 1194 Sq.Ft. Apartment in Marathon Montesouth 2,Apartment,Byculla West,52500000.0,3,1194,43970.0
+210,Mumbai,"Borivali East, Mumbai",Kaustubh Platinum,2 BHK 780 Sq.Ft. Apartment in Kaustubh Platinum,Apartment,Borivali East,24800000.0,2,780,31795.0
+211,Mumbai,"Mulund West, Mumbai",Runwal Greens Rosewood,"3 BHK + Pooja Room,Servant Room,Study Room 1424 Sq.Ft. Apartment in Runwal Greens Rosewood",Apartment,Mulund West,32200000.0,3,1424,22612.0
+212,Mumbai,"Mulund West, Mumbai",The Wadhwa Atmosphere,2.5 BHK 1100 Sq.Ft. Apartment in The Wadhwa Atmosphere,Apartment,Mulund West,25000000.0,5,1100,22727.0
+213,Mumbai,"Bandra West, Mumbai",Manohar Apartment,2 BHK 867 Sq.Ft. Apartment in Manohar Apartment,Apartment,Bandra West,55000000.0,2,867,63437.0
+214,Mumbai,"Dahisar East, Mumbai",DB Orchid Ozone,2 BHK 628 Sq.Ft. Apartment in DB Orchid Ozone,Apartment,Dahisar East,8200000.0,2,628,13057.0
+215,Mumbai,"Dahisar East, Mumbai",DB Orchid Ozone,2 BHK + Pooja Room 630 Sq.Ft. Apartment in DB Orchid Ozone,Apartment,Dahisar East,8200000.0,2,630,13016.0
+216,Mumbai,"Chandivali, Mumbai",Nahar Amrit Shakti,3 BHK + Servant Room 1800 Sq.Ft. Apartment in Nahar Amrit Shakti,Apartment,Chandivali,34900000.0,3,1800,19389.0
+217,Mumbai,"Ghatkopar East, Mumbai",Ruparel Pristine,2 BHK 725 Sq.Ft. Apartment in Ruparel Pristine,Apartment,Ghatkopar East,24000000.0,2,725,33103.0
+218,Mumbai,"Kamala Mill, Mumbai",Lodha Kiara,"3 BHK + Pooja Room,Servant Room 1315 Sq.Ft. Apartment in Lodha Kiara",Apartment,Kamala Mill,78000000.0,3,1315,59316.0
+219,Mumbai,"Kanjurmarg East, Mumbai",Kanakia Spaces Zen World,1 BHK 454 Sq.Ft. Apartment in Kanakia Spaces Zen World,Apartment,Kanjurmarg East,12100000.0,1,454,26652.0
+220,Mumbai,"Malad East, Mumbai",Sethia Imperial Avenue,2 BHK + Extra Room 568 Sq.Ft. Apartment in Sethia Imperial Avenue,Apartment,Malad East,18000000.0,2,568,31690.0
+221,Mumbai,"Tilak Nagar, Mumbai",Tilak Nagar Building,1.5 BHK 480 Sq.Ft. Apartment in Tilak Nagar Building,Apartment,Tilak Nagar,10500000.0,5,480,21875.0
+222,Mumbai,"Andheri West, Mumbai",Pearl Heights,2 BHK + Pooja Room 1100 Sq.Ft. Apartment in Pearl Heights,Apartment,Andheri West,30000000.0,2,1100,27273.0
+223,Mumbai,"Andheri West, Mumbai",Bianca Tower,3 BHK 1300 Sq.Ft. Apartment in Bianca Tower,Apartment,Andheri West,57500000.0,3,1300,44231.0
+224,Mumbai,"Vikhroli East, Mumbai",Adityaraj Square,2 BHK 531 Sq.Ft. Apartment in Adityaraj Square,Apartment,Vikhroli East,13000000.0,2,531,24482.0
+225,Mumbai,"Worli, Mumbai",Parinee Parmar 27Gbr,2 BHK 626 Sq.Ft. Apartment in Parinee Parmar 27Gbr,Apartment,Worli,9100000.0,2,626,14537.0
+226,Mumbai,"Andheri West, Mumbai",Bini Winspace Amelio,2 BHK 713 Sq.Ft. Apartment in Bini Winspace Amelio,Apartment,Andheri West,25700000.0,2,713,36045.0
+227,Mumbai,"Prabhadevi, Mumbai",Rustomjee Crown,4 BHK + Servant Room 2500 Sq.Ft. Apartment in Rustomjee Crown,Apartment,Prabhadevi,0.0,4,2500,0.0
+228,Mumbai,"Mulund West, Mumbai",Marathon Mount Classic Apartment,2 BHK 1135 Sq.Ft. Apartment in Marathon Mount Classic Apartment,Apartment,Mulund West,21000000.0,2,1135,18502.0
+229,Mumbai,"Vile Parle East, Mumbai",Vijayaben Kanji Tower,1 BHK 409 Sq.Ft. Apartment in Vijayaben Kanji Tower,Apartment,Vile Parle East,0.0,1,409,0.0
+230,Mumbai,"Anand Nagar, Mumbai",Bharat Auravistas,3 BHK 1360 Sq.Ft. Apartment in Bharat Auravistas,Apartment,Anand Nagar,52000000.0,3,1360,38235.0
+231,Mumbai,"Mulund West, Mumbai",Runwal Sanctuary,2 BHK + Extra Room 768 Sq.Ft. Apartment in Runwal Sanctuary,Apartment,Mulund West,21000000.0,2,768,27344.0
+232,Mumbai,"Mhada Colony, Mumbai",Bharat Auravistas,3 BHK 1251 Sq.Ft. Apartment in Bharat Auravistas,Apartment,Mhada Colony,46000000.0,3,1251,36771.0
+233,Mumbai,"Khar West, Mumbai",Oberoi Crest,4 BHK + Extra Room 3300 Sq.Ft. Apartment in Oberoi Crest,Apartment,Khar West,0.0,4,3300,0.0
+234,Mumbai,"Ghatkopar West, Mumbai",Neelkanth Enclave Mumbai,2 BHK 805 Sq.Ft. Apartment in Neelkanth Enclave Mumbai,Apartment,Ghatkopar West,28500000.0,2,805,35404.0
+235,Mumbai,"Bandra East, Mumbai",Paranjape Athena,2 BHK 688 Sq.Ft. Apartment in Paranjape Athena,Apartment,Bandra East,25000000.0,2,688,36337.0
+236,Mumbai,"Lower Parel, Mumbai",Indiabulls Sky,4 BHK 4500 Sq.Ft. Apartment in Indiabulls Sky,Apartment,Lower Parel,139999000.0,4,4500,31111.0
+237,Mumbai,"Bhandup West, Mumbai",Leo Group Housing Complex,1 Rk  + Study Room 430 Sq.Ft. Apartment in Leo Group Housing Complex,Apartment,Bhandup West,5700000.0,,430,13256.0
+238,Mumbai,"Vile Parle West, Mumbai",Bharat Primavistas,"5 BHK + Pooja Room,Extra Room 2800 Sq.Ft. Apartment in Bharat Primavistas",Apartment,Vile Parle West,114800000.0,5,2800,41000.0
+239,Mumbai,"Andheri West, Mumbai",Verdent Boston Harbor,2 BHK 784 Sq.Ft. Apartment in Verdent Boston Harbor,Apartment,Andheri West,23500000.0,2,784,29974.0
+240,Mumbai,"Matunga, Mumbai",Indumani Heights,2 BHK 805 Sq.Ft. Apartment in Indumani Heights,Apartment,Matunga,44200000.0,2,805,54907.0
+241,Mumbai,"Andheri West, Mumbai",Kabra Metro One,3 BHK + Pooja Room 1119 Sq.Ft. Apartment in Kabra Metro One,Apartment,Andheri West,47000000.0,3,1119,42002.0
+242,Mumbai,"Malad East, Mumbai",111 Hyde Park,4 BHK 1820 Sq.Ft. Apartment in 111 Hyde Park,Apartment,Malad East,67500000.0,4,1820,37088.0
+243,Mumbai,"Mahalaxmi, Mumbai",Lokhandwala Infrastructure Minerva,3 BHK 2000 Sq.Ft. Apartment in Lokhandwala Infrastructure Minerva,Apartment,Mahalaxmi,0.0,3,2000,0.0
+244,Mumbai,"Vikhroli West, Mumbai",Raj Legacy I,2 BHK 1090 Sq.Ft. Apartment in Raj Legacy I,Apartment,Vikhroli West,18800000.0,2,1090,17248.0
+245,Mumbai,"Tilak Nagar, Mumbai",Elite The Crown,2 BHK + Extra Room 670 Sq.Ft. Apartment in Elite The Crown,Apartment,Tilak Nagar,18000000.0,2,670,26866.0
+246,Mumbai,"Chandivali, Mumbai",Sumer Valley,3 BHK + Pooja Room 1537 Sq.Ft. Apartment in Sumer Valley,Apartment,Chandivali,56000000.0,3,1537,36435.0
+247,Mumbai,"Chembur, Mumbai",Shree Krishna Devasya,2 BHK 750 Sq.Ft. Apartment in Shree Krishna Devasya,Apartment,Chembur,27000000.0,2,750,36000.0
+248,Mumbai,"Worli, Mumbai",Birla Niyaara,2 BHK + Servant Room 849 Sq.Ft. Apartment in Birla Niyaara,Apartment,Worli,0.0,2,849,0.0
+249,Mumbai,"Saki Vihar Road, Mumbai",Vasukamal CHS,3 BHK 1070 Sq.Ft. Apartment in Vasukamal CHS,Apartment,Saki Vihar Road,28500000.0,3,1070,26636.0
+250,Mumbai,"Lower Parel, Mumbai",Marathon Futurex,7900 Sq.Ft. Office Space in Marathon Futurex,Office Space,Lower Parel,280000000.0,,7900,35443.0
+251,Mumbai,"Bandra East, Mumbai",Sangam Nero,2 BHK 683 Sq.Ft. Apartment in Sangam Nero,Apartment,Bandra East,27500000.0,2,683,40264.0
+252,Mumbai,"Bandra East, Mumbai",Vinayak CHS Bandra East,2 BHK 800 Sq.Ft. Apartment in Vinayak CHS Bandra East,Apartment,Bandra East,44000000.0,2,800,55000.0
+253,Mumbai,"Prabhadevi, Mumbai",Sugee Atharva,1.5 BHK 470 Sq.Ft. Apartment in Sugee Atharva,Apartment,Prabhadevi,23500000.0,5,470,50000.0
+254,Mumbai,"Malad West, Mumbai",Yukti Anchor Point Oasis,3 BHK + Study Room 980 Sq.Ft. Apartment in Yukti Anchor Point Oasis,Apartment,Malad West,28900000.0,3,980,29490.0
+255,Mumbai,"Antop Hill, Mumbai",Unity Wadala CHS,1 BHK 700 Sq.Ft. Apartment in Unity Wadala CHS,Apartment,Antop Hill,16500000.0,1,700,23571.0
+256,Mumbai,"Nahur East, Mumbai",Kings Anand Dham,2 BHK 585 Sq.Ft. Apartment in Kings Anand Dham,Apartment,Nahur East,12000000.0,2,585,20513.0
+257,Mumbai,"Oshiwara, Mumbai",Dev Leo Tower,2 BHK + Pooja Room 670 Sq.Ft. Apartment in Dev Leo Tower,Apartment,Oshiwara,24500000.0,2,670,36567.0
+258,Mumbai,"Andheri West, Mumbai",Platinum Life,3 BHK 900 Sq.Ft. Apartment in Platinum Life,Apartment,Andheri West,48300000.0,3,900,53667.0
+259,Mumbai,"Andheri West, Mumbai",Platinum Life,2 BHK 665 Sq.Ft. Apartment in Platinum Life,Apartment,Andheri West,26500000.0,2,665,39850.0
+260,Mumbai,"Andheri West, Mumbai",Versova Heaven CHS,2 BHK + Pooja Room 750 Sq.Ft. Apartment in Versova Heaven CHS,Apartment,Andheri West,550000000.0,2,750,733333.0
+261,Mumbai,"Worli, Mumbai",Lodha Trump Tower,5 BHK + Servant Room 3378 Sq.Ft. Apartment in Lodha Trump Tower,Apartment,Worli,230000000.0,5,3378,68088.0
+262,Mumbai,"Mulund West, Mumbai",Piramal Revanta,2 BHK 660 Sq.Ft. Apartment in Piramal Revanta,Apartment,Mulund West,20500000.0,2,660,31061.0
+263,Mumbai,"Goregaon East, Mumbai",IM Applaud 38,2 BHK 750 Sq.Ft. Apartment in IM Applaud 38,Apartment,Goregaon East,21000000.0,2,750,28000.0
+264,Mumbai,"Goregaon East, Mumbai",DB Woods,2.5 BHK 980 Sq.Ft. Apartment in DB Woods,Apartment,Goregaon East,44999999.0,5,980,45918.0
+265,Mumbai,"Kanjurmarg East, Mumbai",Runwal Bliss,2 BHK 813 Sq.Ft. Apartment in Runwal Bliss,Apartment,Kanjurmarg East,23500000.0,2,813,28905.0
+266,Mumbai,"Gokuldham Colony, Mumbai",Lakshachandi Apartments,3 BHK + Servant Room 1200 Sq.Ft. Apartment in Lakshachandi Apartments,Apartment,Gokuldham Colony,36500000.0,3,1200,30417.0
+267,Mumbai,"Borivali East, Mumbai",Dheeraj Enclave,2 BHK 860 Sq.Ft. Apartment in Dheeraj Enclave,Apartment,Borivali East,18300000.0,2,860,21279.0
+268,Mumbai,"Kanjurmarg East, Mumbai",Kanakia Spaces Zen World,2 BHK + Pooja Room 732 Sq.Ft. Apartment in Kanakia Spaces Zen World,Apartment,Kanjurmarg East,23600000.0,2,732,32240.0
+269,Mumbai,"Bharatiya Kamala Nagar, Mumbai",Ajmera I Land Aeon,4 BHK + Extra Room 1616 Sq.Ft. Apartment in Ajmera I Land Aeon,Apartment,Bharatiya Kamala Nagar,87500000.0,4,1616,54146.0
+270,Mumbai,"Dahisar East, Mumbai",N Rose Northern Hills,3 BHK 1260 Sq.Ft. Apartment in N Rose Northern Hills,Apartment,Dahisar East,37600000.0,3,1260,29841.0
+271,Mumbai,"Malad West, Mumbai",Bhoomi 9 Business Bay,470 Sq.Ft. Office Space in Bhoomi 9 Business Bay,Office Space,Malad West,14570000.0,,470,31000.0
+272,Mumbai,"Powai, Mumbai",Hiranandani Gardens Glen Ridge,"4 BHK + Servant Room,Extra Room 2200 Sq.Ft. Apartment in Hiranandani Gardens Glen Ridge",Apartment,Powai,130000000.0,4,2200,59091.0
+273,Mumbai,"Matunga East, Mumbai",Princecare Amaraa,3 BHK 999 Sq.Ft. Apartment in Princecare Amaraa,Apartment,Matunga East,50900000.0,3,999,50951.0
+274,Mumbai,"Malad West, Mumbai",DGS Sheetal Anupam,3 BHK + Pooja Room 671 Sq.Ft. Apartment in DGS Sheetal Anupam,Apartment,Malad West,19000000.0,3,671,28316.0
+275,Mumbai,"Bhandup West, Mumbai",Kalpataru Crest,"2 BHK + Pooja Room,Servant Room 813 Sq.Ft. Apartment in Kalpataru Crest",Apartment,Bhandup West,21500000.0,2,813,26445.0
+276,Mumbai,"Borivali East, Mumbai",K Raheja Residency,3 BHK + Pooja Room 1430 Sq.Ft. Apartment in K Raheja Residency,Apartment,Borivali East,34000000.0,3,1430,23776.0
+277,Mumbai,"Borivali East, Mumbai",Oberoi Sky City,3 BHK 1500 Sq.Ft. Apartment in Oberoi Sky City,Apartment,Borivali East,50000000.0,3,1500,33333.0
+278,Mumbai,"Kandivali West, Mumbai",RNA Regency Park,2 BHK 1040 Sq.Ft. Apartment in RNA Regency Park,Apartment,Kandivali West,30000000.0,2,1040,28846.0
+279,Mumbai,"Worli, Mumbai",Indiabulls Blu,"3 BHK + Pooja Room,Servant Room,Study Room,Extra Room 1734 Sq.Ft. Apartment in Indiabulls Blu",Apartment,Worli,100000000.0,3,1734,57670.0
+280,Mumbai,"Malad East, Mumbai",Kanakia Levels,2 BHK + Pooja Room 747 Sq.Ft. Apartment in Kanakia Levels,Apartment,Malad East,36000000.0,2,747,48193.0
+281,Mumbai,"Pali Hill, Mumbai",Wadhwa Samarpan,4 BHK + Servant Room 3964 Sq.Ft. Apartment in Wadhwa Samarpan,Apartment,Pali Hill,0.0,4,3964,0.0
+282,Mumbai,"Matunga East, Mumbai",Lodha Signet,430 Sq.Ft. Office Space in Lodha Signet,Office Space,Matunga East,25000000.0,,430,58140.0
+283,Mumbai,"Malad East, Mumbai",Sparkle Mitali Business Centre,450 Sq.Ft. Office Space in Sparkle Mitali Business Centre,Office Space,Malad East,11700000.0,,450,26000.0
+284,Mumbai,"Jogeshwari West, Mumbai",Oshiwara Paradise CHS,3 BHK 1200 Sq.Ft. Apartment in Oshiwara Paradise CHS,Apartment,Jogeshwari West,505000000.0,3,1200,420833.0
+285,Mumbai,"Ketkipada, Mumbai",DB Realty Orchid Ozone,1 BHK 425 Sq.Ft. Apartment in DB Realty Orchid Ozone,Apartment,Ketkipada,5100000.0,1,425,12000.0
+286,Mumbai,"Andheri East, Mumbai",Oberoi Realty Splendor,2.5 BHK 889 Sq.Ft. Apartment in Oberoi Realty Splendor,Apartment,Andheri East,47500000.0,5,889,53431.0
+287,Mumbai,"Ghatkopar West, Mumbai",Kalpataru Aura,2.5 BHK + Study Room 958 Sq.Ft. Apartment in Kalpataru Aura,Apartment,Ghatkopar West,34800000.0,5,958,36326.0
+288,Mumbai,"Malad West, Mumbai",Triumph Tower,3 BHK + Extra Room 1125 Sq.Ft. Apartment in Triumph Tower,Apartment,Malad West,35000000.0,3,1125,31111.0
+289,Mumbai,"Andheri West, Mumbai",Ekdant Society Andheri,3 BHK 1250 Sq.Ft. Apartment in Ekdant Society Andheri,Apartment,Andheri West,37500000.0,3,1250,30000.0
+290,Mumbai,"Kandivali East, Mumbai",Videocon Towers B CHS LTD,2 BHK + Pooja Room 1175 Sq.Ft. Apartment in Videocon Towers B CHS LTD,Apartment,Kandivali East,21000000.0,2,1175,17872.0
+291,Mumbai,"Riddhi Gardens, Mumbai",Lalani Velentine Apartment VI,2 BHK 710 Sq.Ft. Apartment in Lalani Velentine Apartment VI,Apartment,Riddhi Gardens,17500000.0,2,710,24648.0
+292,Mumbai,"Andheri East, Mumbai",Sheth Vasant Oasis,2 BHK + Study Room 1000 Sq.Ft. Apartment in Sheth Vasant Oasis,Apartment,Andheri East,27000000.0,2,1000,27000.0
+293,Mumbai,"Matunga East, Mumbai",Sobhaniye Riddhi Siddhi Apartment,4 BHK 1450 Sq.Ft. Apartment in Sobhaniye Riddhi Siddhi Apartment,Apartment,Matunga East,70000000.0,4,1450,48276.0
+294,Mumbai,"Goregaon East, Mumbai",Royal Palms Ruby Isle Apartment,3 BHK 1278 Sq.Ft. Apartment in Royal Palms Ruby Isle Apartment,Apartment,Goregaon East,11000000.0,3,1278,8607.0
+295,Mumbai,"Goregaon East, Mumbai",Gokuldham CHS Goregaon,"2.5 BHK + Pooja Room,Study Room 1400 Sq.Ft. Apartment in Gokuldham CHS Goregaon",Apartment,Goregaon East,49000000.0,5,1400,35000.0
+296,Mumbai,"Santacruz East, Mumbai",Fortune Heights Santacruz,2 BHK 830 Sq.Ft. Apartment in Fortune Heights Santacruz,Apartment,Santacruz East,21000000.0,2,830,25301.0
+297,Mumbai,"Charkop Sector 2, Mumbai",Dem Icon,2 BHK 684 Sq.Ft. Apartment in Dem Icon,Apartment,Charkop Sector 2,16100000.0,2,684,23538.0
+298,Mumbai,"Kanjurmarg East, Mumbai",Runwal Bliss,2 BHK 1150 Sq.Ft. Apartment in Runwal Bliss,Apartment,Kanjurmarg East,0.0,2,1150,0.0
+299,Mumbai,"Azad Nagar, Mumbai",Shree Darshan,2 BHK 550 Sq.Ft. Apartment in Shree Darshan,Apartment,Azad Nagar,16500000.0,2,550,30000.0
+300,Mumbai,"Parel, Mumbai",Omkar Veda Exclusive,3 BHK 1588 Sq.Ft. Apartment in Omkar Veda Exclusive,Apartment,Parel,52000060.0,3,1588,32746.0
+301,Mumbai,"Sewri, Mumbai",Celestia Spaces,"3 BHK + Pooja Room,Servant Room,Study Room 1207 Sq.Ft. Apartment in Celestia Spaces",Apartment,Sewri,0.0,3,1207,0.0
+302,Mumbai,"Parel, Mumbai",Promesa Fremont,2 BHK 702 Sq.Ft. Builder Floor in Promesa Fremont,Builder Floor,Parel,29500000.0,2,702,42023.0
+303,Mumbai,"Khan Estate, Mumbai",Vision Heights,1.5 BHK 597 Sq.Ft. Apartment in Vision Heights,Apartment,Khan Estate,16000000.0,5,597,26801.0
+304,Bangalore,"Budigere, Bangalore",Brigade Buena Vista,2 BHK 1148 Sq.Ft. Apartment in Brigade Buena Vista,Apartment,Budigere,14800000.0,2,1148,12892.0
+305,Bangalore,"Richmond Road, Bangalore",Richmond Premier,3 BHK + Extra Room 3818 Sq.Ft. Penthouse in Richmond Premier,Penthouse,Richmond Road,75000000.0,3,3818,19644.0
+306,Bangalore,"Lingarajapuram, Bangalore",Bearys Anugraha,6 BHK + Extra Room 6000 Sq.Ft. Independent House in Bearys Anugraha,Independent House,Lingarajapuram,55000000.0,6,6000,9167.0
+307,Bangalore,"Whitefield, Bangalore",ELV Blossom,"2 BHK + Pooja Room,Study Room 1100 Sq.Ft. Apartment in ELV Blossom",Apartment,Whitefield,26500000.0,2,1100,24091.0
+308,Bangalore,"Konanakunte, Bangalore",Prestige Falcon City,3 BHK 1591 Sq.Ft. Apartment in Prestige Falcon City,Apartment,Konanakunte,31500000.0,3,1591,19799.0
+309,Bangalore,"Vijayanagar, Bangalore",Sattva Anugraha CHS,3 BHK 1483 Sq.Ft. Apartment in Sattva Anugraha CHS,Apartment,Vijayanagar,18000000.0,3,1483,12138.0
+310,Bangalore,"Kumbalgodu, Bangalore",Gopalan Olympia,3 BHK 1360 Sq.Ft. Apartment in Gopalan Olympia,Apartment,Kumbalgodu,15000000.0,3,1360,11029.0
+311,Bangalore,"Varthur, Bangalore",Prestige Lakeside Habitat,3.5 BHK 2280 Sq.Ft. Apartment in Prestige Lakeside Habitat,Apartment,Varthur,36000000.0,5,2280,15789.0
+312,Bangalore,"Yelahanka, Bangalore",Shriram Suhaana,2 BHK 1305 Sq.Ft. Apartment in Shriram Suhaana,Apartment,Yelahanka,13000000.0,2,1305,9962.0
+313,Bangalore,"Horamavu, Bangalore",Nandanam Paradise,2 BHK 1296 Sq.Ft. Apartment in Nandanam Paradise,Apartment,Horamavu,8000004.0,2,1296,6173.0
+314,Bangalore,"Kodigehalli, Bangalore",Hoysala Commanders Galleria I,3 BHK 1755 Sq.Ft. Apartment in Hoysala Commanders Galleria I,Apartment,Kodigehalli,13500000.0,3,1755,7692.0
+315,Bangalore,"Harlur, Bangalore",Prestige Ferns Residency,"4 BHK + Pooja Room,Servant Room 2569 Sq.Ft. Apartment in Prestige Ferns Residency",Apartment,Harlur,49000000.0,4,2569,19074.0
+316,Bangalore,"Rest House Road, Bangalore",HM Winchester,2 BHK 1500 Sq.Ft. Apartment in HM Winchester,Apartment,Rest House Road,25000000.0,2,1500,16667.0
+317,Bangalore,"Kogilu, Bangalore",Adarsh Greens,2 BHK 985 Sq.Ft. Apartment in Adarsh Greens,Apartment,Kogilu,10200000.0,2,985,10355.0
+318,Bangalore,"Chandapura, Bangalore",Dhiraan Newyork Meadows,2 BHK 1010 Sq.Ft. Apartment in Dhiraan Newyork Meadows,Apartment,Chandapura,0.0,2,1010,0.0
+319,Bangalore,"Whitefield, Bangalore",Prestige Shantiniketan,2 BHK 1418 Sq.Ft. Apartment in Prestige Shantiniketan,Apartment,Whitefield,24500000.0,2,1418,17278.0
+320,Bangalore,"Talaghattapura, Bangalore",Vanshika Natures Harmony,3 BHK 1506 Sq.Ft. Apartment in Vanshika Natures Harmony,Apartment,Talaghattapura,14600000.0,3,1506,9695.0
+321,Bangalore,"Whitefield Road, Bangalore",Prestige Park View,3 BHK + Pooja Room 2200 Sq.Ft. Apartment in Prestige Park View,Apartment,Whitefield Road,34000000.0,3,2200,15455.0
+322,Bangalore,"Varthur, Bangalore",Brigade Cornerstone Utopia,2 BHK 1097 Sq.Ft. Apartment in Brigade Cornerstone Utopia,Apartment,Varthur,16300000.0,2,1097,14859.0
+323,Bangalore,"Varthur, Bangalore",Yuva Blue Meadows,3 BHK + Pooja Room 1594 Sq.Ft. Apartment in Yuva Blue Meadows,Apartment,Varthur,15500000.0,3,1594,9724.0
+324,Bangalore,"Bagaluru, Bangalore",Godrej Ananda,3 BHK 1588 Sq.Ft. Apartment in Godrej Ananda,Apartment,Bagaluru,18900000.0,3,1588,11902.0
+325,Bangalore,"Hebbal, Bangalore",Karle Zenith,3 BHK 2322 Sq.Ft. Apartment in Karle Zenith,Apartment,Hebbal,39100000.0,3,2322,16839.0
+326,Bangalore,"Off Sarjapur Road, Bangalore",SJR Blue Waters,2 BHK 1170 Sq.Ft. Apartment in SJR Blue Waters,Apartment,Off Sarjapur Road,15800000.0,2,1170,13504.0
+327,Bangalore,"Varthur, Bangalore",Brigade Cornerstone Utopia,3 BHK + Pooja Room 1656 Sq.Ft. Apartment in Brigade Cornerstone Utopia,Apartment,Varthur,25000000.0,3,1656,15097.0
+328,Bangalore,"Electronic City Phase I, Bangalore",Prestige Sunrise Park,2 BHK 1121 Sq.Ft. Apartment in Prestige Sunrise Park,Apartment,Electronic City Phase I,13000000.0,2,1121,11597.0
+329,Bangalore,"Kempapura, Bangalore",Paranjape Wind Fields,3 BHK 1834 Sq.Ft. Apartment in Paranjape Wind Fields,Apartment,Kempapura,25000000.0,3,1834,13631.0
+330,Bangalore,"Kalena Agrahara, Bangalore",Ajmera Green Acres,3 BHK 1565 Sq.Ft. Apartment in Ajmera Green Acres,Apartment,Kalena Agrahara,15000000.0,3,1565,9585.0
+331,Bangalore,"Kadugodi, Bangalore",Alembic Cloud Forest,2 BHK 1275 Sq.Ft. Apartment in Alembic Cloud Forest,Apartment,Kadugodi,19000000.0,2,1275,14902.0
+332,Bangalore,"Kadugodi, Bangalore",Harsha Gateway,2 BHK 1205 Sq.Ft. Builder Floor in Harsha Gateway,Builder Floor,Kadugodi,3500000.0,2,1205,2905.0
+333,Bangalore,"Bagalakunte, Bangalore",Prestige Jindal City,1 BHK 607 Sq.Ft. Apartment in Prestige Jindal City,Apartment,Bagalakunte,8500000.0,1,607,14003.0
+334,Bangalore,"Arekere, Bangalore",SJR Luxuria,3 BHK + Servant Room 1675 Sq.Ft. Apartment in SJR Luxuria,Apartment,Arekere,21000000.0,3,1675,12537.0
+335,Bangalore,"Kengeri, Bangalore",Platina Exotica,3 BHK 1360 Sq.Ft. Apartment in Platina Exotica,Apartment,Kengeri,0.0,3,1360,0.0
+336,Bangalore,"Harlur, Bangalore",Prestige Ferns Residency,3.5 BHK + Study Room 2240 Sq.Ft. Apartment in Prestige Ferns Residency,Apartment,Harlur,43000000.0,5,2240,19196.0
+337,Bangalore,"Wilson Garden, Bangalore",SKC Wilson Vintage,5 BHK + Servant Room 3500 Sq.Ft. Apartment in SKC Wilson Vintage,Apartment,Wilson Garden,35000000.0,5,3500,10000.0
+338,Bangalore,"Whitefield, Bangalore",Brigade Avalon,4 BHK + Extra Room 3862 Sq.Ft. Apartment in Brigade Avalon,Apartment,Whitefield,62100000.0,4,3862,16080.0
+339,Bangalore,"Varthur, Bangalore",Myhna Maple,2 BHK 1200 Sq.Ft. Apartment in Myhna Maple,Apartment,Varthur,13800000.0,2,1200,11500.0
+340,Bangalore,"Maruthi Sevanagar, Bangalore",Premier Augusta,3 BHK 1635 Sq.Ft. Apartment in Premier Augusta,Apartment,Maruthi Sevanagar,17500000.0,3,1635,10703.0
+341,Bangalore,"Bannerghatta Road, Bangalore",Prestige Elysian,3 BHK + Pooja Room 1810 Sq.Ft. Apartment in Prestige Elysian,Apartment,Bannerghatta Road,29000000.0,3,1810,16022.0
+342,Bangalore,"Varthur, Bangalore",Brigade Cornerstone Utopia,2 BHK 1259 Sq.Ft. Apartment in Brigade Cornerstone Utopia,Apartment,Varthur,17600000.0,2,1259,13979.0
+343,Bangalore,"Kanakapura Road, Bangalore",Mantri Serenity,2 BHK + Study Room 1330 Sq.Ft. Apartment in Mantri Serenity,Apartment,Kanakapura Road,15000000.0,2,1330,11278.0
+344,Bangalore,"Hosur Road, Bangalore",Sobha Madison Heights Town Park,3 BHK + Pooja Room 1514 Sq.Ft. Apartment in Sobha Madison Heights Town Park,Apartment,Hosur Road,46200000.0,3,1514,30515.0
+345,Bangalore,"Rajaji Nagar, Bangalore",Sobha Indraprastha,"4 BHK + Pooja Room,Servant Room,Extra Room 3715 Sq.Ft. Apartment in Sobha Indraprastha",Apartment,Rajaji Nagar,0.0,4,3715,0.0
+346,Bangalore,"Hebbal, Bangalore",Brigade Laguna,3 BHK 1888 Sq.Ft. Apartment in Brigade Laguna,Apartment,Hebbal,33500000.0,3,1888,17744.0
+347,Bangalore,"Jalahalli, Bangalore",Shriram Sameeksha,3 BHK 1300 Sq.Ft. Apartment in Shriram Sameeksha,Apartment,Jalahalli,11800000.0,3,1300,9077.0
+348,Bangalore,"S Medihalli, Bangalore",Abhee Aaria,2 BHK + Pooja Room 1300 Sq.Ft. Apartment in Abhee Aaria,Apartment,S Medihalli,13300000.0,2,1300,10231.0
+349,Bangalore,"Hennur, Bangalore",Goyal and Co Alanoville,4 BHK + Study Room 3450 Sq.Ft. Villa in Goyal and Co Alanoville,Villa,Hennur,47500000.0,4,3450,13768.0
+350,Bangalore,"Binnipete, Bangalore",Shapoorji Pallonji Park West,3 BHK 1755 Sq.Ft. Apartment in Shapoorji Pallonji Park West,Apartment,Binnipete,26500000.0,3,1755,15100.0
+351,Bangalore,"Old Madras Road, Bangalore",Brigade Exotica,3 BHK 2990 Sq.Ft. Apartment in Brigade Exotica,Apartment,Old Madras Road,48000000.0,3,2990,16054.0
+352,Bangalore,"Whitefield, Bangalore",Mana Placido,3 BHK 1714 Sq.Ft. Apartment in Mana Placido,Apartment,Whitefield,17500000.0,3,1714,10210.0
+353,Bangalore,"Sarjapur Road, Bangalore",Pearl City,2 BHK 1500 Sq.Ft. Apartment in Pearl City,Apartment,Sarjapur Road,10000000.0,2,1500,6667.0
+354,Bangalore,"Rajanukunte, Bangalore",Prasiddhi Park Vista,4 BHK 3500 Sq.Ft. Independent House in Prasiddhi Park Vista,Independent House,Rajanukunte,25000000.0,4,3500,7143.0
+355,Bangalore,"Sarjapur, Bangalore",Sowparnika Olivia Nest,3 BHK 1130 Sq.Ft. Apartment in Sowparnika Olivia Nest,Apartment,Sarjapur,8500000.0,3,1130,7522.0
+356,Bangalore,"Panathur, Bangalore",Sobha Dream Acres,1 BHK 656 Sq.Ft. Apartment in Sobha Dream Acres,Apartment,Panathur,8200000.0,1,656,12500.0
+357,Bangalore,"Kadugodi, Bangalore",Indra Keerthi Sadan,2 BHK 1310 Sq.Ft. Apartment in Indra Keerthi Sadan,Apartment,Kadugodi,9200000.0,2,1310,7023.0
+358,Bangalore,"Arekere, Bangalore",Sri Balaji Nivas,3 BHK 1594 Sq.Ft. Apartment in Sri Balaji Nivas,Apartment,Arekere,13000000.0,3,1594,8156.0
+359,Bangalore,"Kadugodi, Bangalore",Prestige Acropolis,3 BHK 2993 Sq.Ft. Apartment in Prestige Acropolis,Apartment,Kadugodi,55000000.0,3,2993,18376.0
+360,Bangalore,"Hulimavu, Bangalore",Sai Chethana,2 BHK 1140 Sq.Ft. Apartment in Sai Chethana,Apartment,Hulimavu,9800000.0,2,1140,8596.0
+361,Bangalore,"Sarjapur Road, Bangalore",Godrej Park Retreat,2 BHK 987 Sq.Ft. Apartment in Godrej Park Retreat,Apartment,Sarjapur Road,10500000.0,2,987,10638.0
+362,Bangalore,"Palace Road, Bangalore",Brigade Palace,3 BHK + Pooja Room 2200 Sq.Ft. Apartment in Brigade Palace,Apartment,Palace Road,27000000.0,3,2200,12273.0
+363,Bangalore,"Indiranagar, Bangalore",Citrus IN 38,3 BHK 1850 Sq.Ft. Apartment in Citrus IN 38,Apartment,Indiranagar,38500000.0,3,1850,20811.0
+364,Bangalore,"K Channasandra, Bangalore",DSR Waterscape,3 BHK 1620 Sq.Ft. Apartment in DSR Waterscape,Apartment,K Channasandra,16000000.0,3,1620,9877.0
+365,Bangalore,"Hennur Road, Bangalore",Casagrand Boulevard,2 BHK 1227 Sq.Ft. Apartment in Casagrand Boulevard,Apartment,Hennur Road,11200000.0,2,1227,9128.0
+366,Bangalore,"Jalahalli West, Bangalore",Mahaveer Rich,3 BHK 1300 Sq.Ft. Apartment in Mahaveer Rich,Apartment,Jalahalli West,8469000.0,3,1300,6515.0
+367,Bangalore,"Banashankari, Bangalore",Sobha Valley View,2 BHK + Pooja Room 1304 Sq.Ft. Apartment in Sobha Valley View,Apartment,Banashankari,20000000.0,2,1304,15337.0
+368,Bangalore,"Devanahalli, Bangalore",Ozone Urbana Aqua,3 BHK 1160 Sq.Ft. Apartment in Ozone Urbana Aqua,Apartment,Devanahalli,6700000.0,3,1160,5776.0
+369,Bangalore,"Hulimavu, Bangalore",Windsor Heritage,3 BHK 1649 Sq.Ft. Apartment in Windsor Heritage,Apartment,Hulimavu,9000000.0,3,1649,5458.0
+370,Bangalore,"Mahadevpura, Bangalore",DSR Elite,"4 BHK + Pooja Room,Servant Room 3600 Sq.Ft. Villa in DSR Elite",Villa,Mahadevpura,82500000.0,4,3600,22917.0
+371,Bangalore,"Mullur, Bangalore",NBR Soul Of The Seasons,3 BHK 1446 Sq.Ft. Apartment in NBR Soul Of The Seasons,Apartment,Mullur,13000000.0,3,1446,8990.0
+372,Bangalore,"Rajvi Nagar, Bangalore",SNN Raj Etternia,3 BHK + Pooja Room 1810 Sq.Ft. Apartment in SNN Raj Etternia,Apartment,Rajvi Nagar,32000000.0,3,1810,17680.0
+373,Bangalore,"Sarjapur Road, Bangalore",VRR Fortuna,2 BHK + Pooja Room 1315 Sq.Ft. Apartment in VRR Fortuna,Apartment,Sarjapur Road,17000000.0,2,1315,12928.0
+374,Bangalore,"Devanahalli, Bangalore",Tata Raagam,3 BHK 1500 Sq.Ft. Apartment in Tata Raagam,Apartment,Devanahalli,15000000.0,3,1500,10000.0
+375,Bangalore,"Bagaluru, Bangalore",Prestige Finsbury Park Hyde,3 BHK 1224 Sq.Ft. Apartment in Prestige Finsbury Park Hyde,Apartment,Bagaluru,14200000.0,3,1224,11601.0
+376,Bangalore,"Whitefield, Bangalore",Pavani Mirabilia,2 BHK 1135 Sq.Ft. Apartment in Pavani Mirabilia,Apartment,Whitefield,12000000.0,2,1135,10573.0
+377,Bangalore,"Harlur, Bangalore",Prestige Ferns Residency,3 BHK + Extra Room 1749 Sq.Ft. Apartment in Prestige Ferns Residency,Apartment,Harlur,33500000.0,3,1749,19154.0
+378,Bangalore,"Yelahanka, Bangalore",Mittal Elanza,3.5 BHK + Pooja Room 1905 Sq.Ft. Apartment in Mittal Elanza,Apartment,Yelahanka,21000000.0,5,1905,11024.0
+379,Bangalore,"Bannerghatta Road, Bangalore",Ananda Valmark,3 BHK 1533 Sq.Ft. Apartment in Ananda Valmark,Apartment,Bannerghatta Road,14800000.0,3,1533,9654.0
+380,Bangalore,"Cambridge Layout, Bangalore",Adarsh Crystal,4 BHK + Servant Room 3500 Sq.Ft. Apartment in Adarsh Crystal,Apartment,Cambridge Layout,70000000.0,4,3500,20000.0
+381,Bangalore,"Hosur Road, Bangalore",Sobha Brooklyn Towers Town Park,2 BHK 833 Sq.Ft. Apartment in Sobha Brooklyn Towers Town Park,Apartment,Hosur Road,11000000.0,2,833,13205.0
+382,Bangalore,"Old Madras Road, Bangalore",SBR Keerthi Prime,2 BHK 1185 Sq.Ft. Apartment in SBR Keerthi Prime,Apartment,Old Madras Road,15400000.0,2,1185,12996.0
+383,Bangalore,"Bilekahalli, Bangalore",Puravankara Purva Heights,3 BHK 2962 Sq.Ft. Apartment in Puravankara Purva Heights,Apartment,Bilekahalli,27000000.0,3,2962,9115.0
+384,Bangalore,"Akshayanagar, Bangalore",Hiranandani Kingston,2.5 BHK 1476 Sq.Ft. Apartment in Hiranandani Kingston,Apartment,Akshayanagar,23000000.0,5,1476,15583.0
+385,Bangalore,"Uttarahalli, Bangalore",Prestige Lake Ridge,3 BHK + Pooja Room 1367 Sq.Ft. Apartment in Prestige Lake Ridge,Apartment,Uttarahalli,19500000.0,3,1367,14265.0
+386,Bangalore,"Richmond Town, Bangalore",Richmond Towers,3 BHK 2585 Sq.Ft. Apartment in Richmond Towers,Apartment,Richmond Town,38007400.0,3,2585,14703.0
+387,Bangalore,"Electronic City Phase ii, Bangalore",SNN Raj GreenBay,2 BHK 1205 Sq.Ft. Apartment in SNN Raj GreenBay,Apartment,Electronic City Phase ii,16000000.0,2,1205,13278.0
+388,Bangalore,"Old Madras Road, Bangalore",Salarpuria Sattva East Crest,3 BHK 1409 Sq.Ft. Apartment in Salarpuria Sattva East Crest,Apartment,Old Madras Road,15600000.0,3,1409,11072.0
+389,Bangalore,"Yelahanka New Town, Bangalore",Shriram Solitaire,3 BHK + Extra Room 1920 Sq.Ft. Apartment in Shriram Solitaire,Apartment,Yelahanka New Town,15000000.0,3,1920,7812.0
+390,Bangalore,"Chansandra, Bangalore",Sowparnika Sanvi Phase 2,2 BHK + Pooja Room 1227 Sq.Ft. Apartment in Sowparnika Sanvi Phase 2,Apartment,Chansandra,8500000.0,2,1227,6927.0
+391,Bangalore,"Hennur Road, Bangalore",Casagrand Boulevard,4 BHK 2181 Sq.Ft. Apartment in Casagrand Boulevard,Apartment,Hennur Road,21000000.0,4,2181,9629.0
+392,Bangalore,"Basaveshwara Nagar, Bangalore",Olety Landmark,3 BHK + Pooja Room 1800 Sq.Ft. Apartment in Olety Landmark,Apartment,Basaveshwara Nagar,28000000.0,3,1800,15556.0
+393,Bangalore,"Chandapura, Bangalore",Abhee Prakruthi Villa,3 BHK + Study Room 1200 Sq.Ft. Villa in Abhee Prakruthi Villa,Villa,Chandapura,16258000.0,3,1200,13548.0
+394,Bangalore,"Talaghattapura, Bangalore",Vanshika Natures Harmony,3.5 BHK 1836 Sq.Ft. Apartment in Vanshika Natures Harmony,Apartment,Talaghattapura,15659244.0,5,1836,8529.0
+395,Bangalore,"Rt Nagar, Bangalore",Magnolia Delight,3 BHK + Servant Room 2668 Sq.Ft. Apartment in Magnolia Delight,Apartment,Rt Nagar,35000000.0,3,2668,13118.0
+396,Bangalore,"Shivaji Nagar, Bangalore",DRA Queens Corner,1 BHK + Study Room 650 Sq.Ft. Penthouse in DRA Queens Corner,Penthouse,Shivaji Nagar,5500000.0,1,650,8462.0
+397,Bangalore,"Banashankari 6th Stage, Bangalore",Prestige Primrose Hills,2 BHK 988 Sq.Ft. Apartment in Prestige Primrose Hills,Apartment,Banashankari 6th Stage,12000000.0,2,988,12146.0
+398,Bangalore,"Rachenahalli, Bangalore",SB Urban Park,3 BHK 1955 Sq.Ft. Apartment in SB Urban Park,Apartment,Rachenahalli,23500000.0,3,1955,12020.0
+399,Bangalore,"Vasanth Nagar, Bangalore",Legacy Madelia,"3 BHK + Pooja Room,Servant Room,Study Room,Extra Room 4170 Sq.Ft. Builder Floor in Legacy Madelia",Builder Floor,Vasanth Nagar,0.0,3,4170,0.0
+400,Hyderabad,"Kokapet, Hyderabad",Poulomi 90,3 BHK + Study Room 2820 Sq.Ft. Apartment in Poulomi 90,Apartment,Kokapet,36530000.0,3,2820,12954.0
+401,Hyderabad,"Narsingi, Hyderabad",NCC Urban One,4 BHK + Pooja Room 2630 Sq.Ft. Apartment in NCC Urban One,Apartment,Narsingi,29100000.0,4,2630,11065.0
+402,Hyderabad,"Banjara Hills, Hyderabad",Sri Krishna Krishe Valley,3 BHK + Pooja Room 2900 Sq.Ft. Apartment in Sri Krishna Krishe Valley,Apartment,Banjara Hills,40000000.0,3,2900,13793.0
+403,Hyderabad,"Madhapur, Hyderabad",Sri Sai Ayyapa Sadan,1 Rk  + Servant Room 950 Sq.Ft. Apartment in Sri Sai Ayyapa Sadan,Apartment,Madhapur,4200000.0,,950,4421.0
+404,Hyderabad,"Kollur, Hyderabad",Anvita Ivana,3 BHK 1785 Sq.Ft. Apartment in Anvita Ivana,Apartment,Kollur,11900000.0,3,1785,6667.0
+405,Hyderabad,"Tellapur, Hyderabad",Rajapushpa Sierra,3 BHK 1665 Sq.Ft. Apartment in Rajapushpa Sierra,Apartment,Tellapur,9991067.0,3,1665,6001.0
+406,Hyderabad,"Narsingi, Hyderabad",Hallmark Treasor,3 BHK + Pooja Room 1765 Sq.Ft. Apartment in Hallmark Treasor,Apartment,Narsingi,18500000.0,3,1765,10482.0
+407,Hyderabad,"Madhapur, Hyderabad",My Home Navadweepa,"5 BHK + Pooja Room,Servant Room,Study Room,Extra Room 4160 Sq.Ft. Apartment in My Home Navadweepa",Apartment,Madhapur,48000000.0,5,4160,11538.0
+408,Hyderabad,"Manikonda, Hyderabad",Chilcon Mayan,2.5 BHK + Extra Room 1370 Sq.Ft. Apartment in Chilcon Mayan,Apartment,Manikonda,0.0,5,1370,0.0
+409,Hyderabad,"Puppalaguda, Hyderabad",Lansum EL Palacio,3 BHK 2055 Sq.Ft. Apartment in Lansum EL Palacio,Apartment,Puppalaguda,15618000.0,3,2055,7600.0
+410,Hyderabad,"Kokapet, Hyderabad",Gem Nakshatra,3 BHK + Pooja Room 1820 Sq.Ft. Apartment in Gem Nakshatra,Apartment,Kokapet,23500000.0,3,1820,12912.0
+411,Hyderabad,"Madhapur, Hyderabad",Alekhya Jasmine,3 BHK + Extra Room 2280 Sq.Ft. Apartment in Alekhya Jasmine,Apartment,Madhapur,27000000.0,3,2280,11842.0
+412,Hyderabad,"Narsingi, Hyderabad",SRR Sriram River View,4 BHK 2985 Sq.Ft. Apartment in SRR Sriram River View,Apartment,Narsingi,28354515.0,4,2985,9499.0
+413,Hyderabad,"Nanakramguda, Hyderabad",Trendset Winz,3 BHK + Pooja Room 3015 Sq.Ft. Apartment in Trendset Winz,Apartment,Nanakramguda,35000000.0,3,3015,11609.0
+414,Hyderabad,"Puppalaguda, Hyderabad",Lansum EL Palacio,3 BHK + Pooja Room 2095 Sq.Ft. Apartment in Lansum EL Palacio,Apartment,Puppalaguda,16757905.0,3,2095,7999.0
+415,Hyderabad,"Kokapet, Hyderabad",SAS Crown,4 BHK 8811 Sq.Ft. Apartment in SAS Crown,Apartment,Kokapet,130000000.0,4,8811,14754.0
+416,Hyderabad,"Tellapur, Hyderabad",Rajapushpa Sierra,3 BHK 2555 Sq.Ft. Apartment in Rajapushpa Sierra,Apartment,Tellapur,18300000.0,3,2555,7162.0
+417,Hyderabad,"Puppalaguda, Hyderabad",Aparna Zenon,2 BHK 1326 Sq.Ft. Apartment in Aparna Zenon,Apartment,Puppalaguda,15500000.0,2,1326,11689.0
+418,Hyderabad,"Gundlapochampalli, Hyderabad",Hirel Plaza Apartment,"2 BHK + Pooja Room,Servant Room,Study Room 840 Sq.Ft. Apartment in Hirel Plaza Apartment",Apartment,Gundlapochampalli,2800000.0,2,840,3333.0
+419,Hyderabad,"Gopanpally, Hyderabad",Honer Vivantis,3 BHK + Pooja Room 1565 Sq.Ft. Apartment in Honer Vivantis,Apartment,Gopanpally,18000000.0,3,1565,11502.0
+420,Hyderabad,"Tellapur, Hyderabad",Aliens Space Station,3.5 BHK 2208 Sq.Ft. Apartment in Aliens Space Station,Apartment,Tellapur,20000000.0,5,2208,9058.0
+421,Hyderabad,"Miyapur, Hyderabad",Candeur 40,2 BHK 1215 Sq.Ft. Apartment in Candeur 40,Apartment,Miyapur,11600000.0,2,1215,9547.0
+422,Hyderabad,"Nacharam, Hyderabad",Raheja Vistas,2.5 BHK 1440 Sq.Ft. Apartment in Raheja Vistas,Apartment,Nacharam,12500000.0,5,1440,8681.0
+423,Hyderabad,"Shankarpalli, Hyderabad",Reliance Green Village,4 BHK 5842 Sq.Ft. Villa in Reliance Green Village,Villa,Shankarpalli,80000000.0,4,5842,13694.0
+424,Hyderabad,"Kokapet, Hyderabad",Prestige Tranquil,3.5 BHK + Servant Room 2049 Sq.Ft. Apartment in Prestige Tranquil,Apartment,Kokapet,26000000.0,5,2049,12689.0
+425,Hyderabad,"Nallagandla, Hyderabad",Aparna Sarovar Zicon,3 BHK 1530 Sq.Ft. Apartment in Aparna Sarovar Zicon,Apartment,Nallagandla,20000000.0,3,1530,13072.0
+426,Hyderabad,"S D Road, Hyderabad",Beyond Deccan,2 BHK + Pooja Room 1150 Sq.Ft. Apartment in Beyond Deccan,Apartment,S D Road,9500000.0,2,1150,8261.0
+427,Hyderabad,"Gopanpally, Hyderabad",Manjeera Diamond Towers,"3 BHK + Pooja Room,Servant Room,Study Room,Extra Room 1680 Sq.Ft. Apartment in Manjeera Diamond Towers",Apartment,Gopanpally,14000000.0,3,1680,8333.0
+428,Hyderabad,"Narsingi, Hyderabad",Rajapushpa Provincia,3 BHK 2660 Sq.Ft. Apartment in Rajapushpa Provincia,Apartment,Narsingi,32000000.0,3,2660,12030.0
+429,Hyderabad,"Upparpalli, Hyderabad",Sri Mahalakshmi Residency,4 BHK 1921 Sq.Ft. Apartment in Sri Mahalakshmi Residency,Apartment,Upparpalli,11000000.0,4,1921,5726.0
+430,Hyderabad,"Chanda Nagar, Hyderabad",Avantika The Espino,2 BHK 1300 Sq.Ft. Apartment in Avantika The Espino,Apartment,Chanda Nagar,11500000.0,2,1300,8846.0
+431,Hyderabad,"Bandlaguda Jagir, Hyderabad",Urvija Heights,3 BHK + Study Room 1505 Sq.Ft. Apartment in Urvija Heights,Apartment,Bandlaguda Jagir,9030000.0,3,1505,6000.0
+432,Hyderabad,"Nallagandla, Hyderabad",Aparna Sarovar Zicon,3 BHK 1740 Sq.Ft. Apartment in Aparna Sarovar Zicon,Apartment,Nallagandla,22000000.0,3,1740,12644.0
+433,Hyderabad,"Kondapur, Hyderabad",Aparna Luxor Park,"4 BHK + Pooja Room,Servant Room,Study Room 3060 Sq.Ft. Apartment in Aparna Luxor Park",Apartment,Kondapur,48000000.0,4,3060,15686.0
+434,Hyderabad,"Manikonda, Hyderabad",Lanco Hills Apartments,3 BHK + Pooja Room 2500 Sq.Ft. Apartment in Lanco Hills Apartments,Apartment,Manikonda,25500000.0,3,2500,10200.0
+435,Hyderabad,"Kollur, Hyderabad",Radhey Raaga,"4 BHK + Pooja Room,Servant Room,Extra Room 4591 Sq.Ft. Villa in Radhey Raaga",Villa,Kollur,59700000.0,4,4591,13004.0
+436,Hyderabad,"Nagole, Hyderabad",Acropolis Buildwell,"3 BHK + Pooja Room,Servant Room,Study Room,Extra Room 1372 Sq.Ft. Apartment in Acropolis Buildwell",Apartment,Nagole,8500000.0,3,1372,6195.0
+437,Hyderabad,"Kokapet, Hyderabad",Rajapushpa Regalia,3 BHK + Pooja Room 1650 Sq.Ft. Apartment in Rajapushpa Regalia,Apartment,Kokapet,16800000.0,3,1650,10182.0
+438,Hyderabad,"Peeranchuruvu, Hyderabad",Navya Navanirman Nagar,2 BHK 1200 Sq.Ft. Villa in Navya Navanirman Nagar,Villa,Peeranchuruvu,10699000.0,2,1200,8916.0
+439,Hyderabad,"Bachupally, Hyderabad",Siri Towers Bachupally,2 BHK + Pooja Room 1200 Sq.Ft. Apartment in Siri Towers Bachupally,Apartment,Bachupally,7500000.0,2,1200,6250.0
+440,Hyderabad,"Gachibowli, Hyderabad",My Home Avatar,3 BHK + Pooja Room 1834 Sq.Ft. Apartment in My Home Avatar,Apartment,Gachibowli,22500000.0,3,1834,12268.0
+441,Hyderabad,"Serilingampally, Hyderabad",Shree Luxurio 75 Residences,3 BHK + Pooja Room 2350 Sq.Ft. Apartment in Shree Luxurio 75 Residences,Apartment,Serilingampally,22485000.0,3,2350,9568.0
+442,Hyderabad,"Madinaguda, Hyderabad",My Home Jewel,2 BHK 1245 Sq.Ft. Apartment in My Home Jewel,Apartment,Madinaguda,13000000.0,2,1245,10442.0
+443,Hyderabad,"Madinaguda, Hyderabad",NSK Bliss Meadows,2 BHK 1210 Sq.Ft. Apartment in NSK Bliss Meadows,Apartment,Madinaguda,7900000.0,2,1210,6529.0
+444,Hyderabad,"Kothaguda, Hyderabad",Udaya Royal Crest Apartment,3 BHK 2000 Sq.Ft. Apartment in Udaya Royal Crest Apartment,Apartment,Kothaguda,18500000.0,3,2000,9250.0
+445,Hyderabad,"Shamshabad, Hyderabad",Suchirindia The Tales of Greek,2 BHK 890 Sq.Ft. Apartment in Suchirindia The Tales of Greek,Apartment,Shamshabad,5300000.0,2,890,5955.0
+446,Hyderabad,"Kompally, Hyderabad",Sunyuga Vantara,2 BHK 1309 Sq.Ft. Apartment in Sunyuga Vantara,Apartment,Kompally,6500000.0,2,1309,4966.0
+447,Hyderabad,"Kachiguda, Hyderabad",Kanaka Durga Bhavan,4 BHK 2636 Sq.Ft. Apartment in Kanaka Durga Bhavan,Apartment,Kachiguda,21500000.0,4,2636,8156.0
+448,Hyderabad,"Saidabad, Hyderabad",Namishree BPS Twin Towers,3 BHK + Pooja Room 1705 Sq.Ft. Apartment in Namishree BPS Twin Towers,Apartment,Saidabad,16000000.0,3,1705,9384.0
+449,Hyderabad,"Kollur, Hyderabad",Vian Mrida,3 BHK 1740 Sq.Ft. Apartment in Vian Mrida,Apartment,Kollur,10962000.0,3,1740,6300.0
+450,Hyderabad,"Miyapur, Hyderabad",MRKR Meda Prestige,2 BHK 1321 Sq.Ft. Apartment in MRKR Meda Prestige,Apartment,Miyapur,11500000.0,2,1321,8706.0
+451,Hyderabad,"Kowkoor, Hyderabad",Modi Villa Orchids,3 BHK + Study Room 1224 Sq.Ft. Villa in Modi Villa Orchids,Villa,Kowkoor,15000000.0,3,1224,12255.0
+452,Hyderabad,"Manikonda, Hyderabad",Platinum Vista Manikonda,2 BHK 1280 Sq.Ft. Apartment in Platinum Vista Manikonda,Apartment,Manikonda,8704000.0,2,1280,6800.0
+453,Hyderabad,"Wadakpally, Hyderabad",Green Tech 02 Community,3 BHK + Pooja Room 1907 Sq.Ft. Villa in Green Tech 02 Community,Villa,Wadakpally,15000000.0,3,1907,7866.0
+454,Hyderabad,"Shaikpet, Hyderabad",Aparna One,3 BHK + Pooja Room 2876 Sq.Ft. Apartment in Aparna One,Apartment,Shaikpet,48000000.0,3,2876,16690.0
+455,Hyderabad,"Kothaguda, Hyderabad",Bollineni Bion,3 BHK 1960 Sq.Ft. Apartment in Bollineni Bion,Apartment,Kothaguda,26000000.0,3,1960,13265.0
+456,Hyderabad,"Kondapur, Hyderabad",Candeur Lakescape,"3 BHK + Pooja Room,Servant Room 1909 Sq.Ft. Apartment in Candeur Lakescape",Apartment,Kondapur,17753700.0,3,1909,9300.0
+457,Hyderabad,"Financial District, Hyderabad",Raghava Cinq,4 BHK + Pooja Room 3600 Sq.Ft. Apartment in Raghava Cinq,Apartment,Financial District,35280000.0,4,3600,9800.0
+458,Hyderabad,"Chanda Nagar, Hyderabad",Neeladri Residency,2 BHK 1080 Sq.Ft. Apartment in Neeladri Residency,Apartment,Chanda Nagar,4900000.0,2,1080,4537.0
+459,Hyderabad,"Miyapur, Hyderabad",Aspire Spaces Ameya,3 BHK + Extra Room 1625 Sq.Ft. Apartment in Aspire Spaces Ameya,Apartment,Miyapur,13000000.0,3,1625,8000.0
+460,Hyderabad,"Gachibowli, Hyderabad",Sumadhura Acropolis,3 BHK 2615 Sq.Ft. Apartment in Sumadhura Acropolis,Apartment,Gachibowli,34000000.0,3,2615,13002.0
+461,Hyderabad,"Kollur, Hyderabad",Anvita High 9,"3 BHK + Pooja Room,Study Room,Extra Room 1965 Sq.Ft. Apartment in Anvita High 9",Apartment,Kollur,12380678.0,3,1965,6301.0
+462,Hyderabad,"Kothaguda, Hyderabad",Cybercity Trevita,"3.5 BHK + Pooja Room,Servant Room 3500 Sq.Ft. Apartment in Cybercity Trevita",Apartment,Kothaguda,26250000.0,5,3500,7500.0
+463,Hyderabad,"Kompally, Hyderabad",Om Sree Skypark,3 BHK 2235 Sq.Ft. Apartment in Om Sree Skypark,Apartment,Kompally,18052500.0,3,2235,8077.0
+464,Hyderabad,"Hi Tech City, Hyderabad",My Home Bhooja,"4 BHK + Pooja Room,Servant Room,Study Room,Extra Room 4070 Sq.Ft. Apartment in My Home Bhooja",Apartment,Hi Tech City,100000000.0,4,4070,24570.0
+465,Hyderabad,"Narsingi, Hyderabad",IRA Moon Glade,3 BHK 3045 Sq.Ft. Apartment in IRA Moon Glade,Apartment,Narsingi,19800000.0,3,3045,6502.0
+466,Hyderabad,"Kokapet, Hyderabad",Sri Fortune Sonthalia Sky Villas,"4 BHK + Pooja Room,Servant Room 7333 Sq.Ft. Apartment in Sri Fortune Sonthalia Sky Villas",Apartment,Kokapet,75996000.0,4,7333,10364.0
+467,Hyderabad,"Kollur, Hyderabad",Venice City,3 BHK + Pooja Room 2200 Sq.Ft. Villa in Venice City,Villa,Kollur,21000000.0,3,2200,9545.0
+468,Hyderabad,"Uppal, Hyderabad",Udaya Skyvert,3 BHK 1755 Sq.Ft. Apartment in Udaya Skyvert,Apartment,Uppal,10530000.0,3,1755,6000.0
+469,Hyderabad,"Kondapur, Hyderabad",Aparna Serene Park,3 BHK + Pooja Room 1595 Sq.Ft. Apartment in Aparna Serene Park,Apartment,Kondapur,22330000.0,3,1595,14000.0
+470,Hyderabad,"Banjara Hills, Hyderabad",White House Banjara Hills,2 BHK + Pooja Room 1350 Sq.Ft. Apartment in White House Banjara Hills,Apartment,Banjara Hills,18225000.0,2,1350,13500.0
+471,Hyderabad,"Osman Nagar, Hyderabad",Magna Majestic Meadows,4 BHK 3632 Sq.Ft. Villa in Magna Majestic Meadows,Villa,Osman Nagar,55000000.0,4,3632,15143.0
+472,Hyderabad,"Kokapet, Hyderabad",Brigade Gateway,4 BHK 4980 Sq.Ft. Apartment in Brigade Gateway,Apartment,Kokapet,0.0,4,4980,0.0
+473,Hyderabad,"Narsingi, Hyderabad",Hallmark Vicinia,3 BHK + Pooja Room 1760 Sq.Ft. Apartment in Hallmark Vicinia,Apartment,Narsingi,18200000.0,3,1760,10341.0
+474,Hyderabad,"Shankarpalli, Hyderabad",Sark One,"4 BHK + Pooja Room,Servant Room,Study Room 4500 Sq.Ft. Villa in Sark One",Villa,Shankarpalli,75000000.0,4,4500,16667.0
+475,Hyderabad,"Nizampet, Hyderabad",Shiva Lavista,2 BHK + Pooja Room 1230 Sq.Ft. Apartment in Shiva Lavista,Apartment,Nizampet,8026000.0,2,1230,6525.0
+476,Hyderabad,"Gopanpally, Hyderabad",Honer Vivantis,3 BHK + Pooja Room 1725 Sq.Ft. Apartment in Honer Vivantis,Apartment,Gopanpally,18000000.0,3,1725,10435.0
+477,Hyderabad,"Shaikpet, Hyderabad",Aditya Empress Towers,3 BHK + Pooja Room 1900 Sq.Ft. Apartment in Aditya Empress Towers,Apartment,Shaikpet,19000000.0,3,1900,10000.0
+478,Hyderabad,"Bachupally, Hyderabad",TMSR Skyler,2 BHK 1194 Sq.Ft. Apartment in TMSR Skyler,Apartment,Bachupally,9800000.0,2,1194,8208.0
+479,Hyderabad,"Tellapur, Hyderabad",My Home Tridasa,3 BHK + Pooja Room 1840 Sq.Ft. Apartment in My Home Tridasa,Apartment,Tellapur,19000000.0,3,1840,10326.0
+480,Hyderabad,"Narsingi, Hyderabad",Lansum El Dorado,3 BHK 2180 Sq.Ft. Apartment in Lansum El Dorado,Apartment,Narsingi,21800000.0,3,2180,10000.0
+481,Hyderabad,"Gaganpahad, Hyderabad",Dev Signature One,3 BHK 1853 Sq.Ft. Apartment in Dev Signature One,Apartment,Gaganpahad,16000000.0,3,1853,8635.0
+482,Hyderabad,"Narsingi, Hyderabad",Rajapushpa Provincia,3 BHK + Pooja Room 1715 Sq.Ft. Apartment in Rajapushpa Provincia,Apartment,Narsingi,21700000.0,3,1715,12653.0
+483,Chennai,"Guduvanchery, Chennai",Lancor Lumina 2020,2.5 BHK 1257 Sq.Ft. Apartment in Lancor Lumina 2020,Apartment,Guduvanchery,5700000.0,5,1257,4535.0
+484,Chennai,"Mahabalipuram, Chennai",Arun Excello Ziva,2 BHK + Pooja Room 540 Sq.Ft. Apartment in Arun Excello Ziva,Apartment,Mahabalipuram,2200000.0,2,540,4074.0
+485,Chennai,"Pammal, Chennai",Pammal Dream Valley,2 BHK 660 Sq.Ft. Apartment in Pammal Dream Valley,Apartment,Pammal,4100000.0,2,660,6212.0
+486,Chennai,"Kattupakkam, Chennai",Teamwork Kattupakkam,3 BHK 863 Sq.Ft. Apartment in Teamwork Kattupakkam,Apartment,Kattupakkam,8900000.0,3,863,10313.0
+487,Chennai,"Urapakkam, Chennai",Sis Marakesh,3 BHK 1370 Sq.Ft. Apartment in Sis Marakesh,Apartment,Urapakkam,8500000.0,3,1370,6204.0
+488,Chennai,"Thalambur, Chennai",Casa Grande Pavilion,5 BHK 3300 Sq.Ft. Villa in Casa Grande Pavilion,Villa,Thalambur,26300000.0,5,3300,7970.0
+489,Chennai,"Kolapakkam, Chennai",Sri Shanmuga Flats,2 BHK + Pooja Room 1200 Sq.Ft. Apartment in Sri Shanmuga Flats,Apartment,Kolapakkam,4500000.0,2,1200,3750.0
+490,Chennai,"Thiruporur, Chennai",Ceedeeyes chennaipattinam,"3 BHK + Servant Room,Study Room 1500 Sq.Ft. Apartment in Ceedeeyes chennaipattinam",Apartment,Thiruporur,8000000.0,3,1500,5333.0
+491,Chennai,"Madambakkam, Chennai",RMR Saru Silamban,2 BHK 812 Sq.Ft. Apartment in RMR Saru Silamban,Apartment,Madambakkam,5684000.0,2,812,7000.0
+492,Chennai,"Kundrathur, Chennai",Casagrand Highclere,2 BHK 1058 Sq.Ft. Apartment in Casagrand Highclere,Apartment,Kundrathur,5500000.0,2,1058,5198.0
+493,Delhi,"Uttam Nagar, Delhi",SA HOMES I,2.5 BHK 456 Sq.Ft. Builder Floor in SA HOMES I,Builder Floor,Uttam Nagar,0.0,5,456,0.0
+494,Delhi,"Dariba Kalan, Delhi",Omaxe Chandni Chowk,184 Sq.Ft. Office Space in Omaxe Chandni Chowk,Office Space,Dariba Kalan,6000000.0,,184,32609.0
+495,Delhi,"Safdarjung Enclave, Delhi",Veera Safdarjung Enclave,"4 BHK + Pooja Room,Servant Room,Study Room,Extra Room 2700 Sq.Ft. Apartment in Veera Safdarjung Enclave",Apartment,Safdarjung Enclave,150000000.0,4,2700,55556.0
+496,Delhi,"Khanpur, Delhi",Rattan Apartment,3 BHK + Pooja Room 950 Sq.Ft. Builder Floor in Rattan Apartment,Builder Floor,Khanpur,5300000.0,3,950,5579.0
+497,Delhi,"Greater Kailash, Delhi",Boutique Residential Apartments R-62,3.5 BHK + Extra Room 2000 Sq.Ft. Builder Floor in Boutique Residential Apartments R-62,Builder Floor,Greater Kailash,47500000.0,5,2000,23750.0
+498,Delhi,"Jasola, Delhi",RWA Jasola Sector 8 SFS Flat,2 BHK 950 Sq.Ft. Apartment in RWA Jasola Sector 8 SFS Flat,Apartment,Jasola,19500000.0,2,950,20526.0
+499,Delhi,"Okhla, Delhi",Godrej South Estate Okhla,3 BHK 2800 Sq.Ft. Apartment in Godrej South Estate Okhla,Apartment,Okhla,69000000.0,3,2800,24643.0
+500,Delhi,"Chattarpur, Delhi",Palm Residency Chhatarpur,4 BHK 2250 Sq.Ft. Builder Floor in Palm Residency Chhatarpur,Builder Floor,Chattarpur,18000000.0,4,2250,8000.0
+501,Delhi,"Mayur Vihar Phase 1, Delhi",Vigyapan Lok Apartments,3.5 BHK + Servant Room 1550 Sq.Ft. Apartment in Vigyapan Lok Apartments,Apartment,Mayur Vihar Phase 1,28500000.0,5,1550,18387.0
+502,Delhi,"Okhla, Delhi",Godrej South Estate Okhla,2 BHK 1195 Sq.Ft. Apartment in Godrej South Estate Okhla,Apartment,Okhla,31100000.0,2,1195,26025.0
+503,Delhi,"Patparganj, Delhi",Parshav Vihar,2 BHK + Pooja Room 1000 Sq.Ft. Apartment in Parshav Vihar,Apartment,Patparganj,15000000.0,2,1000,15000.0
+504,Delhi,"Sector 16b Dwarka, Delhi",The Vegas,"4 BHK + Pooja Room,Study Room 1441 Sq.Ft. Builder Floor in The Vegas",Builder Floor,Sector 16b Dwarka,13000000.0,4,1441,9022.0
+505,Delhi,"Karol Bagh, Delhi",Unity The Amaryllis,2 BHK 1025 Sq.Ft. Apartment in Unity The Amaryllis,Apartment,Karol Bagh,22900000.0,2,1025,22341.0
+506,Delhi,"Vasundhara Enclave, Delhi",Abhinav Apartments,3 BHK + Pooja Room 1350 Sq.Ft. Apartment in Abhinav Apartments,Apartment,Vasundhara Enclave,15500000.0,3,1350,11481.0
+507,Delhi,"Karol Bagh, Delhi",Unity The Amaryllis,4 BHK 3750 Sq.Ft. Apartment in Unity The Amaryllis,Apartment,Karol Bagh,77500000.0,4,3750,20667.0
+508,Delhi,"Chattarpur, Delhi",Palm Residency Chhatarpur,3 BHK 1350 Sq.Ft. Builder Floor in Palm Residency Chhatarpur,Builder Floor,Chattarpur,8500000.0,3,1350,6296.0
+509,Gurgaon,"Sector 104, Gurgaon",Hero Homes Gurgaon,2 BHK 683 Sq.Ft. Apartment in Hero Homes Gurgaon,Apartment,Sector 104,16000000.0,2,683,23426.0
+510,Gurgaon,"Sector 37d, Gurgaon",Ramprastha City The Atrium,2 BHK 1055 Sq.Ft. Apartment in Ramprastha City The Atrium,Apartment,Sector 37d,11000000.0,2,1055,10427.0
+511,Gurgaon,"Sector 62, Gurgaon",Pivotal Paradise,2 BHK + Pooja Room 686 Sq.Ft. Apartment in Pivotal Paradise,Apartment,Sector 62,11000000.0,2,686,16035.0
+512,Gurgaon,"Sector 50, Gurgaon",Unitech Escape,3 BHK + Servant Room 2097 Sq.Ft. Apartment in Unitech Escape,Apartment,Sector 50,33500000.0,3,2097,15975.0
+513,Gurgaon,"Sector 67a, Gurgaon",Pyramid Urban Homes 3,2 BHK 698 Sq.Ft. Apartment in Pyramid Urban Homes 3,Apartment,Sector 67a,8500000.0,2,698,12178.0
+514,Gurgaon,"Sector 99, Gurgaon",Pivotal Riddhi Siddhi,2 BHK 587 Sq.Ft. Apartment in Pivotal Riddhi Siddhi,Apartment,Sector 99,6551000.0,2,587,11160.0
+515,Gurgaon,"Sohna Sector 33, Gurgaon",Central Park 3 Flower Valley,3 BHK + Servant Room 1642 Sq.Ft. Apartment in Central Park 3 Flower Valley,Apartment,Sohna Sector 33,22500000.0,3,1642,13703.0
+516,Gurgaon,"Sector 66, Gurgaon",Emaar The Palm Drive-The Premier Terraces,"3 BHK + Servant Room,Study Room 2125 Sq.Ft. Apartment in Emaar The Palm Drive-The Premier Terraces",Apartment,Sector 66,42800000.0,3,2125,20141.0
+517,Gurgaon,"Sushant Lok ii, Gurgaon",Suncity Heights,3.5 BHK + Servant Room 2341 Sq.Ft. Apartment in Suncity Heights,Apartment,Sushant Lok ii,55000000.0,5,2341,23494.0
+518,Gurgaon,"Sector 77, Gurgaon",Emaar Palm Hills,4 BHK + Servant Room 1950 Sq.Ft. Apartment in Emaar Palm Hills,Apartment,Sector 77,27500000.0,4,1950,14103.0
+519,Gurgaon,"Sector 88a, Gurgaon",The Center Court,3 BHK 888 Sq.Ft. Apartment in The Center Court,Apartment,Sector 88a,22500000.0,3,888,25338.0
+520,Gurgaon,"Sushant Lok I, Gurgaon",Realtech The Luxurium,4 BHK 2750 Sq.Ft. Builder Floor in Realtech The Luxurium,Builder Floor,Sushant Lok I,45000000.0,4,2750,16364.0
+521,Gurgaon,"Sohna Sector 35, Gurgaon",HCBS Sports Ville,2 BHK 737 Sq.Ft. Apartment in HCBS Sports Ville,Apartment,Sohna Sector 35,5000000.0,2,737,6784.0
+522,Gurgaon,"Sector 104, Gurgaon",Hero Homes Gurgaon,2 BHK 1099 Sq.Ft. Apartment in Hero Homes Gurgaon,Apartment,Sector 104,16500000.0,2,1099,15014.0
+523,Gurgaon,"Sector 108, Gurgaon",Sobha City Gurgaon,3 BHK + Study Room 2072 Sq.Ft. Apartment in Sobha City Gurgaon,Apartment,Sector 108,45000000.0,3,2072,21718.0
+524,Gurgaon,"Sector 113, Gurgaon",Tata La Vida,3 BHK + Servant Room 1573 Sq.Ft. Apartment in Tata La Vida,Apartment,Sector 113,25000000.0,3,1573,15893.0
+525,Gurgaon,"Sector 99, Gurgaon",Pivotal Riddhi Siddhi,2 BHK 587 Sq.Ft. Apartment in Pivotal Riddhi Siddhi,Apartment,Sector 99,6500000.0,2,587,11073.0
+526,Gurgaon,"Sector 59, Gurgaon",Paras Floret,3 BHK + Extra Room 1750 Sq.Ft. Builder Floor in Paras Floret,Builder Floor,Sector 59,32500000.0,3,1750,18571.0
+527,Gurgaon,"Sector 36a, Gurgaon",Max Estate 360,4 BHK 3531 Sq.Ft. Apartment in Max Estate 360,Apartment,Sector 36a,70320000.0,4,3531,19915.0
+528,Gurgaon,"Sector 108, Gurgaon",Raheja Vedaanta,5 BHK + Servant Room 5534 Sq.Ft. Penthouse in Raheja Vedaanta,Penthouse,Sector 108,44500000.0,5,5534,8041.0
+529,Gurgaon,"Sector 67, Gurgaon",M3M Merlin,3 BHK + Pooja Room 2025 Sq.Ft. Apartment in M3M Merlin,Apartment,Sector 67,35200000.0,3,2025,17383.0
+530,Gurgaon,"Sector 65, Gurgaon",M3M Golf Estate,3 BHK 3799 Sq.Ft. Apartment in M3M Golf Estate,Apartment,Sector 65,85000000.0,3,3799,22374.0
+531,Gurgaon,"Sector 95a, Gurgaon",JMS The Pride,2.5 BHK 1160 Sq.Ft. Apartment in JMS The Pride,Apartment,Sector 95a,18000000.0,5,1160,15517.0
+532,Gurgaon,"Sector 37d, Gurgaon",Signature Global The Millennia,2 BHK 696 Sq.Ft. Apartment in Signature Global The Millennia,Apartment,Sector 37d,7360000.0,2,696,10575.0
+533,Gurgaon,"Sector 108, Gurgaon",Experion Hub 108,2 BHK + Servant Room 1283 Sq.Ft. Apartment in Experion Hub 108,Apartment,Sector 108,14500000.0,2,1283,11302.0
+534,Gurgaon,"Sector 47, Gurgaon",Bestech Park View Spa,3 BHK + Pooja Room 2470 Sq.Ft. Apartment in Bestech Park View Spa,Apartment,Sector 47,35000000.0,3,2470,14170.0
+535,Gurgaon,"Sector 86, Gurgaon",DLF New Town Heights II,1 Rk  200 Sq.Ft. Apartment in DLF New Town Heights II,Apartment,Sector 86,2000000.0,,200,10000.0
+536,Gurgaon,"Sector 81, Gurgaon",Signature Global Synera,2.5 BHK 735 Sq.Ft. Apartment in Signature Global Synera,Apartment,Sector 81,8600000.0,5,735,11701.0
+537,Gurgaon,"Sector 95a, Gurgaon",JMS Primeland,2.5 BHK + Pooja Room 1160 Sq.Ft. Builder Floor in JMS Primeland,Builder Floor,Sector 95a,11000000.0,5,1160,9483.0
+538,Gurgaon,"Sector 70, Gurgaon",Tulip Crimson,"4 BHK + Pooja Room,Servant Room 3090 Sq.Ft. Apartment in Tulip Crimson",Apartment,Sector 70,0.0,4,3090,0.0
+539,Gurgaon,"Sector 52, Gurgaon",Ansal Sushant Estate,4 BHK 1690 Sq.Ft. Apartment in Ansal Sushant Estate,Apartment,Sector 52,27500000.0,4,1690,16272.0
+540,Gurgaon,"South City 1, Gurgaon",Unitech South City 1,4 BHK + Servant Room 2500 Sq.Ft. Builder Floor in Unitech South City 1,Builder Floor,South City 1,38500000.0,4,2500,15400.0
+541,Gurgaon,"Sector 89, Gurgaon",3C Orris Greenopolis,3.5 BHK + Servant Room 1957 Sq.Ft. Apartment in 3C Orris Greenopolis,Apartment,Sector 89,16000000.0,5,1957,8176.0
+542,Gurgaon,"Sector 113, Gurgaon",M3M Capital,3 BHK + Extra Room 2298 Sq.Ft. Apartment in M3M Capital,Apartment,Sector 113,0.0,3,2298,0.0
+543,Gurgaon,"Sector 63a, Gurgaon",Anant Raj The Estate Floors,4 BHK + Servant Room 2350 Sq.Ft. Builder Floor in Anant Raj The Estate Floors,Builder Floor,Sector 63a,30000000.0,4,2350,12766.0
+544,Gurgaon,"Nawada Fatehpur, Gurgaon",Pyramid Elite,2 BHK 581 Sq.Ft. Apartment in Pyramid Elite,Apartment,Nawada Fatehpur,7000000.0,2,581,12048.0
+545,Gurgaon,"Sohna Sector 6, Gurgaon",Arete India Our Homes 3,2.5 BHK 710 Sq.Ft. Apartment in Arete India Our Homes 3,Apartment,Sohna Sector 6,5300000.0,5,710,7465.0
+546,Gurgaon,"Sohna Sector 36, Gurgaon",Signature Global Park,3 BHK 1440 Sq.Ft. Builder Floor in Signature Global Park,Builder Floor,Sohna Sector 36,13789000.0,3,1440,9576.0
+547,Gurgaon,"Sector 102, Gurgaon",ROF Aalayas,2 BHK 600 Sq.Ft. Apartment in ROF Aalayas,Apartment,Sector 102,600000.0,2,600,1000.0
+548,Gurgaon,"Sector 107, Gurgaon",M3M Woodshire,2 BHK + Pooja Room 1534 Sq.Ft. Apartment in M3M Woodshire,Apartment,Sector 107,12500000.0,2,1534,8149.0
+549,Gurgaon,"Sector 65, Gurgaon",M3M 65 Avenue,3 BHK + Servant Room 2054 Sq.Ft. Apartment in M3M 65 Avenue,Apartment,Sector 65,39000000.0,3,2054,18987.0
+550,Gurgaon,"Sector 61, Gurgaon",Smart World Orchard,3.5 BHK 1679 Sq.Ft. Apartment in Smart World Orchard,Apartment,Sector 61,28600000.0,5,1679,17034.0
+551,Gurgaon,"Sector 62, Gurgaon",Pivotal Paradise,2 BHK 657 Sq.Ft. Apartment in Pivotal Paradise,Apartment,Sector 62,8500000.0,2,657,12938.0
+552,Gurgaon,"Sector 67, Gurgaon",Pyramid Square 67A,2 BHK + Pooja Room 800 Sq.Ft. Apartment in Pyramid Square 67A,Apartment,Sector 67,7800000.0,2,800,9750.0
+553,Gurgaon,"Sector 65, Gurgaon",Emaar Emerald Floors,4 BHK + Extra Room 1750 Sq.Ft. Builder Floor in Emaar Emerald Floors,Builder Floor,Sector 65,32600000.0,4,1750,18629.0
+554,Gurgaon,"Sector 85, Gurgaon",SS The Leaf,3.5 BHK + Servant Room 2408 Sq.Ft. Apartment in SS The Leaf,Apartment,Sector 85,27500000.0,5,2408,11420.0
+555,Gurgaon,"Sector 79, Gurgaon",Supertech Araville,3.5 BHK + Servant Room 1530 Sq.Ft. Apartment in Supertech Araville,Apartment,Sector 79,15500000.0,5,1530,10131.0
+556,Gurgaon,"Sector 59, Gurgaon",Conscient Hines Elevate,4 BHK + Servant Room 1855 Sq.Ft. Apartment in Conscient Hines Elevate,Apartment,Sector 59,48230000.0,4,1855,26000.0
+557,Gurgaon,"Sector 102, Gurgaon",Satya The Hive,703 Sq.Ft. Office Space in Satya The Hive,Office Space,Sector 102,7500000.0,,703,10669.0
+558,Gurgaon,"Sector 99a, Gurgaon",Pareena Coban Residences,2.5 BHK + Servant Room 1550 Sq.Ft. Apartment in Pareena Coban Residences,Apartment,Sector 99a,16000000.0,5,1550,10323.0
+559,Gurgaon,"Sector 81, Gurgaon",Signature Global City 81,2 BHK + Extra Room 1150 Sq.Ft. Builder Floor in Signature Global City 81,Builder Floor,Sector 81,11999999.0,2,1150,10435.0
+560,Gurgaon,"Sohna Sector 36, Gurgaon",Signature The Serenas,2 BHK + Extra Room 583 Sq.Ft. Apartment in Signature The Serenas,Apartment,Sohna Sector 36,6700000.0,2,583,11492.0
+561,Gurgaon,"Sector 92, Gurgaon",SARE Petioles,4 BHK + Servant Room 2180 Sq.Ft. Apartment in SARE Petioles,Apartment,Sector 92,19000000.0,4,2180,8716.0
+562,Gurgaon,"Sector 51, Gurgaon",SS Mayfield Gardens,2 BHK + Pooja Room 1100 Sq.Ft. Builder Floor in SS Mayfield Gardens,Builder Floor,Sector 51,15000000.0,2,1100,13636.0
+563,Gurgaon,"Sector 37d, Gurgaon",Ramprastha City The Edge Towers,2 BHK + Extra Room 1380 Sq.Ft. Apartment in Ramprastha City The Edge Towers,Apartment,Sector 37d,12000000.0,2,1380,8696.0
+564,Gurgaon,"Sector 37c, Gurgaon",Apex Our Homes,2 BHK 850 Sq.Ft. Apartment in Apex Our Homes,Apartment,Sector 37c,5500000.0,2,850,6471.0
+565,Gurgaon,"Sector 73, Gurgaon",DLF Alameda,3 BHK 1850 Sq.Ft. Builder Floor in DLF Alameda,Builder Floor,Sector 73,35000000.0,3,1850,18919.0
+566,Gurgaon,"Sector 88a, Gurgaon",Godrej Oasis,3 BHK + Servant Room 1791 Sq.Ft. Apartment in Godrej Oasis,Apartment,Sector 88a,21000000.0,3,1791,11725.0
+567,Gurgaon,"Sector 48, Gurgaon",JMD Megapolis,978 Sq.Ft. Office Space in JMD Megapolis,Office Space,Sector 48,9000000.0,,978,9202.0
+568,Gurgaon,"Sector 49, Gurgaon",Army Sispal Vihar,3 BHK + Extra Room 1797 Sq.Ft. Apartment in Army Sispal Vihar,Apartment,Sector 49,26000000.0,3,1797,14469.0
+569,Gurgaon,"Sector 47, Gurgaon",Kohli One Malibu Town,"3 BHK + Pooja Room,Servant Room 1800 Sq.Ft. Builder Floor in Kohli One Malibu Town",Builder Floor,Sector 47,29000000.0,3,1800,16111.0
+570,Gurgaon,"Sector 92, Gurgaon",Signature Global City 92,2 BHK 1010 Sq.Ft. Apartment in Signature Global City 92,Apartment,Sector 92,11000000.0,2,1010,10891.0
+571,Gurgaon,"Manesar Sector 9, Gurgaon",JMS The Majestic,3 BHK 2082 Sq.Ft. Builder Floor in JMS The Majestic,Builder Floor,Manesar Sector 9,16994258.0,3,2082,8162.0
+572,Gurgaon,"Sector 95, Gurgaon",Landmark Avana,3 BHK + Pooja Room 1494 Sq.Ft. Builder Floor in Landmark Avana,Builder Floor,Sector 95,15500000.0,3,1494,10375.0
+573,Gurgaon,"Sector 70, Gurgaon",Shree Vardhman Victoria,3 BHK + Pooja Room 1950 Sq.Ft. Apartment in Shree Vardhman Victoria,Apartment,Sector 70,28500000.0,3,1950,14615.0
+574,Gurgaon,"Sector 63a, Gurgaon",Anant Raj Ashok Estate,4 BHK + Extra Room 2400 Sq.Ft. Builder Floor in Anant Raj Ashok Estate,Builder Floor,Sector 63a,34000000.0,4,2400,14167.0
+575,Gurgaon,"Sector 61, Gurgaon",Smart World Orchard,3.5 BHK + Extra Room 1650 Sq.Ft. Apartment in Smart World Orchard,Apartment,Sector 61,28000000.0,5,1650,16970.0
+576,Gurgaon,"Sector 25, Gurgaon",Unitech Heritage City,4 BHK + Servant Room 3890 Sq.Ft. Apartment in Unitech Heritage City,Apartment,Sector 25,86000000.0,4,3890,22108.0
+577,Gurgaon,"Sector 92, Gurgaon",Bestech Park View Sanskruti,3 BHK + Servant Room 2120 Sq.Ft. Apartment in Bestech Park View Sanskruti,Apartment,Sector 92,25000000.0,3,2120,11792.0
+578,Gurgaon,"Sector 89, Gurgaon",Signature Global Proxima Phase 2,"2 BHK + Pooja Room,Extra Room 685 Sq.Ft. Apartment in Signature Global Proxima Phase 2",Apartment,Sector 89,6800000.0,2,685,9927.0
+579,Gurgaon,"Sohna Sector 33, Gurgaon",Central Park 3 Flower Valley,2.5 BHK + Study Room 1093 Sq.Ft. Builder Floor in Central Park 3 Flower Valley,Builder Floor,Sohna Sector 33,16500000.0,5,1093,15096.0
+580,Gurgaon,"Sector 103, Gurgaon",Indiabulls Centrum Park,4 BHK + Servant Room 2875 Sq.Ft. Apartment in Indiabulls Centrum Park,Apartment,Sector 103,30000000.0,4,2875,10435.0
+581,Gurgaon,"Sector 104, Gurgaon",Hero Homes Gurgaon,2 BHK + Extra Room 1099 Sq.Ft. Apartment in Hero Homes Gurgaon,Apartment,Sector 104,16450000.0,2,1099,14968.0
+582,Gurgaon,"Sohna Sector 36, Gurgaon",Signature Global Park,2.5 BHK + Study Room 1210 Sq.Ft. Apartment in Signature Global Park,Apartment,Sohna Sector 36,13500000.0,5,1210,11157.0
+583,Gurgaon,"Sector 88a, Gurgaon",Signature Global Imperial,3 BHK 744 Sq.Ft. Apartment in Signature Global Imperial,Apartment,Sector 88a,8175100.0,3,744,10988.0
+584,Gurgaon,"Sector 111, Gurgaon",Puri Diplomatic Greens Phase I,3 BHK + Servant Room 1700 Sq.Ft. Apartment in Puri Diplomatic Greens Phase I,Apartment,Sector 111,0.0,3,1700,0.0
+585,Gurgaon,"Sector 95, Gurgaon",JMS Group Silver Living,2.5 BHK 1160 Sq.Ft. Apartment in JMS Group Silver Living,Apartment,Sector 95,18000000.0,5,1160,15517.0
+586,Gurgaon,"Sector 37d, Gurgaon",Signature The Millennia 3,2 BHK 687 Sq.Ft. Apartment in Signature The Millennia 3,Apartment,Sector 37d,6500000.0,2,687,9461.0
+587,Gurgaon,"Sector 88b, Gurgaon",Vatika Xpressions,2 BHK 1350 Sq.Ft. Builder Floor in Vatika Xpressions,Builder Floor,Sector 88b,17000000.0,2,1350,12593.0
+588,Gurgaon,"Sector 69, Gurgaon",Tulip Yellow,3 BHK + Servant Room 1704 Sq.Ft. Apartment in Tulip Yellow,Apartment,Sector 69,21500000.0,3,1704,12617.0
+589,Gurgaon,"Sector 112, Gurgaon",Tata Gurgaon Gateway,3 BHK + Extra Room 2215 Sq.Ft. Apartment in Tata Gurgaon Gateway,Apartment,Sector 112,31500000.0,3,2215,14221.0
+590,Gurgaon,"Manesar Sector 1a, Gurgaon",DLF Express Greens,3 BHK + Servant Room 1958 Sq.Ft. Apartment in DLF Express Greens,Apartment,Manesar Sector 1a,14500000.0,3,1958,7406.0
+591,Gurgaon,"Sector 33, Gurgaon",Unitech The Residences Gurgaon,3 BHK 1505 Sq.Ft. Apartment in Unitech The Residences Gurgaon,Apartment,Sector 33,26000000.0,3,1505,17276.0
+592,Gurgaon,"Sector 37c, Gurgaon",Apex Our Homes,2 BHK 580 Sq.Ft. Apartment in Apex Our Homes,Apartment,Sector 37c,6370000.0,2,580,10983.0
+593,Gurgaon,"Ramgarh Dhani, Gurgaon",Ireo The Corridors,2 BHK + Pooja Room 1296 Sq.Ft. Apartment in Ireo The Corridors,Apartment,Ramgarh Dhani,23500000.0,2,1296,18133.0
+594,Gurgaon,"Sector 49, Gurgaon",SS 100,4 BHK + Servant Room 2520 Sq.Ft. Builder Floor in SS 100,Builder Floor,Sector 49,33500000.0,4,2520,13294.0
+595,Gurgaon,"Sector 32a, Gurgaon",Raheja Atlantis II,4 BHK + Servant Room 3000 Sq.Ft. Apartment in Raheja Atlantis II,Apartment,Sector 32a,55000000.0,4,3000,18333.0
+596,Gurgaon,"Sohna Sector 36, Gurgaon",Signature Global Park,2 BHK 822 Sq.Ft. Apartment in Signature Global Park,Apartment,Sohna Sector 36,8000000.0,2,822,9732.0
+597,Gurgaon,"Sector 79, Gurgaon",Mapsko Mount Ville,4 BHK + Servant Room 2650 Sq.Ft. Apartment in Mapsko Mount Ville,Apartment,Sector 79,36000000.0,4,2650,13585.0
+598,Gurgaon,"Shivpuri, Gurgaon",Gurgaon Dreamz,300 Sq.Ft. Office Space in Gurgaon Dreamz,Office Space,Shivpuri,5000000.0,,300,16667.0
+599,Gurgaon,"Sector 47, Gurgaon",Kohli One Malibu Town,4 BHK 2700 Sq.Ft. Builder Floor in Kohli One Malibu Town,Builder Floor,Sector 47,43000000.0,4,2700,15926.0
+600,Gurgaon,"Sector 53, Gurgaon",Tulip Monsella,"3 BHK + Pooja Room,Servant Room 2874 Sq.Ft. Apartment in Tulip Monsella",Apartment,Sector 53,94800000.0,3,2874,32985.0
+601,Gurgaon,"Sector 83, Gurgaon",SVH 83 Metro Street,584 Sq.Ft. Office Space in SVH 83 Metro Street,Office Space,Sector 83,6800000.0,,584,11644.0
+602,Gurgaon,"Sector 95, Gurgaon",JMS The Nation,3 BHK + Servant Room 1350 Sq.Ft. Builder Floor in JMS The Nation,Builder Floor,Sector 95,14100000.0,3,1350,10444.0
+603,Gurgaon,"Sector 67a, Gurgaon",4S Aradhya Extension,3 BHK + Pooja Room 1490 Sq.Ft. Builder Floor in 4S Aradhya Extension,Builder Floor,Sector 67a,22000000.0,3,1490,14765.0
+604,Gurgaon,"Sector 102, Gurgaon",Emaar Imperial Gardens,3 BHK + Servant Room 2000 Sq.Ft. Apartment in Emaar Imperial Gardens,Apartment,Sector 102,25000000.0,3,2000,12500.0
+605,Gurgaon,"Sector 78, Gurgaon",Grace Resilviaa,3 BHK 1587 Sq.Ft. Builder Floor in Grace Resilviaa,Builder Floor,Sector 78,20591325.0,3,1587,12975.0
+606,Gurgaon,"Sector 56, Gurgaon",Professors Enclave,3.5 BHK + Servant Room 2450 Sq.Ft. Apartment in Professors Enclave,Apartment,Sector 56,28000000.0,5,2450,11429.0
+607,Gurgaon,"Sector 83, Gurgaon",Vatika City Homes,3 BHK + Pooja Room 1740 Sq.Ft. Apartment in Vatika City Homes,Apartment,Sector 83,16500000.0,3,1740,9483.0
+608,Gurgaon,"Badha, Gurgaon",Pyramid Heights,2 BHK 698 Sq.Ft. Apartment in Pyramid Heights,Apartment,Badha,7000000.0,2,698,10029.0
+609,Gurgaon,"Sector 74, Gurgaon",M3M Skywalk,2 BHK 1450 Sq.Ft. Apartment in M3M Skywalk,Apartment,Sector 74,25500000.0,2,1450,17586.0
+610,Gurgaon,"Sector 57, Gurgaon",BPTP Freedom Park Life,3.5 BHK + Servant Room 2293 Sq.Ft. Apartment in BPTP Freedom Park Life,Apartment,Sector 57,34000000.0,5,2293,14828.0
+611,Gurgaon,"Sector 99, Gurgaon",Assotech Blith,4 BHK + Pooja Room 2835 Sq.Ft. Apartment in Assotech Blith,Apartment,Sector 99,28000000.0,4,2835,9877.0
+612,Gurgaon,"Sector 66, Gurgaon",Emaar Marbella,"5 BHK + Servant Room,Extra Room 350 Sq.Ft. Apartment in Emaar Marbella",Apartment,Sector 66,160000000.0,5,350,457143.0
+613,Gurgaon,"Sector 92, Gurgaon",Signature Global City 92,2.5 BHK + Study Room 1200 Sq.Ft. Builder Floor in Signature Global City 92,Builder Floor,Sector 92,10600000.0,5,1200,8833.0
+614,Gurgaon,"Sector 48, Gurgaon",Central Park II-Bellevue,3 BHK + Servant Room 2350 Sq.Ft. Apartment in Central Park II-Bellevue,Apartment,Sector 48,36500000.0,3,2350,15532.0
+615,Gurgaon,"Sector 67, Gurgaon",M3M Merlin,3 BHK + Pooja Room 2377 Sq.Ft. Apartment in M3M Merlin,Apartment,Sector 67,34820000.0,3,2377,14649.0
+616,Gurgaon,"Sector 65, Gurgaon",M3M Sky City,3 BHK + Extra Room 2054 Sq.Ft. Apartment in M3M Sky City,Apartment,Sector 65,40053000.0,3,2054,19500.0
+617,Gurgaon,"South City 2, Gurgaon",Unitech Arcadia,3 BHK + Pooja Room 2000 Sq.Ft. Independent House in Unitech Arcadia,Independent House,South City 2,29000000.0,3,2000,14500.0
+618,Gurgaon,"Sector 63, Gurgaon",Dhoot Time Residency,3 BHK + Servant Room 1717 Sq.Ft. Apartment in Dhoot Time Residency,Apartment,Sector 63,31000000.0,3,1717,18055.0
+619,Gurgaon,"Sector 95a, Gurgaon",Pareena Bellevue Floors,2.5 BHK + Pooja Room 1300 Sq.Ft. Builder Floor in Pareena Bellevue Floors,Builder Floor,Sector 95a,11500000.0,5,1300,8846.0
+620,Gurgaon,"Sector 50, Gurgaon",Unitech Fresco,3 BHK 1629 Sq.Ft. Apartment in Unitech Fresco,Apartment,Sector 50,25000000.0,3,1629,15347.0
+621,Gurgaon,"Sector 109, Gurgaon",ATS Kocoon,3.5 BHK + Servant Room 1745 Sq.Ft. Apartment in ATS Kocoon,Apartment,Sector 109,24500000.0,5,1745,14040.0
+622,Gurgaon,"Sector 70, Gurgaon",Reach 3 Roads,3 BHK + Study Room 1550 Sq.Ft. Builder Floor in Reach 3 Roads,Builder Floor,Sector 70,20000000.0,3,1550,12903.0
+623,Gurgaon,"Sector 102, Gurgaon",Adani M2K Oyster Grande,"4 BHK + Pooja Room,Servant Room,Study Room 3198 Sq.Ft. Apartment in Adani M2K Oyster Grande",Apartment,Sector 102,0.0,4,3198,0.0
+624,Gurgaon,"Sector 109, Gurgaon",Indiabulls One 09,1334 Sq.Ft. Office Space in Indiabulls One 09,Office Space,Sector 109,17500000.0,,1334,13118.0
+625,Gurgaon,"Sector 99, Gurgaon",Assotech Blith,3.5 BHK + Servant Room 2400 Sq.Ft. Apartment in Assotech Blith,Apartment,Sector 99,24000000.0,5,2400,10000.0
+626,Gurgaon,"Sector 61, Gurgaon",Smart World Orchard,3 BHK + Pooja Room 1963 Sq.Ft. Apartment in Smart World Orchard,Apartment,Sector 61,31400000.0,3,1963,15996.0
+627,Gurgaon,"Sector 48, Gurgaon",JMD Megapolis,4200 Sq.Ft. Office Space in JMD Megapolis,Office Space,Sector 48,46200000.0,,4200,11000.0
+628,Gurgaon,"Sector 63a, Gurgaon",Anant Raj Ashok Estate,3 BHK + Pooja Room 1595 Sq.Ft. Builder Floor in Anant Raj Ashok Estate,Builder Floor,Sector 63a,26499970.0,3,1595,16614.0
+629,Noida,"Sector 93a, Noida",Eldeco Utopia,2 BHK 1535 Sq.Ft. Apartment in Eldeco Utopia,Apartment,Sector 93a,23000000.0,2,1535,14984.0
+630,Noida,"Sector 137, Noida",Supertech Ecociti,Studio  455 Sq.Ft. Apartment in Supertech Ecociti,Apartment,Sector 137,4100000.0,,455,9011.0
+631,Noida,"Sector 45, Noida",ABCZ East Sapphire,2 BHK 800 Sq.Ft. Builder Floor in ABCZ East Sapphire,Builder Floor,Sector 45,4200000.0,2,800,5250.0
+632,Noida,"Sector 74, Noida",Supertech North Eye,Studio  535 Sq.Ft. Apartment in Supertech North Eye,Apartment,Sector 74,4600000.0,,535,8598.0
+633,Noida,"Sector 150, Noida",Godrej Palm Retreat,4 BHK 3300 Sq.Ft. Apartment in Godrej Palm Retreat,Apartment,Sector 150,42000000.0,4,3300,12727.0
+634,Noida,"Sector 119, Noida",Amrapali Platinum,5 BHK + Extra Room 3459 Sq.Ft. Apartment in Amrapali Platinum,Apartment,Sector 119,25000000.0,5,3459,7228.0
+635,Noida,"Sector 75, Noida",Aims Golf City,3.5 BHK + Study Room 1550 Sq.Ft. Apartment in Aims Golf City,Apartment,Sector 75,12000000.0,5,1550,7742.0
+636,Noida,"Sector 168, Noida",Sunworld Arista,4 BHK + Servant Room 2740 Sq.Ft. Apartment in Sunworld Arista,Apartment,Sector 168,38400000.0,4,2740,14015.0
+637,Noida,"Sector 119, Noida",Amrapali Platinum,3 BHK + Servant Room 1775 Sq.Ft. Apartment in Amrapali Platinum,Apartment,Sector 119,15500000.0,3,1775,8732.0
+638,Noida,"Sector 104, Noida",Ultima 107,3.5 BHK 1530 Sq.Ft. Apartment in Ultima 107,Apartment,Sector 104,8500000.0,5,1530,5556.0
+639,Noida,"Sector 62, Noida",The Iconic Corenthum,1720 Sq.Ft. Office Space in The Iconic Corenthum,Office Space,Sector 62,32000000.0,,1720,18605.0
+640,Noida,"Sector 74, Noida",Ajnara Grand Heritage,3 BHK 1545 Sq.Ft. Apartment in Ajnara Grand Heritage,Apartment,Sector 74,18500000.0,3,1545,11974.0
+641,Noida,"Sector 124, Noida",Dasnac Yuva,Studio  450 Sq.Ft. Apartment in Dasnac Yuva,Apartment,Sector 124,9900000.0,,450,22000.0
+642,Noida,"Sector 110, Noida",The 3C Lotus Panache,4 BHK + Servant Room 2794 Sq.Ft. Apartment in The 3C Lotus Panache,Apartment,Sector 110,33500000.0,4,2794,11990.0
+643,Noida,"Sector 137, Noida",Ajnara Daffodil,3 BHK 1435 Sq.Ft. Apartment in Ajnara Daffodil,Apartment,Sector 137,17000000.0,3,1435,11847.0
+644,Noida,"Sector 43, Noida",Godrej Woods,3 BHK + Extra Room 2088 Sq.Ft. Apartment in Godrej Woods,Apartment,Sector 43,38000000.0,3,2088,18199.0
+645,Noida,"Sector 137, Noida",Purvanchal Royal Park,4 BHK + Pooja Room 2955 Sq.Ft. Apartment in Purvanchal Royal Park,Apartment,Sector 137,45000000.0,4,2955,15228.0
+646,Noida,"Sector 75, Noida",Gardenia Golf City,3 BHK 1350 Sq.Ft. Apartment in Gardenia Golf City,Apartment,Sector 75,16200000.0,3,1350,12000.0
+647,Noida,"Sector 134, Noida",Jaypee Greens Kosmos,3 BHK + Servant Room 1330 Sq.Ft. Apartment in Jaypee Greens Kosmos,Apartment,Sector 134,11000000.0,3,1330,8271.0
+648,Noida,"Sector 143a Noida, Noida",Sikka Kaamna Greens,4 BHK + Servant Room 2727 Sq.Ft. Apartment in Sikka Kaamna Greens,Apartment,Sector 143a Noida,32000000.0,4,2727,11735.0
+649,Noida,"Sector 70, Noida",DS Homes Noida,2 BHK + Pooja Room 1175 Sq.Ft. Builder Floor in DS Homes Noida,Builder Floor,Sector 70,4100000.0,2,1175,3489.0
+650,Noida,"Sector 79, Noida",Elite Golf Green,3 BHK 983 Sq.Ft. Apartment in Elite Golf Green,Apartment,Sector 79,25000000.0,3,983,25432.0
+651,Noida,"Sector 49, Noida",SAP Homes,2 BHK + Pooja Room 1050 Sq.Ft. Builder Floor in SAP Homes,Builder Floor,Sector 49,3600000.0,2,1050,3429.0
+652,Noida,"Sector 74, Noida",Supertech Cape Town,2 BHK 930 Sq.Ft. Apartment in Supertech Cape Town,Apartment,Sector 74,12000000.0,2,930,12903.0
+653,Noida,"Sector 60, Noida",Royal Towers Noida,3 BHK 1607 Sq.Ft. Apartment in Royal Towers Noida,Apartment,Sector 60,17000000.0,3,1607,10579.0
+654,Noida,"Sector 121, Noida",ABA Cleo County,3 BHK 1827 Sq.Ft. Apartment in ABA Cleo County,Apartment,Sector 121,37500000.0,3,1827,20525.0
+655,Noida,"Sector 28, Noida",Varun Enclave,4 BHK + Extra Room 1550 Sq.Ft. Apartment in Varun Enclave,Apartment,Sector 28,26000000.0,4,1550,16774.0
+656,Noida,"Sector 121, Noida",ABA Cleo County,3 BHK + Study Room 1620 Sq.Ft. Apartment in ABA Cleo County,Apartment,Sector 121,33000000.0,3,1620,20370.0
+657,Noida,"Sector 137, Noida",Exotica Fresco,3 BHK + Pooja Room 1690 Sq.Ft. Apartment in Exotica Fresco,Apartment,Sector 137,24000000.0,3,1690,14201.0
+658,Noida,"Sector 108, Noida",Divine Meadows,2.5 BHK + Servant Room 1436 Sq.Ft. Apartment in Divine Meadows,Apartment,Sector 108,13500000.0,5,1436,9401.0
+659,Noida,"Sector 121, Noida",ABA Cleo County,3 BHK 2070 Sq.Ft. Apartment in ABA Cleo County,Apartment,Sector 121,44000000.0,3,2070,21256.0
+660,Noida,"Sector 121, Noida",Homes 121,3 BHK 1235 Sq.Ft. Apartment in Homes 121,Apartment,Sector 121,12600000.0,3,1235,10202.0
+661,Noida,"Sector 76, Noida",Jm Orchid,2 BHK + Study Room 1147 Sq.Ft. Apartment in Jm Orchid,Apartment,Sector 76,14200000.0,2,1147,12380.0
+662,Noida,"Sector 74, Noida",Supertech Cape Town,2 BHK 930 Sq.Ft. Apartment in Supertech Cape Town,Apartment,Sector 74,9300010.0,2,930,10000.0
+663,Noida,"Sector 76, Noida",Amrapali Crystal Homes,3 BHK 1375 Sq.Ft. Apartment in Amrapali Crystal Homes,Apartment,Sector 76,16000000.0,3,1375,11636.0
+664,Noida,"Sector 151, Noida",Jaypee Greens AMAN II,2 BHK 953 Sq.Ft. Apartment in Jaypee Greens AMAN II,Apartment,Sector 151,6800000.0,2,953,7135.0
+665,Noida,"Sector 75, Noida",ABA Ivy County,4 BHK + Servant Room 2511 Sq.Ft. Apartment in ABA Ivy County,Apartment,Sector 75,47500000.0,4,2511,18917.0
+666,Noida,"Sector 32, Noida",Bhutani Experience,Studio  + Pooja Room 682 Sq.Ft. Apartment in Bhutani Experience,Apartment,Sector 32,0.0,,682,0.0
+667,Noida,"Sector 73, Noida",Sunshine Apartments Sector 73,2 BHK 1350 Sq.Ft. Builder Floor in Sunshine Apartments Sector 73,Builder Floor,Sector 73,5300000.0,2,1350,3926.0
+668,Noida,"Sector 151, Noida",Jaypee Greens Aman,3 BHK 1293 Sq.Ft. Apartment in Jaypee Greens Aman,Apartment,Sector 151,10320000.0,3,1293,7981.0
+669,Noida,"Sector 150, Noida",ATS Le Grandiose,3 BHK 1625 Sq.Ft. Apartment in ATS Le Grandiose,Apartment,Sector 150,19000000.0,3,1625,11692.0
+670,Noida,"Sector 133, Noida",Jaypee Kensington Park Apartments,3 BHK 1515 Sq.Ft. Apartment in Jaypee Kensington Park Apartments,Apartment,Sector 133,13000000.0,3,1515,8581.0
+671,Noida,"Sector 104, Noida",Ultima 107,2 BHK 1095 Sq.Ft. Builder Floor in Ultima 107,Builder Floor,Sector 104,6500000.0,2,1095,5936.0
+672,Noida,"Sector 146, Noida",Dasnac Westminster,"4 BHK + Pooja Room,Servant Room,Study Room,Extra Room 4800 Sq.Ft. Apartment in Dasnac Westminster",Apartment,Sector 146,85000000.0,4,4800,17708.0
+673,Noida,"Sector 75, Noida",JM Aroma,3 BHK 1550 Sq.Ft. Apartment in JM Aroma,Apartment,Sector 75,19500000.0,3,1550,12581.0
+674,Noida,"Sector 150, Noida",Godrej Nurture,2 BHK 1500 Sq.Ft. Apartment in Godrej Nurture,Apartment,Sector 150,30000000.0,2,1500,20000.0
+675,Noida,"Sector 52, Noida",Arawali Apartments,1 BHK 600 Sq.Ft. Apartment in Arawali Apartments,Apartment,Sector 52,5500000.0,1,600,9167.0
+676,Noida,"Sector 75, Noida",Aims Golf City,3.5 BHK + Study Room 1550 Sq.Ft. Apartment in Aims Golf City,Apartment,Sector 75,12400000.0,5,1550,8000.0
+677,Noida,"Sector 134, Noida",Jaypee Green Wish town Klassic,3 BHK 1900 Sq.Ft. Apartment in Jaypee Green Wish town Klassic,Apartment,Sector 134,19000000.0,3,1900,10000.0
+678,Noida,"Sector 78, Noida",Assotech Windsor Court,3.5 BHK + Servant Room 1640 Sq.Ft. Apartment in Assotech Windsor Court,Apartment,Sector 78,14000000.0,5,1640,8537.0
+679,Noida,"Sector 43, Noida",Godrej Woods,3.5 BHK 1545 Sq.Ft. Apartment in Godrej Woods,Apartment,Sector 43,35100000.0,5,1545,22718.0
+680,Noida,"Sector 74, Noida",Ajnara Grand Heritage,2 BHK + Pooja Room 1075 Sq.Ft. Apartment in Ajnara Grand Heritage,Apartment,Sector 74,12000000.0,2,1075,11163.0
+681,Noida,"Sector 104, Noida",Ultima 107,Studio  500 Sq.Ft. Builder Floor in Ultima 107,Builder Floor,Sector 104,1300000.0,,500,2600.0
+682,Noida,"Sector 75, Noida",JM Aroma,3 BHK 1550 Sq.Ft. Apartment in JM Aroma,Apartment,Sector 75,22000000.0,3,1550,14194.0
+683,Noida,"Sector 134, Noida",Jaypee Greens Kosmos,2 BHK + Extra Room 950 Sq.Ft. Apartment in Jaypee Greens Kosmos,Apartment,Sector 134,6800000.0,2,950,7158.0
+684,Noida,"Sector 137, Noida",Paramount Floraville,2 BHK 1240 Sq.Ft. Apartment in Paramount Floraville,Apartment,Sector 137,13500000.0,2,1240,10887.0
+685,Noida,"Sector 50, Noida",Antriksh Overseas Apartment,6+ BHK + Servant Room 7500 Sq.Ft. Penthouse in Antriksh Overseas Apartment,Penthouse,Sector 50,55000000.0,,7500,7333.0
+686,Noida,"Sector 75, Noida",JM Aroma,3 BHK 1550 Sq.Ft. Apartment in JM Aroma,Apartment,Sector 75,20000000.0,3,1550,12903.0
+687,Noida,"Sector 150, Noida",ACE Parkway,3.5 BHK + Servant Room 2190 Sq.Ft. Apartment in ACE Parkway,Apartment,Sector 150,31700000.0,5,2190,14475.0
+688,Noida,"Sector 78, Noida",Nimbus The Hyde park,3 BHK + Extra Room 1320 Sq.Ft. Apartment in Nimbus The Hyde park,Apartment,Sector 78,16000000.0,3,1320,12121.0
+689,Noida,"Sector 76, Noida",Amrapali Crystal Homes,3 BHK 1375 Sq.Ft. Apartment in Amrapali Crystal Homes,Apartment,Sector 76,18000000.0,3,1375,13091.0
+690,Noida,"Sector 144, Noida",Gulshan Botnia,2.5 BHK + Study Room 1160 Sq.Ft. Apartment in Gulshan Botnia,Apartment,Sector 144,18000000.0,5,1160,15517.0
+691,Noida,"Sector 152, Noida",Ace Starlit,2 BHK 804 Sq.Ft. Apartment in Ace Starlit,Apartment,Sector 152,18500000.0,2,804,23010.0
+692,Noida,"Sector 93a, Noida",Parsvnath Prestige,3 BHK 1550 Sq.Ft. Apartment in Parsvnath Prestige,Apartment,Sector 93a,24800000.0,3,1550,16000.0
+693,Noida,"Sector 66, Noida",Roshan Complex,6+ BHK + Extra Room 4500 Sq.Ft. Independent House in Roshan Complex,Independent House,Sector 66,12000000.0,,4500,2667.0
+694,Noida,"Sector 53, Noida",NDA Kanchanjunga Apartments,3 BHK 1150 Sq.Ft. Apartment in NDA Kanchanjunga Apartments,Apartment,Sector 53,11000000.0,3,1150,9565.0
+695,Noida,"Sector 50, Noida",Shubhkamna Advert Apartments,3 BHK + Pooja Room 1550 Sq.Ft. Apartment in Shubhkamna Advert Apartments,Apartment,Sector 50,21500000.0,3,1550,13871.0
+696,Noida,"Sector 119, Noida",Amrapali Platinum,3 BHK 1495 Sq.Ft. Apartment in Amrapali Platinum,Apartment,Sector 119,12500000.0,3,1495,8361.0
+697,Noida,"Sector 107, Noida",Mahagun Medalleo,3 BHK 2500 Sq.Ft. Apartment in Mahagun Medalleo,Apartment,Sector 107,42500000.0,3,2500,17000.0
+698,Noida,"Sector 137, Noida",Gulshan Vivante,4 BHK 2645 Sq.Ft. Apartment in Gulshan Vivante,Apartment,Sector 137,42500000.0,4,2645,16068.0
+699,Noida,"Sector 75, Noida",Panchsheel Pratistha,2 BHK + Extra Room 1310 Sq.Ft. Apartment in Panchsheel Pratistha,Apartment,Sector 75,17700000.0,2,1310,13511.0
+700,Noida,"Sector 93a, Noida",Parsvnath Prestige,3 BHK 1795 Sq.Ft. Apartment in Parsvnath Prestige,Apartment,Sector 93a,23000000.0,3,1795,12813.0
+701,Noida,"Sector 29, Noida",Church View Apartments,3.5 BHK + Extra Room 1800 Sq.Ft. Apartment in Church View Apartments,Apartment,Sector 29,30000000.0,5,1800,16667.0
+702,Noida,"Sector 119, Noida",Amrapali Platinum,3 BHK + Study Room 1495 Sq.Ft. Apartment in Amrapali Platinum,Apartment,Sector 119,12500000.0,3,1495,8361.0
+703,Noida,"Sector 75, Noida",ABA Ivy County,3 BHK + Extra Room 1656 Sq.Ft. Apartment in ABA Ivy County,Apartment,Sector 75,29500000.0,3,1656,17814.0
+704,Noida,"Sector 78, Noida",Aditya Urban Casa,2 BHK + Study Room 1074 Sq.Ft. Apartment in Aditya Urban Casa,Apartment,Sector 78,10500000.0,2,1074,9777.0
+705,Noida,"Sector 150, Noida",ACE Parkway,2 BHK + Pooja Room 1085 Sq.Ft. Apartment in ACE Parkway,Apartment,Sector 150,13000000.0,2,1085,11982.0
+706,Noida,"Sector 74, Noida",Ajnara Grand Heritage,3 BHK 1440 Sq.Ft. Apartment in Ajnara Grand Heritage,Apartment,Sector 74,16000000.0,3,1440,11111.0
+707,Noida,"Sector 53, Noida",DMD Hometech 2,3 BHK 1650 Sq.Ft. Builder Floor in DMD Hometech 2,Builder Floor,Sector 53,7799000.0,3,1650,4727.0
+708,Noida,"Sector 107, Noida",ABA County 107,4 BHK 4482 Sq.Ft. Apartment in ABA County 107,Apartment,Sector 107,115000000.0,4,4482,25658.0
+709,Noida,"Sector 128, Noida",Jaypee Greens Pavilion Court,2 BHK + Extra Room 1350 Sq.Ft. Apartment in Jaypee Greens Pavilion Court,Apartment,Sector 128,11500000.0,2,1350,8519.0
+710,Noida,"Sector 143, Noida",Logix Blossom Zest,1 Rk  470 Sq.Ft. Apartment in Logix Blossom Zest,Apartment,Sector 143,4200000.0,,470,8936.0
+711,Noida,"Sector 134, Noida",Jaypee Wish Town Klassic,3 BHK + Servant Room 1711 Sq.Ft. Apartment in Jaypee Wish Town Klassic,Apartment,Sector 134,16000000.0,3,1711,9351.0
+712,Noida,"Sector 134, Noida",Jaypee Greens Kosmos,3.5 BHK 1356 Sq.Ft. Apartment in Jaypee Greens Kosmos,Apartment,Sector 134,11500000.0,5,1356,8481.0
+713,Noida,"Sector 74, Noida",Supertech Cape Town,3 BHK 1295 Sq.Ft. Apartment in Supertech Cape Town,Apartment,Sector 74,13200000.0,3,1295,10193.0
+714,Noida,"Sector 76, Noida",Sethi Max Royale,2 BHK 940 Sq.Ft. Apartment in Sethi Max Royale,Apartment,Sector 76,10200000.0,2,940,10851.0
+715,Noida,"Sector 129, Noida",Jaypee Kasa Isles,4 BHK + Servant Room 1870 Sq.Ft. Apartment in Jaypee Kasa Isles,Apartment,Sector 129,15000000.0,4,1870,8021.0
+716,Noida,"Sector 153, Noida",Urbtech NPX,1500 Sq.Ft. Office Space in Urbtech NPX,Office Space,Sector 153,12000000.0,,1500,8000.0
+717,Noida,"Sector 140a, Noida",Galaxy Saraswati Vihar,2 BHK 1000 Sq.Ft. Builder Floor in Galaxy Saraswati Vihar,Builder Floor,Sector 140a,2500000.0,2,1000,2500.0
+718,Noida,"Sector 137, Noida",Logix Blossom County,2 BHK 1040 Sq.Ft. Apartment in Logix Blossom County,Apartment,Sector 137,8500000.0,2,1040,8173.0
+719,Noida,"Sector 101, Noida",Radhey Krishna Orchid,Studio  500 Sq.Ft. Builder Floor in Radhey Krishna Orchid,Builder Floor,Sector 101,2600000.0,,500,5200.0
+720,Noida,"Sector 49, Noida",SL Apartments Sector 49,2 BHK 1050 Sq.Ft. Builder Floor in SL Apartments Sector 49,Builder Floor,Sector 49,3600000.0,2,1050,3429.0
+721,Noida,"Sector 150, Noida",Ace Golfshire,2 BHK 1195 Sq.Ft. Apartment in Ace Golfshire,Apartment,Sector 150,14000000.0,2,1195,11715.0
+722,Noida,"Sector 110, Noida",The 3C Lotus Panache,4 BHK 2794 Sq.Ft. Apartment in The 3C Lotus Panache,Apartment,Sector 110,33000000.0,4,2794,11811.0
+723,Noida,"Sector 62, Noida",The Iconic Corenthum,1705 Sq.Ft. Office Space in The Iconic Corenthum,Office Space,Sector 62,28000000.0,,1705,16422.0
+724,Noida,"Sector 74, Noida",Supertech Cape Town,2 BHK + Study Room 1082 Sq.Ft. Apartment in Supertech Cape Town,Apartment,Sector 74,10500000.0,2,1082,9704.0
+725,Noida,"Sector 75, Noida",Gardenia Golf City,"3.5 BHK + Pooja Room,Servant Room,Study Room,Extra Room 1750 Sq.Ft. Apartment in Gardenia Golf City",Apartment,Sector 75,25000000.0,5,1750,14286.0
+726,Noida,"Sector 150, Noida",Tata Value Homes,2 BHK + Extra Room 1100 Sq.Ft. Apartment in Tata Value Homes,Apartment,Sector 150,11800000.0,2,1100,10727.0
+727,Noida,"Sector 79, Noida",Urbtech Hilston,2.5 BHK + Study Room 1310 Sq.Ft. Apartment in Urbtech Hilston,Apartment,Sector 79,12500000.0,5,1310,9542.0
+728,Noida,"Sector 77, Noida",Express Zenith,3.5 BHK + Servant Room 3600 Sq.Ft. Apartment in Express Zenith,Apartment,Sector 77,40000000.0,5,3600,11111.0
+729,Noida,"Sector 76, Noida",Amrapali Silicon City,4 BHK + Study Room 3185 Sq.Ft. Penthouse in Amrapali Silicon City,Penthouse,Sector 76,38000000.0,4,3185,11931.0
+730,Noida,"Sector 150, Noida",ATS Le Grandiose,3.5 BHK + Servant Room 2000 Sq.Ft. Apartment in ATS Le Grandiose,Apartment,Sector 150,22800000.0,5,2000,11400.0
+731,Noida,"Sector 140 Noida, Noida",GYGY Mentis,1000 Sq.Ft. Office Space in GYGY Mentis,Office Space,Sector 140 Noida,8000000.0,,1000,8000.0
+732,Kolkata,"Barrackpore, Kolkata",Rameswara Riverview,2 BHK 610 Sq.Ft. Apartment in Rameswara Riverview,Apartment,Barrackpore,4890000.0,2,610,8016.0
+733,Kolkata,"Rajarhat New Town, Kolkata",Siddha Happyville,3 BHK 1445 Sq.Ft. Apartment in Siddha Happyville,Apartment,Rajarhat New Town,12499000.0,3,1445,8650.0
+734,Kolkata,"Barrackpore, Kolkata",Siddha Water Front,2.5 BHK + Extra Room 960 Sq.Ft. Apartment in Siddha Water Front,Apartment,Barrackpore,0.0,5,960,0.0
+735,Kolkata,"Rajarhat, Kolkata",Siddha Galaxia,3 BHK + Pooja Room 1200 Sq.Ft. Apartment in Siddha Galaxia,Apartment,Rajarhat,11000000.0,3,1200,9167.0
+736,Kolkata,"Kaikhali, Kolkata",Natural Heights 2,3 BHK 1857 Sq.Ft. Apartment in Natural Heights 2,Apartment,Kaikhali,12000000.0,3,1857,6462.0
+737,Kolkata,"Em Bypass, Kolkata",Merlin Skygaze,3 BHK + Extra Room 767 Sq.Ft. Apartment in Merlin Skygaze,Apartment,Em Bypass,7685000.0,3,767,10020.0
+738,Kolkata,"New Town Action Area 1, Kolkata",GLS Ruposi Bangla,3 BHK + Pooja Room 1040 Sq.Ft. Apartment in GLS Ruposi Bangla,Apartment,New Town Action Area 1,11290000.0,3,1040,10856.0
+739,Kolkata,"Bishnupur, Kolkata",Eden Solaris Joka,3 BHK 910 Sq.Ft. Apartment in Eden Solaris Joka,Apartment,Bishnupur,3900000.0,3,910,4286.0
+740,Kolkata,"Purbachal, Kolkata",Eden City Maheshtala,3 BHK 1236 Sq.Ft. Apartment in Eden City Maheshtala,Apartment,Purbachal,3700000.0,3,1236,2994.0
+741,Kolkata,"Beliaghata, Kolkata",Sunrise Towers,3 BHK + Extra Room 1357 Sq.Ft. Apartment in Sunrise Towers,Apartment,Beliaghata,12600000.0,3,1357,9285.0
+742,Kolkata,"Dum Dum, Kolkata",Sulekha Shanti Apartment,3 BHK 1100 Sq.Ft. Apartment in Sulekha Shanti Apartment,Apartment,Dum Dum,3800000.0,3,1100,3455.0
+743,Kolkata,"Alipore, Kolkata",Godrej Platinum,4 BHK + Servant Room 5075 Sq.Ft. Apartment in Godrej Platinum,Apartment,Alipore,135000000.0,4,5075,26601.0
+744,Kolkata,"Mukundapur, Kolkata",Bengal Urban Sabujayan,2 BHK 984 Sq.Ft. Apartment in Bengal Urban Sabujayan,Apartment,Mukundapur,5500000.0,2,984,5589.0
+745,Kolkata,"Chinar Park, Kolkata",Kristi Villa,3 BHK + Extra Room 1200 Sq.Ft. Apartment in Kristi Villa,Apartment,Chinar Park,5800000.0,3,1200,4833.0
+746,Kolkata,"Joka, Kolkata",Godrej Orchard,3 BHK + Extra Room 1052 Sq.Ft. Apartment in Godrej Orchard,Apartment,Joka,5000000.0,3,1052,4753.0
+747,Kolkata,"New Town, Kolkata",Mani Casadona,1530 Sq.Ft. Office Space in Mani Casadona,Office Space,New Town,17000000.0,,1530,11111.0
+748,Kolkata,"Nayabad, Kolkata",Jeet Residency Phase III,3 BHK + Pooja Room 1270 Sq.Ft. Apartment in Jeet Residency Phase III,Apartment,Nayabad,5500000.0,3,1270,4331.0
+749,Kolkata,"Bt Road, Kolkata",Godrej Prakriti,2 BHK 929 Sq.Ft. Apartment in Godrej Prakriti,Apartment,Bt Road,6000000.0,2,929,6459.0
+750,Kolkata,"Barrackpore, Kolkata",Siddha Water Front,2 BHK 803 Sq.Ft. Apartment in Siddha Water Front,Apartment,Barrackpore,3300000.0,2,803,4110.0
+751,Kolkata,"Bablatala, Kolkata",Sunland Residency,2 BHK 950 Sq.Ft. Apartment in Sunland Residency,Apartment,Bablatala,6500000.0,2,950,6842.0
+752,Kolkata,"Bansdroni, Kolkata",Tolly Palace,1.5 BHK 428 Sq.Ft. Apartment in Tolly Palace,Apartment,Bansdroni,2500000.0,5,428,5841.0
+753,Kolkata,"Narayanpur, Kolkata",Swagat Skyline,3 BHK 1024 Sq.Ft. Apartment in Swagat Skyline,Apartment,Narayanpur,4100000.0,3,1024,4004.0
+754,Kolkata,"Lake Town, Kolkata",Purti The Varanda,3 BHK + Pooja Room 1300 Sq.Ft. Apartment in Purti The Varanda,Apartment,Lake Town,7000000.0,3,1300,5385.0
+755,Kolkata,"Rajarhat New Town, Kolkata",Unitech Vistas,3 BHK 1226 Sq.Ft. Apartment in Unitech Vistas,Apartment,Rajarhat New Town,10200000.0,3,1226,8320.0
+756,Kolkata,"Vip Road, Kolkata",Natural Haldiram Enclave,3 BHK 1669 Sq.Ft. Apartment in Natural Haldiram Enclave,Apartment,Vip Road,9512960.0,3,1669,5700.0
+757,Kolkata,"Narendrapur, Kolkata",Unimark Sherwood Estate,2 BHK 1084 Sq.Ft. Apartment in Unimark Sherwood Estate,Apartment,Narendrapur,7000000.0,2,1084,6458.0
+758,Kolkata,"Rajarhat New Town, Kolkata",Shrachi Greenwood Elements,2 BHK 1334 Sq.Ft. Apartment in Shrachi Greenwood Elements,Apartment,Rajarhat New Town,8700000.0,2,1334,6522.0
+759,Kolkata,"New Alipore, Kolkata",Merlin Verve,3 BHK 946 Sq.Ft. Apartment in Merlin Verve,Apartment,New Alipore,12510000.0,3,946,13224.0
+760,Kolkata,"Em Bypass, Kolkata",Mayfair Residency,2 BHK 850 Sq.Ft. Apartment in Mayfair Residency,Apartment,Em Bypass,4760000.0,2,850,5600.0
+761,Kolkata,"Rajpur Chowhati, Kolkata",Deeshari Megacity Phase II,2 BHK + Pooja Room 785 Sq.Ft. Apartment in Deeshari Megacity Phase II,Apartment,Rajpur Chowhati,3000000.0,2,785,3822.0
+762,Kolkata,"B L Saha Road, Kolkata",Godrej Blue,3 BHK 901 Sq.Ft. Apartment in Godrej Blue,Apartment,B L Saha Road,24000000.0,3,901,26637.0
+763,Kolkata,"Dum Dum, Kolkata",Unimark Kendriya Vihar,2 BHK 900 Sq.Ft. Apartment in Unimark Kendriya Vihar,Apartment,Dum Dum,5500000.0,2,900,6111.0
+764,Kolkata,"Rajarhat, Kolkata",Anik One Rajarhat,4 BHK + Servant Room 3029 Sq.Ft. Apartment in Anik One Rajarhat,Apartment,Rajarhat,45500000.0,4,3029,15021.0
+765,Kolkata,"Keshtopur, Kolkata",Asha Nirman,2 BHK 1050 Sq.Ft. Apartment in Asha Nirman,Apartment,Keshtopur,4200000.0,2,1050,4000.0
+766,Kolkata,"Salt Lake Sector V, Kolkata",PS Srijan Corporate Park,1839 Sq.Ft. Office Space in PS Srijan Corporate Park,Office Space,Salt Lake Sector V,32500000.0,,1839,17673.0
+767,Kolkata,"Park Street, Kolkata",Wellside Camac,690 Sq.Ft. Office Space in Wellside Camac,Office Space,Park Street,9500000.0,,690,13768.0
+768,Kolkata,"Narendrapur, Kolkata",Rupayan Su Casa Twins,3 BHK 999 Sq.Ft. Apartment in Rupayan Su Casa Twins,Apartment,Narendrapur,3100000.0,3,999,3103.0
+769,Kolkata,"Beliaghata, Kolkata",Sunrise Towers,3 BHK 1357 Sq.Ft. Apartment in Sunrise Towers,Apartment,Beliaghata,13000000.0,3,1357,9580.0
+770,Kolkata,"New Town, Kolkata",The Ecos,2 BHK 1000 Sq.Ft. Apartment in The Ecos,Apartment,New Town,5600000.0,2,1000,5600.0
+771,Kolkata,"New Town Action Area ii, Kolkata",Ambuja Ecospace Residencia,3 BHK 816 Sq.Ft. Apartment in Ambuja Ecospace Residencia,Apartment,New Town Action Area ii,6800000.0,3,816,8333.0
+772,Kolkata,"Rajarhat, Kolkata",Vedic Village,3 BHK + Study Room 7200 Sq.Ft. Independent House in Vedic Village,Independent House,Rajarhat,16500000.0,3,7200,2292.0
+773,Kolkata,"Rajarhat Chowmatha, Kolkata",Srijan Optima,3 BHK 1699 Sq.Ft. Apartment in Srijan Optima,Apartment,Rajarhat Chowmatha,13600000.0,3,1699,8005.0
+774,Kolkata,"Dakshin Gobindopur, Kolkata",Sureka Sunrise Aura,2 BHK + Extra Room 677 Sq.Ft. Apartment in Sureka Sunrise Aura,Apartment,Dakshin Gobindopur,4650000.0,2,677,6869.0
+775,Kolkata,"Maheshtala, Kolkata",Hiland Greens,3 BHK + Pooja Room 1060 Sq.Ft. Apartment in Hiland Greens,Apartment,Maheshtala,4300000.0,3,1060,4057.0
+776,Kolkata,"Behala, Kolkata",Diamond Residency,2 BHK 980 Sq.Ft. Apartment in Diamond Residency,Apartment,Behala,4600000.0,2,980,4694.0
+777,Kolkata,"Chingrighata, Kolkata",Ideal Niketan,3 BHK 1450 Sq.Ft. Apartment in Ideal Niketan,Apartment,Chingrighata,9500000.0,3,1450,6552.0
+778,Kolkata,"Rajarhat, Kolkata",Raj Apartment Rajarhat,2 BHK 980 Sq.Ft. Apartment in Raj Apartment Rajarhat,Apartment,Rajarhat,3200000.0,2,980,3265.0
+779,Kolkata,"New Town, Kolkata",Tata Avenida,3 BHK + Servant Room 1635 Sq.Ft. Apartment in Tata Avenida,Apartment,New Town,34000000.0,3,1635,20795.0
+780,Kolkata,"Bablatala, Kolkata",Mukul Shanti Garden,2 BHK 1158 Sq.Ft. Apartment in Mukul Shanti Garden,Apartment,Bablatala,5700000.0,2,1158,4922.0
+781,Kolkata,"Barrackpore, Kolkata",Riya Gitanjali,3 BHK + Study Room 1159 Sq.Ft. Apartment in Riya Gitanjali,Apartment,Barrackpore,4000000.0,3,1159,3451.0
+782,Kolkata,"Kalighat, Kolkata",Amrapali Ananda Dham,2 BHK 1100 Sq.Ft. Apartment in Amrapali Ananda Dham,Apartment,Kalighat,9500000.0,2,1100,8636.0
+783,Kolkata,"Rajarhat New Town, Kolkata",Unitech Vistas,3 BHK 1226 Sq.Ft. Apartment in Unitech Vistas,Apartment,Rajarhat New Town,10050000.0,3,1226,8197.0
+784,Kolkata,"Rajarhat New Town, Kolkata",Rishi Pranaya Phase I,3 BHK 1185 Sq.Ft. Apartment in Rishi Pranaya Phase I,Apartment,Rajarhat New Town,11200000.0,3,1185,9451.0
+785,Kolkata,"Beliaghata, Kolkata",Sunrise Towers,3 BHK 1357 Sq.Ft. Apartment in Sunrise Towers,Apartment,Beliaghata,12000000.0,3,1357,8843.0
+786,Kolkata,"Alipore, Kolkata",Tata 88 East,6 BHK 3400 Sq.Ft. Apartment in Tata 88 East,Apartment,Alipore,77000000.0,6,3400,22647.0
+787,Kolkata,"New Alipore, Kolkata",Merlin Verve,3 BHK 945 Sq.Ft. Apartment in Merlin Verve,Apartment,New Alipore,12600000.0,3,945,13333.0
+788,Kolkata,"Rajarhat, Kolkata",Jain Dream Excellency,3 BHK + Servant Room 1440 Sq.Ft. Apartment in Jain Dream Excellency,Apartment,Rajarhat,9100000.0,3,1440,6319.0
+789,Kolkata,"Beliaghata, Kolkata",Sunrise Towers,3 BHK 1357 Sq.Ft. Apartment in Sunrise Towers,Apartment,Beliaghata,12000000.0,3,1357,8843.0
+790,Kolkata,"Vip Road, Kolkata",Natural Haldiram Enclave,3 BHK 1669 Sq.Ft. Apartment in Natural Haldiram Enclave,Apartment,Vip Road,9530840.0,3,1669,5711.0
+791,Kolkata,"New Town Action Area ii, Kolkata",Ambuja Ecospace Residencia,3 BHK 815 Sq.Ft. Apartment in Ambuja Ecospace Residencia,Apartment,New Town Action Area ii,6800000.0,3,815,8344.0
+792,Kolkata,"Lake Town, Kolkata",Silver Gardenia Lake Town,3 BHK + Pooja Room 1200 Sq.Ft. Apartment in Silver Gardenia Lake Town,Apartment,Lake Town,8100000.0,3,1200,6750.0
+793,Kolkata,"Keshtopur, Kolkata",Asha Nirman,2 BHK + Pooja Room 1050 Sq.Ft. Apartment in Asha Nirman,Apartment,Keshtopur,4200000.0,2,1050,4000.0
+794,Kolkata,"Barrackpore, Kolkata",Rameswara Riverview,3 BHK 830 Sq.Ft. Apartment in Rameswara Riverview,Apartment,Barrackpore,5950000.0,3,830,7169.0
+795,Kolkata,"Sonarpur, Kolkata",Deeshari Megacity,2 BHK + Extra Room 861 Sq.Ft. Apartment in Deeshari Megacity,Apartment,Sonarpur,3000000.0,2,861,3484.0
+796,Kolkata,"Joka, Kolkata",Godrej Orchard,2 BHK + Extra Room 942 Sq.Ft. Apartment in Godrej Orchard,Apartment,Joka,4750000.0,2,942,5042.0
+797,Ahmedabad,"Bopal, Ahmedabad",Applewood Sorrel,3 BHK 1880 Sq.Ft. Apartment in Applewood Sorrel,Apartment,Bopal,7500000.0,3,1880,3989.0
+798,Ahmedabad,"Shela, Ahmedabad",Shilp Revanta,3 BHK 1510 Sq.Ft. Apartment in Shilp Revanta,Apartment,Shela,6750003.0,3,1510,4470.0
+799,Ahmedabad,"Shela, Ahmedabad",Goyal Orchid Blues,2 BHK 1069 Sq.Ft. Apartment in Goyal Orchid Blues,Apartment,Shela,5500000.0,2,1069,5145.0
+800,Ahmedabad,"Randesan, Ahmedabad",Keshav Elitus,"3 BHK + Pooja Room,Study Room,Extra Room 2160 Sq.Ft. Builder Floor in Keshav Elitus",Builder Floor,Randesan,9600000.0,3,2160,4444.0
+801,Ahmedabad,"Jagatpur, Ahmedabad",Krishna Heights Jagatpur,3 BHK + Study Room 1720 Sq.Ft. Apartment in Krishna Heights Jagatpur,Apartment,Jagatpur,7405000.0,3,1720,4305.0
+802,Ahmedabad,"Shela, Ahmedabad",Goyal Riviera Aspire,3 BHK + Study Room 2740 Sq.Ft. Apartment in Goyal Riviera Aspire,Apartment,Shela,18500000.0,3,2740,6752.0
+803,Ahmedabad,"Nava Naroda, Ahmedabad",Shri Balaji Enclave,2 BHK + Pooja Room 1325 Sq.Ft. Apartment in Shri Balaji Enclave,Apartment,Nava Naroda,4300000.0,2,1325,3245.0
+804,Ahmedabad,"Bodakdev, Ahmedabad",Constera Anamika High Point,"4 BHK + Pooja Room,Extra Room 1767 Sq.Ft. Apartment in Constera Anamika High Point",Apartment,Bodakdev,28800000.0,4,1767,16299.0
+805,Ahmedabad,"Juhapura, Ahmedabad",Venus Parkland,2 BHK 1215 Sq.Ft. Apartment in Venus Parkland,Apartment,Juhapura,6300000.0,2,1215,5185.0
+806,Ahmedabad,"Bodakdev, Ahmedabad",Constera Anamika High Point,"4 BHK + Pooja Room,Servant Room 2265 Sq.Ft. Apartment in Constera Anamika High Point",Apartment,Bodakdev,37000000.0,4,2265,16336.0
+807,Ahmedabad,"Bodakdev, Ahmedabad",Constera Anamika High Point,"4 BHK + Pooja Room,Servant Room,Study Room,Extra Room 1767 Sq.Ft. Apartment in Constera Anamika High Point",Apartment,Bodakdev,28800000.0,4,1767,16299.0
+808,Ahmedabad,"Sola, Ahmedabad",Unique Luxuria Ahmedabad,3 BHK 2520 Sq.Ft. Apartment in Unique Luxuria Ahmedabad,Apartment,Sola,15600000.0,3,2520,6190.0
+809,Ahmedabad,"Nava Naroda, Ahmedabad",Govardhan Galaxy,2 BHK 945 Sq.Ft. Apartment in Govardhan Galaxy,Apartment,Nava Naroda,4500000.0,2,945,4762.0
+810,Ahmedabad,"Bopal, Ahmedabad",Applewood Sorrel,2 BHK 1285 Sq.Ft. Apartment in Applewood Sorrel,Apartment,Bopal,5100000.0,2,1285,3969.0
+811,Ahmedabad,"Vasna, Ahmedabad",Dharmadev Swaminarayan Park 3,2 BHK 700 Sq.Ft. Apartment in Dharmadev Swaminarayan Park 3,Apartment,Vasna,5300000.0,2,700,7571.0
+812,Ahmedabad,"Bopal, Ahmedabad",Shivalik Satyamev,746 Sq.Ft. Office Space in Shivalik Satyamev,Office Space,Bopal,6000000.0,,746,8043.0
+813,Ahmedabad,"Paldi, Ahmedabad",Yash Pinnacle,2 BHK 1116 Sq.Ft. Apartment in Yash Pinnacle,Apartment,Paldi,6100000.0,2,1116,5466.0
+814,Ahmedabad,"Makarba, Ahmedabad",Sammet Platinum,3 BHK 1250 Sq.Ft. Apartment in Sammet Platinum,Apartment,Makarba,9000000.0,3,1250,7200.0
+815,Ahmedabad,"Narolgam, Ahmedabad",Dharmadev Swaminarayan Park 1,2 BHK 900 Sq.Ft. Apartment in Dharmadev Swaminarayan Park 1,Apartment,Narolgam,2200000.0,2,900,2444.0
+816,Ahmedabad,"Near Vaishno Devi Circle On Sg Highway, Ahmedabad",Adani Shantigram Aangan,2 BHK + Extra Room 818 Sq.Ft. Apartment in Adani Shantigram Aangan,Apartment,Near Vaishno Devi Circle On Sg Highway,5500000.0,2,818,6724.0
+817,Ahmedabad,"Ambli, Ahmedabad",Madhav Oeuvre 3,"5 BHK + Pooja Room,Servant Room 5887 Sq.Ft. Apartment in Madhav Oeuvre 3",Apartment,Ambli,56000000.0,5,5887,9512.0
+818,Ahmedabad,"Gota, Ahmedabad",ICB Flora,2 BHK + Pooja Room 1170 Sq.Ft. Apartment in ICB Flora,Apartment,Gota,6300000.0,2,1170,5385.0
+819,Ahmedabad,"New Maninagar, Ahmedabad",Mairaa Allied 14,1700 Sq.Ft. Office Space in Mairaa Allied 14,Office Space,New Maninagar,20400000.0,,1700,12000.0
+820,Ahmedabad,"Near Vaishno Devi Circle On Sg Highway, Ahmedabad",Keshar Aalayam,3 BHK + Extra Room 1552 Sq.Ft. Apartment in Keshar Aalayam,Apartment,Near Vaishno Devi Circle On Sg Highway,9000000.0,3,1552,5799.0
+821,Ahmedabad,"Gota, Ahmedabad",Aaryan City,3 BHK 1890 Sq.Ft. Apartment in Aaryan City,Apartment,Gota,13000000.0,3,1890,6878.0
+822,Ahmedabad,"Bopal, Ahmedabad",JP Iscon Platinum,3 BHK 2285 Sq.Ft. Apartment in JP Iscon Platinum,Apartment,Bopal,14000000.0,3,2285,6127.0
+823,Ahmedabad,"Thaltej, Ahmedabad",Shakti 140,2 BHK 1260 Sq.Ft. Apartment in Shakti 140,Apartment,Thaltej,8000000.0,2,1260,6349.0
+824,Ahmedabad,"Ambli, Ahmedabad",Satyamev Luxor,2622 Sq.Ft. Office Space in Satyamev Luxor,Office Space,Ambli,20000000.0,,2622,7628.0
+825,Ahmedabad,"Shilaj, Ahmedabad",Shilp Serene,3 BHK + Study Room 1750 Sq.Ft. Apartment in Shilp Serene,Apartment,Shilaj,10100000.0,3,1750,5771.0
+826,Ahmedabad,"Bodakdev, Ahmedabad",Constera Anamika High Point,"4 BHK + Pooja Room,Servant Room,Study Room,Extra Room 2269 Sq.Ft. Apartment in Constera Anamika High Point",Apartment,Bodakdev,36500000.0,4,2269,16086.0
+827,Ahmedabad,"Mithakhali, Ahmedabad",Aarmor Aaradhya Elegance,"4 BHK + Pooja Room,Servant Room 3765 Sq.Ft. Apartment in Aarmor Aaradhya Elegance",Apartment,Mithakhali,30120000.0,4,3765,8000.0
+828,Ahmedabad,"Jagatpur, Ahmedabad",Krishna Heights Jagatpur,3 BHK + Study Room 1710 Sq.Ft. Apartment in Krishna Heights Jagatpur,Apartment,Jagatpur,7400000.0,3,1710,4327.0
+829,Ahmedabad,"Vasna, Ahmedabad",Rajyash Reevanta,2 BHK + Pooja Room 675 Sq.Ft. Apartment in Rajyash Reevanta,Apartment,Vasna,5500000.0,2,675,8148.0
+830,Ahmedabad,"Gota, Ahmedabad",Aaryan City,3 BHK 1890 Sq.Ft. Apartment in Aaryan City,Apartment,Gota,13000000.0,3,1890,6878.0
+831,Ahmedabad,"Gota, Ahmedabad",Avirat Silver Radiance 4,1445 Sq.Ft. Office Space in Avirat Silver Radiance 4,Office Space,Gota,10837500.0,,1445,7500.0
+832,Ahmedabad,"Naranpura, Ahmedabad",Deep Indraprasth Saptak,"4 BHK + Pooja Room,Study Room 3120 Sq.Ft. Apartment in Deep Indraprasth Saptak",Apartment,Naranpura,25000000.0,4,3120,8013.0
+833,Ahmedabad,"Chandkheda, Ahmedabad",Rudra Keshav Skyline,"3 BHK + Pooja Room,Study Room 1620 Sq.Ft. Apartment in Rudra Keshav Skyline",Apartment,Chandkheda,9000000.0,3,1620,5556.0
+834,Ahmedabad,"Makarba, Ahmedabad",Shree Radha Jaldeep Icon,1.5 BHK 746 Sq.Ft. Apartment in Shree Radha Jaldeep Icon,Apartment,Makarba,5200000.0,5,746,6971.0
+835,Ahmedabad,"Sola, Ahmedabad",Aurum Sky,2 BHK + Pooja Room 1224 Sq.Ft. Apartment in Aurum Sky,Apartment,Sola,8000000.0,2,1224,6536.0
+836,Ahmedabad,"Vasna, Ahmedabad",Trilokesh Riverside Park,2 BHK + Servant Room 650 Sq.Ft. Apartment in Trilokesh Riverside Park,Apartment,Vasna,4800000.0,2,650,7385.0
+837,Jaipur,"Paldi Parsa, Jaipur",Premier Arise,1 BHK 610 Sq.Ft. Apartment in Premier Arise,Apartment,Paldi Parsa,2745000.0,1,610,4500.0
+838,Jaipur,"New Sanganer Road, Jaipur",Sun N Moon Belvedere Park,3 BHK + Pooja Room 3583 Sq.Ft. Penthouse in Sun N Moon Belvedere Park,Penthouse,New Sanganer Road,29500000.0,3,3583,8233.0
+839,Jaipur,"Mohanpura, Jaipur",Unique Sapphire,2.5 BHK + Extra Room 1170 Sq.Ft. Apartment in Unique Sapphire,Apartment,Mohanpura,4500000.0,5,1170,3846.0
+840,Jaipur,"Jagatpura, Jaipur",Sankalp 24 Carat,3 BHK + Pooja Room 1044 Sq.Ft. Apartment in Sankalp 24 Carat,Apartment,Jagatpura,8000000.0,3,1044,7663.0
+841,Jaipur,"Vardhman Nagar, Jaipur",Vardhaman Alora,3 BHK + Extra Room 1580 Sq.Ft. Apartment in Vardhaman Alora,Apartment,Vardhman Nagar,10274000.0,3,1580,6503.0
+842,Jaipur,"Muhana, Jaipur",SSBC Prangan,2 BHK 573 Sq.Ft. Apartment in SSBC Prangan,Apartment,Muhana,2200000.0,2,573,3839.0
+843,Jaipur,"Tonk Road, Jaipur",Mahima Sansaar,3 BHK 1190 Sq.Ft. Apartment in Mahima Sansaar,Apartment,Tonk Road,5800000.0,3,1190,4874.0
+844,Jaipur,"Manyawas, Jaipur",Balaji Urban Prime,3 BHK + Servant Room 1680 Sq.Ft. Apartment in Balaji Urban Prime,Apartment,Manyawas,8900000.0,3,1680,5298.0
+845,Jaipur,"Malviya Nagar, Jaipur",Nand Residency,3 BHK 1500 Sq.Ft. Apartment in Nand Residency,Apartment,Malviya Nagar,6200000.0,3,1500,4133.0
+846,Jaipur,"Jagatpura, Jaipur",Trimurty Ariana Phase:II,3.5 BHK + Servant Room 2176 Sq.Ft. Apartment in Trimurty Ariana Phase:II,Apartment,Jagatpura,16800000.0,5,2176,7721.0
+847,Jaipur,"Jeerota, Jaipur",Redwood Magnus,1 BHK 475 Sq.Ft. Apartment in Redwood Magnus,Apartment,Jeerota,3500000.0,1,475,7368.0
+848,Jaipur,"Kalwara, Jaipur",Galaxy Enclave Kalwara,4 BHK + Servant Room 2455 Sq.Ft. Apartment in Galaxy Enclave Kalwara,Apartment,Kalwara,27004500.0,4,2455,11000.0
+849,Jaipur,"Dholai, Jaipur",Reliant Floresta,3 BHK 1611 Sq.Ft. Apartment in Reliant Floresta,Apartment,Dholai,9263250.0,3,1611,5750.0
+850,Jaipur,"Jaisinghpura, Jaipur",Govindam Jaisinghpura,3 BHK 730 Sq.Ft. Apartment in Govindam Jaisinghpura,Apartment,Jaisinghpura,3000000.0,3,730,4110.0
+851,Jaipur,"Meenawala, Jaipur",Hanumant Raghunandan Heights,3 BHK 1200 Sq.Ft. Apartment in Hanumant Raghunandan Heights,Apartment,Meenawala,3700000.0,3,1200,3083.0
+852,Jaipur,"Jagatpura, Jaipur",VN Exclusive 444,3 BHK 1480 Sq.Ft. Apartment in VN Exclusive 444,Apartment,Jagatpura,7696001.0,3,1480,5200.0
+853,Jaipur,"Paldi Parsa, Jaipur",Premier Arise,Studio  466 Sq.Ft. Apartment in Premier Arise,Apartment,Paldi Parsa,2097000.0,,466,4500.0
+854,Jaipur,"Mohanpura, Jaipur",Ravi Kiran Vihar,4 BHK + Extra Room 792 Sq.Ft. Villa in Ravi Kiran Vihar,Villa,Mohanpura,10500000.0,4,792,13258.0
+855,Jaipur,"C-Scheme, Jaipur",Om Pallacia,3 BHK + Pooja Room 2200 Sq.Ft. Apartment in Om Pallacia,Apartment,C-Scheme,39600000.0,3,2200,18000.0
+856,Jaipur,"Vaishali Nagar, Jaipur",Kediaz Corporate Club,1 BHK 650 Sq.Ft. Apartment in Kediaz Corporate Club,Apartment,Vaishali Nagar,2250000.0,1,650,3462.0
+857,Jaipur,"Jagatpura, Jaipur",Sarthak Paradise,3 BHK 1500 Sq.Ft. Apartment in Sarthak Paradise,Apartment,Jagatpura,5500000.0,3,1500,3667.0
+858,Jaipur,"Shri Kishanpura, Jaipur",Mahal Niwas,3 BHK 1395 Sq.Ft. Apartment in Mahal Niwas,Apartment,Shri Kishanpura,5900000.0,3,1395,4229.0
+859,Jaipur,"Karolan Ka Barh, Jaipur",Kalyan Eva,4 BHK + Pooja Room 1600 Sq.Ft. Apartment in Kalyan Eva,Apartment,Karolan Ka Barh,8000000.0,4,1600,5000.0
+860,Jaipur,"Bhankrota, Jaipur",The Century Elite,2 BHK 947 Sq.Ft. Apartment in The Century Elite,Apartment,Bhankrota,4700000.0,2,947,4963.0
+861,Jaipur,"Jagatpura, Jaipur",VN Exclusive 444,2 BHK 1010 Sq.Ft. Apartment in VN Exclusive 444,Apartment,Jagatpura,5252001.0,2,1010,5200.0
+862,Jaipur,"Bani Park, Jaipur",ARG Maharaja Apartment,2 BHK 1150 Sq.Ft. Apartment in ARG Maharaja Apartment,Apartment,Bani Park,7800000.0,2,1150,6783.0
+863,Jaipur,"Ramnagariya, Jaipur",Okay Plus Solitaire Suites,Studio  403 Sq.Ft. Apartment in Okay Plus Solitaire Suites,Apartment,Ramnagariya,2700000.0,,403,6700.0
+864,Jaipur,"Paldi Parsa, Jaipur",Premier Arise,Studio  466 Sq.Ft. Apartment in Premier Arise,Apartment,Paldi Parsa,2097000.0,,466,4500.0
+865,Jaipur,"Kankha Ki Dhani, Jaipur",Dhanuka Sunshine Prime,2 BHK 1045 Sq.Ft. Apartment in Dhanuka Sunshine Prime,Apartment,Kankha Ki Dhani,0.0,2,1045,0.0
+866,Surat,"New City Light, Surat",SU Crimson Palace,"4 BHK + Pooja Room,Servant Room 3520 Sq.Ft. Apartment in SU Crimson Palace",Apartment,New City Light,23500000.0,4,3520,6676.0
+867,Surat,"Dumas Road, Surat",Avadh Onella,4 BHK + Study Room 7585 Sq.Ft. Apartment in Avadh Onella,Apartment,Dumas Road,12000000.0,4,7585,1582.0
+868,Surat,"Bamroli, Surat",Sai Citron Residency,3 BHK 1569 Sq.Ft. Apartment in Sai Citron Residency,Apartment,Bamroli,9400000.0,3,1569,5991.0
+869,Indore,"Anand Nagar, Indore",AGG Anand Valley,"3 BHK + Servant Room,Study Room 1200 Sq.Ft. Apartment in AGG Anand Valley",Apartment,Anand Nagar,6000000.0,3,1200,5000.0
+870,Nagpur,"Ganeshpeth Colony, Nagpur",Godrej Anandam,3 BHK 1550 Sq.Ft. Apartment in Godrej Anandam,Apartment,Ganeshpeth Colony,14500000.0,3,1550,9355.0
+871,Nagpur,"Besa, Nagpur",Asha Kusum Apartments,2 BHK 650 Sq.Ft. Apartment in Asha Kusum Apartments,Apartment,Besa,6500000.0,2,650,10000.0
+872,Nagpur,"Manish Nagar, Nagpur",Atharva Apartments Nagpur,"3 BHK + Servant Room,Study Room 1300 Sq.Ft. Apartment in Atharva Apartments Nagpur",Apartment,Manish Nagar,8000000.0,3,1300,6154.0
+873,Nagpur,"Dobi Nagar, Nagpur",Gokul Apartments Nagpur,"3 BHK + Servant Room,Study Room 1200 Sq.Ft. Apartment in Gokul Apartments Nagpur",Apartment,Dobi Nagar,8000000.0,3,1200,6667.0
+874,Nagpur,"Beltarodi, Nagpur",Mahalaxmi Tattva Apas,3 BHK 1633 Sq.Ft. Apartment in Mahalaxmi Tattva Apas,Apartment,Beltarodi,7350000.0,3,1633,4501.0
+875,Nagpur,"Besa, Nagpur",Asha Kusum Apartments,2 BHK 670 Sq.Ft. Apartment in Asha Kusum Apartments,Apartment,Besa,6700000.0,2,670,10000.0
+876,Nagpur,"Beltarodi, Nagpur",Mahalaxmi Tattva Apas,3 BHK + Pooja Room 1530 Sq.Ft. Apartment in Mahalaxmi Tattva Apas,Apartment,Beltarodi,5500000.0,3,1530,3595.0
+877,Nagpur,"Manish Nagar, Nagpur",Shivani Enclave,3 BHK + Pooja Room 2000 Sq.Ft. Apartment in Shivani Enclave,Apartment,Manish Nagar,9500000.0,3,2000,4750.0
+878,Nagpur,"Besa, Nagpur",Asha Kusum Apartments,2 BHK 660 Sq.Ft. Apartment in Asha Kusum Apartments,Apartment,Besa,6600000.0,2,660,10000.0
+879,Nagpur,"Beltarodi, Nagpur",Mahalaxmi Tattva Apas,2 BHK + Pooja Room 1138 Sq.Ft. Apartment in Mahalaxmi Tattva Apas,Apartment,Beltarodi,4631000.0,2,1138,4069.0
+880,Coimbatore,"Madukkarai, Coimbatore",RR Oak Tree,"2 BHK + Pooja Room,Servant Room,Study Room 1200 Sq.Ft. Independent House in RR Oak Tree",Independent House,Madukkarai,4200000.0,2,1200,3500.0
+881,Coimbatore,"Thudiyalur, Coimbatore",VVM GJV Anugrakha Enclave,2 BHK 700 Sq.Ft. Independent House in VVM GJV Anugrakha Enclave,Independent House,Thudiyalur,3500000.0,2,700,5000.0
+882,Coimbatore,"Thudiyalur, Coimbatore",VS Avenue,"2 BHK + Pooja Room,Servant Room,Extra Room 1200 Sq.Ft. Independent House in VS Avenue",Independent House,Thudiyalur,3200000.0,2,1200,2667.0
+883,Coimbatore,"Thudiyalur, Coimbatore",VVM GJV Anugrakha Enclave,4 BHK + Study Room 1200 Sq.Ft. Villa in VVM GJV Anugrakha Enclave,Villa,Thudiyalur,7000000.0,4,1200,5833.0
+884,Coimbatore,"Saravanampatti, Coimbatore",RR Swara,"2 BHK + Pooja Room,Servant Room,Study Room 1200 Sq.Ft. Independent House in RR Swara",Independent House,Saravanampatti,4080000.0,2,1200,3400.0
+885,Coimbatore,"Thudiyalur, Coimbatore",VS Avenue,3 BHK 1400 Sq.Ft. Villa in VS Avenue,Villa,Thudiyalur,7000000.0,3,1400,5000.0
+886,Coimbatore,"Thudiyalur, Coimbatore",VS Avenue,2 BHK + Extra Room 700 Sq.Ft. Villa in VS Avenue,Villa,Thudiyalur,4500000.0,2,700,6429.0
